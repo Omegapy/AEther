@@ -52,20 +52,38 @@ Its purpose is:
 - to explain weak-field gravity, redshift, frame dragging, tidal structure, and local SR through the same kinematic decomposition
 - to deepen the interpretation of exact GR / SR without altering the effective relativistic law
 
-## 5. Open Derivational Work
+## 5. Substrate-Kinematics Manuscript
+
+The active line now also includes the substrate-kinematics / derivational-bridge manuscript.
+
+Its purpose is:
+
+- to define explicit substrate variables for the bridge step
+- to define the local experiential projector and Lorentzian bridge metric
+- to define the observer map from substrate structure to the effective relativistic metric sector
+- to state what a successful derivation would have to recover in order to match exact closure
+
+Its claim boundary is strict:
+
+- it is a kinematic bridge, not a completed Einstein derivation
+- it does not yet establish a surviving non-GR low-energy sector
+- it remains answerable to the exact-closure benchmark already fixed in the active sequence
+
+## 6. Open Derivational Work
 
 The following remain open:
 
-- a first-principles substrate derivation of the GR sector
-- a completed microphysical specification of the substrate variables
-- a closed substrate action recovering the exact relativistic line
-- a full derivational bridge from ontology to effective metric dynamics
+- a completed substrate action recovering the exact relativistic line
+- a full matter-coupling route from the substrate variables to universal effective metric coupling
+- a controlled mode analysis showing that no extra low-energy preferred-frame sector survives in the active theory
+- a first-principles derivation of the Einsteinian metric dynamics from the bridge variables
+- a full proof that the bridge closes onto the exact relativistic line rather than a deformation of it
 
-The central missing piece is therefore not another GR / SR recovery statement. It is the deeper bridge from ontology to explicit substrate kinematics and derivation. If the project advances beyond the present exact-closure line, the next substantive research manuscript should be a substrate-kinematics / derivational-bridge paper.
+The central missing piece is therefore no longer the absence of a bridge manuscript. The bridge manuscript now exists. The next research burden is to turn that kinematic bridge into a concrete substrate dynamics that either recovers exact closure or fails against it.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
-## 6. Manuscript-Safe Claim Set
+## 7. Manuscript-Safe Claim Set
 
 The following claims are safe in the active sequence:
 
@@ -73,8 +91,9 @@ The following claims are safe in the active sequence:
 - the ontology is sharper than the derivation
 - GR is adopted exactly in the active theory line
 - flow geometry is an interpretive deepening of the exact relativistic line, not a change of low-energy law
+- the substrate-kinematics manuscript provides an explicit bridge architecture without claiming completed Einsteinian derivation
 
-## 7. Claims To Avoid
+## 8. Claims To Avoid
 
 The following statements should not appear in the active manuscripts:
 

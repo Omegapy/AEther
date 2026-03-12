@@ -62,6 +62,7 @@ The active root sequence now exists in:
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex)
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex)
+- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex)
 
 The operative public theory line is `The Æther-Flow Interpretation of Relativity`.
 
@@ -69,7 +70,7 @@ The operative public theory line is `The Æther-Flow Interpretation of Relativit
 
 The source rename and prose-consolidation pass are now complete. The active sequence now shares one opening framework paragraph, one claim-boundary vocabulary, and one public theory name.
 
-What the project still lacks is the deeper bridge from ontology to explicit substrate kinematics and derivation. That means the next substantive research step, if the project is to advance beyond the current exact-closure line, is not another GR / SR recovery paper. It is a substrate-kinematics / derivational-bridge manuscript.
+The repository now includes that next bridge manuscript in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex). The next substantive research step is therefore narrower: sharpen the kinematic bridge into an explicit candidate substrate dynamics with controlled emergence, matter coupling, and mode control that can be judged against exact closure.
 
 The only near-term non-research issue still open is the narrower editorial one already recorded in [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md):
 

@@ -10,19 +10,32 @@ This checklist tracks the active manuscript line for `The Æther-Flow Interpreta
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex) is drafted.
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex) is drafted.
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is drafted.
+- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) is drafted.
 - [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md) and [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) are in place.
 - the source rename, retired-label cleanup, and opening-paragraph consolidation are complete.
 
 ## Active Next Tasks
 
-The project still lacks the deeper bridge from ontology to explicit substrate kinematics and derivation. If the active line is to advance beyond exact closure, the next substantive research step is therefore a substrate-kinematics / derivational-bridge manuscript rather than another GR / SR recovery paper.
+The first substrate-kinematics / derivational-bridge manuscript is now in place. The next substantive research step is to sharpen that bridge into an explicit candidate substrate dynamics with controlled matter coupling and mode control, rather than returning to another GR / SR recovery paper.
 
-1. Draft the next substantive research manuscript as a substrate-kinematics / derivational-bridge paper connecting the ontology to explicit substrate variables, kinematics, and the derivational route toward effective relativistic dynamics.
+1. Extend [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) from kinematic bridge to explicit candidate substrate dynamics, including a sharper substrate action ansatz, matter-coupling route, and mode-control assumptions answerable to exact closure.
 2. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
 3. Rebuild the active manuscript set after any further substantive edits.
 4. Re-run the retired-label validation sweep after any further substantive edits.
 
 The only near-term non-research issue still open is the editorial placement of [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) within the active sequence.
+
+## Substrate-Kinematics Coverage
+
+The substrate-kinematics manuscript now covers:
+
+- define the minimal substrate data \((\Sub,G_{AB},U^A,S,Q)\)
+- define the local experiential projector \(P_{AB} = G_{AB} - U_A U_B\)
+- distinguish local experiential space from globally integrable slicing through the Frobenius condition
+- define a Lorentzian bridge metric \(\mathfrak{g}_{AB} = G_{AB} - 2 U_A U_B\)
+- define the observer map \(g_{\mu\nu} = \Xi^{*}\mathfrak{g}_{AB}\)
+- match the effective observer rest-space metric to the substrate projector
+- state the derivational success conditions required to recover exact Einsteinian closure
 
 ## Flow-Geometry Coverage
 
