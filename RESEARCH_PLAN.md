@@ -23,7 +23,7 @@ Use this plan to track:
 
 ## Current Objective
 
-The immediate research objective is to choose the next candidate family after the constraint-assisted longitudinal `U`-sector family failed to produce a healthy nondegenerate exact-closure branch under the active positive-sign health standard.
+The immediate research objective is to carry the higher-derivative collapsed-scalar branch through the next remaining benchmark gate: compatibility with the active exact-relativistic recovery line. The bridge-metric matter-coupling gate has now been passed at the present action-level and flat-branch quadratic scope, and only after the recovery-compatibility gate passes should the branch be promoted to a local curved-background continuation.
 
 ## Completed Prerequisites
 
@@ -64,16 +64,22 @@ The immediate research objective is to choose the next candidate family after th
   Outcome:
   the derivative-mixing branch does not admit a nondegenerate flat-background exact-closure branch; exact closure survives only on a tuned semidefinite perfect-square branch.
 
-### Phase 4: Health and Consistency Gates
+### Phase 4: Bridge-Metric Matter-Coupling and Recovery Gates
 
-- [ ] Check ghost signs and gradient signs for the new branch.
-- [ ] Check whether the branch preserves controlled matter coupling through the bridge metric alone.
-- [ ] Check whether the branch remains compatible with the active relativistic-recovery manuscripts.
-- [ ] Decide whether the branch is healthy enough to remain in the derivational program or whether it contracts back to the exact-closure benchmark.
+- [x] Check whether the branch preserves controlled matter coupling through the bridge metric alone.
+  Completed in [aether_flow_substrate_higher_derivative_matter_coupling.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_matter_coupling.tex), which shows that the quartic branch leaves the matter route \(S_{\mathrm{matter}}[\Xi^*\BridgeMetric,\psi]\) unchanged and that, after flat-branch auxiliary elimination, only a metric-mediated quartic self-energy survives at the present coefficient-level scope.
+- [ ] Check whether the branch remains compatible with the active exact-relativistic recovery line.
+- [ ] Write a dedicated quartic recovery-compatibility note, tentatively `aether_flow_substrate_higher_derivative_recovery_compatibility.tex`.
+- [ ] Show that the reduced observer-accessible quartic branch preserves the GR weak-field/Newtonian sector at orders `k^0` and `k^2`.
+- [ ] Show that the quartic branch preserves the single metric null cone, the ordinary proper-time rule, and the absence of a preferred-frame light-propagation sector.
+- [ ] Show that the local inertial and local SR limit remain governed by the same operational metric seen by matter and light.
+- [ ] State the infrared regime in which the surviving quartic metric self-energy remains below observer-accessible relevance and therefore does not spoil exact relativistic recovery in the intended regime.
+- [ ] Decide whether the branch passes those two benchmark gates cleanly enough to justify promotion to a local curved-background continuation.
+- [ ] If either gate fails, contract the branch back to the exact-closure benchmark rather than promoting it.
 
-### Phase 5: Beyond Minkowski Space
+### Phase 5: Beyond Minkowski Space (Only After Phase 4 Passes)
 
-- [ ] Upgrade the current local curved-background continuation to the new branch.
+- [ ] Upgrade the current local curved-background continuation to the quartic branch only after the Phase 4 matter-coupling and exact-relativistic recovery gates pass.
 - [ ] Determine whether the cancellation conditions can be stated on general admissible backgrounds rather than only in a local slowly varying patch.
 - [ ] Identify the minimum ingredients needed for a future global admissible-background theorem.
 
@@ -98,7 +104,11 @@ The immediate research objective is to choose the next candidate family after th
   Completed in [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex), which derives the coupled `(\chi,C,q^I,\sigma)` elimination and the generalized exact-closure conditions `\mathcal N_{C,0}=0`, `\mathcal N_{C,2}=0`.
 - [x] Decide whether the sourced longitudinal `U`-sector family has a healthy nondegenerate branch or only another tuned degeneracy.
   Completed in [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex), which shows that under the active positive-sign health gate the branch has no healthy nondegenerate flat-background exact-closure solution and collapses only to the degenerate scalar limit `\kappa_S=\mu_{SI}=\mu_S^2=0`.
-- [ ] Choose the next post-constraint-assisted candidate family or decide whether the derivational branch-search should pause pending a broader redesign.
+- [x] Choose the next post-constraint-assisted candidate family or decide whether the derivational branch-search should pause pending a broader redesign.
+  Completed in [aether_flow_substrate_higher_derivative_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_branch.tex), which selects a higher-derivative completion around the collapsed scalar branch as the next family under test.
+- [x] Carry the higher-derivative collapsed-scalar family through a full flat-background quadratic elimination and determine whether its quartic spatial stabilizer yields a healthy observer-accessible exact-closure branch without reintroducing an unsuppressed `k^0` or `k^2` scalar term.
+  Completed in [aether_flow_substrate_higher_derivative_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_consistency.tex), which shows that on the minimal quartic representative the branch satisfies `\mathcal B_{4,0}=\mathcal B_{4,2}=0` identically and retains a strictly positive quartic stiffness `\mathcal B_{4,4}=\lambda_4/M_*^2` under the quartic-health gate.
+- [ ] Carry the higher-derivative quartic branch through the remaining gate sequence: compatibility with the active exact-relativistic recovery line and only then a decision on local curved-background continuation.
 
 ## Research Log
 
@@ -108,3 +118,8 @@ The immediate research objective is to choose the next candidate family after th
 - 2026-03-12: The next branch family was selected in [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex). The new active target is a constraint-assisted longitudinal `U`-sector completion mediated by an auxiliary scalar `C`.
 - 2026-03-12: The constraint-assisted `U`-sector quadratic elimination was completed in [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex). The new active target is now the health and branch-existence analysis of the generalized exact-closure conditions.
 - 2026-03-12: The constraint-assisted `U`-sector health/no-go step was completed in [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex). Under the active positive-sign health gate it has no healthy nondegenerate exact-closure branch and contracts only to a collapsed scalar limit.
+- 2026-03-12: The next candidate family was selected in [aether_flow_substrate_higher_derivative_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_branch.tex). The new active target is a higher-derivative completion around the collapsed scalar branch, designed to test whether the first healthy stabilizing structure can live at quartic spatial derivative order.
+- 2026-03-12: The higher-derivative collapsed-scalar branch flat-background test was completed in [aether_flow_substrate_higher_derivative_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_consistency.tex). On its minimal quartic representative the branch passes the `k^0/k^2` exact-closure screen and keeps a strictly positive quartic scalar stiffness under the quartic-health gate.
+- 2026-03-12: The post-quartic next step was sharpened across the active docs: first test controlled matter coupling through the bridge metric alone, then test compatibility with the active exact-relativistic recovery line, and only after those gates pass promote the quartic branch to a local curved-background continuation.
+- 2026-03-12: The higher-derivative quartic branch matter-coupling gate was completed in [aether_flow_substrate_higher_derivative_matter_coupling.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_matter_coupling.tex). At the present action-level and flat-branch quadratic scope the branch preserves the single-metric matter route and introduces no unsuppressed direct low-energy matter coupling to extra substrate variables.
+- 2026-03-12: The recommended next manuscript focus was sharpened further: test quartic recovery compatibility by checking the weak-field/Newtonian sector, the single metric null and proper-time structure, the local SR limit, and the infrared domain of validity before any curved-background continuation.

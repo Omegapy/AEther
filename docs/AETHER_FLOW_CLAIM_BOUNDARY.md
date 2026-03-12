@@ -76,14 +76,14 @@ Its claim boundary is strict:
 
 The following remain open:
 
-- a justified choice of the next candidate family after the minimal, derivative-mixing, and constraint-assisted branches all failed to produce a healthy nondegenerate flat-background exact-closure branch under the active positive-sign discipline
+- a disciplined Phase 4 recovery-compatibility check for the higher-derivative quartic branch after the bridge-metric matter-coupling gate already passed at the present action-level and flat-branch quadratic scope
 - a proof that any viable nonminimal completion can evade the minimal stable-sign obstruction, the derivative-mixing semidegenerate branch, and the constraint-assisted positive-sign collapse while preserving exact closure
 - a proof that those cancellations survive beyond the current local slowly varying curved-background regime
 - a controlled derivation that the infrared Einsteinian metric equation really follows once those coefficient-level cancellations are enforced on a viable branch
 - a proof that the candidate bridge closes onto the exact relativistic line rather than a deformation of it
 - a first-principles justification of why the bridge curvature term itself should arise from deeper substrate microphysics
 
-The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, or of the constraint-assisted longitudinal `U`-sector test. Those now exist. The immediate research burden is to decide what comes after that third failed branch test: either choose a genuinely new family answerable to the same exact-closure benchmark, or acknowledge that the branch-search now requires a broader redesign before advancing to a curved-background statement.
+The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, or of the first bridge-metric matter-coupling gate result. Those now exist. The immediate research burden is now narrower again: check whether the higher-derivative quartic branch remains compatible with the active exact-relativistic recovery line, and only after that gate passes advance to a local curved-background statement.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
@@ -100,7 +100,11 @@ The following claims are safe in the active sequence:
 - the derivative-mixing `S/Q` branch has been tested and reaches exact closure only on a tuned degenerate semidefinite branch
 - the constraint-assisted longitudinal `U`-sector family has now been carried through full quadratic elimination
 - under the active positive-sign health gate, the constraint-assisted longitudinal `U`-sector family has no healthy nondegenerate flat-background exact-closure branch and collapses only to the degenerate scalar limit
-- the immediate next derivational task is to choose the next candidate family or decide whether the branch-search should pause pending redesign
+- the next candidate family has now been selected as a higher-derivative completion around the collapsed scalar branch
+- the higher-derivative quartic branch has now been carried through a flat-background coefficient-level test
+- on its minimal quartic representative, the higher-derivative branch satisfies the `k^0/k^2` exact-closure conditions identically and retains a positive quartic scalar stiffness under the quartic-health gate
+- at the present action-level and flat-branch quadratic scope, the higher-derivative quartic branch preserves controlled matter coupling through the bridge metric alone and does not introduce an unsuppressed direct low-energy matter coupling to extra substrate variables
+- the immediate next derivational task is to check exact-relativistic recovery compatibility before any local curved-background continuation
 
 ## 8. Claims To Avoid
 
@@ -114,3 +118,5 @@ The following statements should not appear in the active manuscripts:
 - the constraint-assisted longitudinal `U`-sector family is still merely untested
 - the constraint-assisted longitudinal `U`-sector family is healthy or nondegenerate under the active positive-sign gate
 - the sign-flipped tuned loophole of the constraint-assisted branch is an accepted surviving derivational solution
+- the higher-derivative quartic branch has already been cleared for local curved-background continuation before its bridge-metric matter-coupling and exact-relativistic recovery gates are checked
+- the higher-derivative quartic branch has already been shown compatible with the active exact-relativistic recovery line before that gate is actually analyzed
