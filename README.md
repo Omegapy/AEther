@@ -26,6 +26,8 @@ The active root manuscript sequence is:
 - [aether_flow_substrate_derivative_mixing_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_branch.tex): first nonminimal `S/Q` derivative-mixing branch selection and formulation
 - [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex): full quadratic test showing the derivative-mixing branch closes only on a tuned degenerate semidefinite branch
 - [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex): next candidate-family note selecting the `C`-mediated constraint-assisted longitudinal `U`-sector completion
+- [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex): full quadratic elimination of the constraint-assisted longitudinal `U`-sector family and derivation of its generalized exact-closure conditions
+- [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex): positive-sign health-gate no-go result for the constraint-assisted longitudinal `U`-sector family
 
 ## Active Notes
 
@@ -41,7 +43,9 @@ Active manuscripts are built with `pdflatex`. The current active manuscript logs
 
 ## Next Step
 
-The active sequence now contains the minimal-action no-go note, the full derivative-mixing branch test, and the selection of the next candidate family. The immediate next substantive research step is to carry the constraint-assisted longitudinal `U`-sector family of [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex) through a full flat-background quadratic elimination, derive its generalized exact-closure conditions, and determine whether its sourced auxiliary channel yields a healthy nondegenerate branch or only another tuned degeneracy. Only after that result is known should the project upgrade the surviving branch to a broader curved-background analysis or nominate a further nonminimal family.
+The active sequence now contains the minimal-action no-go note, the full derivative-mixing branch test, the constraint-assisted longitudinal `U`-sector quadratic elimination, and the corresponding health-gate no-go result. Under the active positive-sign health standard, the constraint-assisted family does not yield a healthy nondegenerate flat-background exact-closure branch; it collapses only to the degenerate scalar limit recorded in [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex).
+
+The immediate next substantive research step is therefore no longer another pass on the same family. It is to choose the next genuinely new candidate family, or decide whether the derivational branch-search should pause pending a broader redesign of the auxiliary-sector architecture and health standard. Only after a new family is actually selected and survives its own flat-background test should the project invest in a broader curved-background upgrade.
 
 The only near-term non-research issue still open is the editorial one already tracked in [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md): whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain a standalone note or be folded into the main sequence later.
 
@@ -53,4 +57,6 @@ The most recent substantive advances are:
 - [aether_flow_substrate_derivative_mixing_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_branch.tex) selects and formulates the first nonminimal `S/Q` derivative-mixing branch.
 - [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex) shows that the derivative-mixing branch does not yield a nondegenerate flat-background exact-closure branch and closes only on a tuned semidefinite perfect-square branch.
 - [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex) selects the next candidate family, a `C`-mediated constraint-assisted longitudinal `U`-sector completion.
-- [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) now tracks the live branch-testing program and the next active research task.
+- [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex) derives the coupled `(\chi,C,q^I,\sigma)` elimination and the generalized exact-closure conditions `\mathcal N_{C,0}=0`, `\mathcal N_{C,2}=0`.
+- [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex) proves that under the active positive-sign health gate the constraint-assisted family has no healthy nondegenerate flat-background exact-closure branch and collapses only to `\kappa_S=\mu_{SI}=\mu_S^2=0`.
+- [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) now tracks the live branch-testing program and the next active research decision: select the next candidate family or pause for redesign.

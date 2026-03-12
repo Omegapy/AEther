@@ -23,7 +23,7 @@ Use this plan to track:
 
 ## Current Objective
 
-The immediate research objective is to determine whether the constraint-assisted longitudinal `U`-sector family admits a healthy nondegenerate exact-closure branch or only another resonant or tuned degeneracy.
+The immediate research objective is to choose the next candidate family after the constraint-assisted longitudinal `U`-sector family failed to produce a healthy nondegenerate exact-closure branch under the active positive-sign health standard.
 
 ## Completed Prerequisites
 
@@ -83,7 +83,7 @@ The immediate research objective is to determine whether the constraint-assisted
 - [ ] Determine whether the bridge correction tensor closes back to the exact Einsteinian line nonaccidentally.
 - [ ] Decide whether the surviving branch belongs in the active manuscript line as a real candidate derivation or remains only a tested side program.
 - [ ] Rebuild the affected manuscripts after substantive edits.
-- [ ] Update [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md), [README.md](/Volumes/P-SSD/The Æther/README.md), and [AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) after the next substantive research step is completed.
+- [x] Update [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md), [README.md](/Volumes/P-SSD/The Æther/README.md), and [AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) after the next substantive research step is completed.
 
 ## Secondary Editorial Tasks
 
@@ -96,7 +96,9 @@ The immediate research objective is to determine whether the constraint-assisted
 - [ ] Decide whether the derivative-mixing branch should now be archived as a tested degenerate side branch in the tracking docs.
 - [x] Carry the constraint-assisted longitudinal `U`-sector family through a full flat-background quadratic elimination and derive its generalized exact-closure conditions.
   Completed in [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex), which derives the coupled `(\chi,C,q^I,\sigma)` elimination and the generalized exact-closure conditions `\mathcal N_{C,0}=0`, `\mathcal N_{C,2}=0`.
-- [ ] Decide whether the sourced longitudinal `U`-sector family has a healthy nondegenerate branch or only another tuned degeneracy.
+- [x] Decide whether the sourced longitudinal `U`-sector family has a healthy nondegenerate branch or only another tuned degeneracy.
+  Completed in [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex), which shows that under the active positive-sign health gate the branch has no healthy nondegenerate flat-background exact-closure solution and collapses only to the degenerate scalar limit `\kappa_S=\mu_{SI}=\mu_S^2=0`.
+- [ ] Choose the next post-constraint-assisted candidate family or decide whether the derivational branch-search should pause pending a broader redesign.
 
 ## Research Log
 
@@ -105,3 +107,4 @@ The immediate research objective is to determine whether the constraint-assisted
 - 2026-03-12: The derivative-mixing branch quadratic test was completed in [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex). It achieves flat-background exact closure only on a tuned degenerate semidefinite branch, not on a nondegenerate branch.
 - 2026-03-12: The next branch family was selected in [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex). The new active target is a constraint-assisted longitudinal `U`-sector completion mediated by an auxiliary scalar `C`.
 - 2026-03-12: The constraint-assisted `U`-sector quadratic elimination was completed in [aether_flow_substrate_constraint_assisted_u_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_consistency.tex). The new active target is now the health and branch-existence analysis of the generalized exact-closure conditions.
+- 2026-03-12: The constraint-assisted `U`-sector health/no-go step was completed in [aether_flow_substrate_constraint_assisted_u_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_no_go.tex). Under the active positive-sign health gate it has no healthy nondegenerate exact-closure branch and contracts only to a collapsed scalar limit.

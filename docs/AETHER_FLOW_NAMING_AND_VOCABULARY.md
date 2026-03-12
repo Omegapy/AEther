@@ -31,7 +31,10 @@ Use the following as the primary vocabulary:
 - exact-closure test: the requirement that the candidate bridge model reduce to the unique effective metric sector of the active relativistic benchmark, with no unsuppressed surviving correction
 - minimal stable-sign no-go result: the coefficient-level statement that positive-definite \(\widehat M_{IJ}\) and nonnegative \(\kappa_S\) force the minimal flat-branch cancellation into a degenerate scalar limit
 - derivative-mixing branch: the first nonminimal `S/Q` completion tested after the minimal no-go result
-- constraint-assisted longitudinal `U`-sector completion: the next candidate family, in which an auxiliary scalar mediates a sourced longitudinal ordered-flow constraint
+- constraint-assisted longitudinal `U`-sector completion: the `C`-mediated branch family in which an auxiliary scalar mediates a sourced longitudinal ordered-flow constraint
+- generalized exact-closure conditions: the constraint-assisted branch conditions \(\mathcal N_{C,0}=0\), \(\mathcal N_{C,2}=0\) derived after coupled `(\chi,C,q^I,\sigma)` elimination
+- positive-sign health gate: the active sign discipline requiring positive-definite \(\widehat M_{IJ}\), \(m_S^2>0\), \(\kappa_S\ge 0\), \(\kappa_\theta\ge 0\), and \(\Delta_C>0\) on the constraint-assisted branch
+- constraint-assisted `U`-sector no-go result: the statement that under the active positive-sign health gate the constraint-assisted branch has no healthy nondegenerate flat-background exact-closure solution and collapses only to \(\kappa_S=\mu_{SI}=\mu_S^2=0\)
 
 ## Secondary Explanatory Phrases
 
@@ -48,7 +51,7 @@ These may be used only as shorthand:
 - do describe the active theory as the exact relativistic interpretation built on the `Æther / Æther-flow` ontology
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
-- do describe the current next research step as carrying the constraint-assisted longitudinal `U`-sector family through a full flat-background quadratic elimination and determining whether it yields a healthy nondegenerate exact-closure branch
+- do describe the current next research step as choosing the next candidate family or deciding whether the derivational branch-search should pause pending redesign
 
 ## Current Project State
 
@@ -60,8 +63,8 @@ The current active state of the repository is:
 - the substrate linearized-consistency manuscript now evaluates the explicit quadratic coefficients, states the flat-branch conditions \(\mathcal B_0=\mathcal B_2=0\), and records a first local curved-background continuation
 - the minimal stable-sign no-go result is now recorded
 - the first nonminimal derivative-mixing branch has been selected and tested, and it closes only on a tuned degenerate semidefinite branch
-- the next candidate family has now been selected as a constraint-assisted longitudinal `U`-sector completion mediated by an auxiliary scalar `C`
-- the next substantive research step is to carry that `C`-mediated `U`-sector family through a full flat-background quadratic elimination
+- the constraint-assisted longitudinal `U`-sector family has now been selected, eliminated at quadratic order, and ruled out as a healthy nondegenerate branch under the active positive-sign health gate
+- the next substantive research step is to choose the next candidate family or decide whether the derivational branch-search should pause pending redesign
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
