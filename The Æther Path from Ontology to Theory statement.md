@@ -22,6 +22,8 @@ The theory must define:
 - the observer map from deeper structure to measured relations
 - the relation between the four-dimensional substrate and the observed 3+1 description
 
+This bridge step is now stated explicitly in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex).
+
 ## 3. Dynamics
 
 The theory must state:
@@ -33,6 +35,8 @@ The theory must state:
 
 For the active line, this is already fixed at the effective level by exact closure to GR.
 
+At the substrate-candidate level, the repository now also contains an explicit candidate bridge action, a matter-coupling route, and a first exact-closure test in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex).
+
 ## 4. Consistency
 
 The active line must remain healthy under:
@@ -41,6 +45,8 @@ The active line must remain healthy under:
 - ghost and instability checks
 - causal-structure control
 - weak-field reduction
+
+The next active research burden is now to carry the candidate substrate model through this consistency layer directly, rather than only at the already-adopted GR closure level.
 
 ## 5. Relativistic Recovery
 
@@ -70,7 +76,7 @@ The operative public theory line is `The Æther-Flow Interpretation of Relativit
 
 The source rename and prose-consolidation pass are now complete. The active sequence now shares one opening framework paragraph, one claim-boundary vocabulary, and one public theory name.
 
-The repository now includes that next bridge manuscript in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex). The next substantive research step is therefore narrower: sharpen the kinematic bridge into an explicit candidate substrate dynamics with controlled emergence, matter coupling, and mode control that can be judged against exact closure.
+The repository now includes that next bridge manuscript in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex), and that manuscript now contains explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test. The next substantive research step is therefore narrower again: test that candidate model through quadratic consistency analysis and infrared exact-closure recovery.
 
 The only near-term non-research issue still open is the narrower editorial one already recorded in [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md):
 

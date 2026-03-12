@@ -37,7 +37,7 @@
 \newtheorem{remark}{Remark}
 
 \title{\textbf{The \TheoryName{}}\\[0.4em]
-\large Substrate Kinematics and the Derivational Bridge}
+\large Substrate Kinematics, Candidate Dynamics, and the Derivational Bridge}
 \author{}
 \date{}
 
@@ -46,23 +46,23 @@
 \maketitle
 
 \begin{abstract}
-This manuscript states the next substantive step beyond the current exact-closure sequence of \TheoryName{}. Its purpose is not to claim that Einsteinian gravity has already been derived from substrate microphysics. Its purpose is narrower and more disciplined: to make explicit the minimum substrate kinematics needed for a future derivational program.
+This manuscript states the next substantive step beyond the current exact-closure sequence of \TheoryName{}. Its purpose is not to claim that Einsteinian gravity has already been derived from substrate microphysics. Its purpose is narrower and more disciplined: to make explicit the minimum substrate kinematics and one explicit candidate dynamical class needed for a future derivational program.
 
-The paper therefore introduces a four-dimensional substrate manifold \(\Sub\) equipped with a positive-definite substrate metric \(G_{AB}\), a unit ordered-flow field \(U^A\), an order scalar \(S(X)\), and additional substrate variables \(Q\). It then defines the local experiential three-space by the projector orthogonal to \(U^A\), constructs a Lorentzian bridge metric \(\BridgeMetric_{AB} = G_{AB} - 2 U_A U_B\), and uses a local observer map to recover the effective relativistic metric \(g_{\mu\nu}\) seen by embedded observers.
+The paper therefore introduces a four-dimensional substrate manifold \(\Sub\) equipped with a positive-definite substrate metric \(G_{AB}\), a unit ordered-flow field \(U^A\), an order scalar \(S(X)\), and additional substrate variables \(Q\). It then defines the local experiential three-space by the projector orthogonal to \(U^A\), constructs a Lorentzian bridge metric \(\BridgeMetric_{AB} = G_{AB} - 2 U_A U_B\), and uses a local observer map to recover the effective relativistic metric \(g_{\mu\nu}\) seen by embedded observers. On that bridge, it proposes a candidate substrate action class, a universal matter-coupling route through \(g_{\mu\nu}\), a first mode-control regime for the extra substrate sector, and an explicit exact-closure test.
 
-The resulting claim is kinematic rather than fully dynamical. The paper states the missing bridge from ontology to explicit substrate structure, shows how observed three-dimensional space and S-time can be anchored in that structure, and records the conditions any completed substrate action must satisfy if it is to recover the exact Einsteinian closure already adopted elsewhere in the active sequence. Exact closure therefore remains the benchmark and reversion theory until those stronger derivational conditions are actually met.
+The resulting claim is candidate-dynamical rather than fully derived. The paper states the missing bridge from ontology to explicit substrate structure, shows how observed three-dimensional space and S-time can be anchored in that structure, and records the conditions any completed substrate action must satisfy if it is to recover the exact Einsteinian closure already adopted elsewhere in the active sequence. Exact closure therefore remains the benchmark and reversion theory until those stronger derivational conditions are actually met.
 \end{abstract}
 
 \section{Introduction}
 
 The active manuscript sequence of \TheoryName{} now fixes the ontology, the exact effective dynamics, the consistency conditions, the relativistic recovery statement, and the congruence-based flow geometry of the exact-closure theory. What it still lacks is the deeper bridge from ontology to explicit substrate kinematics and derivation.
 
-That missing step is the subject of the present paper. The goal is not another GR / SR recovery statement. Nor is the goal to replace the exact Einsteinian closure already adopted in the active theory line. The goal is to define the minimum substrate-level data from which a future derivation would even have to begin.
+That missing step is the subject of the present paper. The goal is not another GR / SR recovery statement. Nor is the goal to replace the exact Einsteinian closure already adopted in the active theory line. The goal is to define the minimum substrate-level data and one explicit candidate dynamical route from which a future derivation would have to begin.
 
 \paragraph{Framework and claim boundary.}
 \TheoryProgram{} denotes the broader \Aether{} / \Aflow{} framework built on the claims that the \Aether{} is the underlying four-dimensional substrate of reality, the \Aflow{} is its intrinsic ordered motion, observed three-dimensional space is the local experiential slice of that deeper substrate, S-time is the experienced order of change arising from matter, light, and the \Aflow{}, and observed expansion is the three-dimensional appearance of deeper four-dimensional ordered motion. Within that framework, \TheoryName{} denotes the exact-closure theory in which the effective gravitational dynamics are adopted to be exactly Einsteinian with universal matter coupling. In the active sequence, \emph{adoption} means use of that established relativistic dynamics without claiming substrate derivation, while \emph{derivation} is reserved for a first-principles recovery from explicit substrate variables.
 
-The present manuscript stays strictly within that claim boundary. It does not claim a completed recovery of the Einstein equations from substrate variables. It does not present a finished microphysical action that has already passed a consistency analysis. It does make one positive move: it replaces the previously schematic phrase ``future substrate manuscript'' with an explicit kinematic bridge whose success conditions can be stated cleanly.
+The present manuscript stays strictly within that claim boundary. It does not claim a completed recovery of the Einstein equations from substrate variables. It does not present a finished microphysical action that has already passed a full consistency analysis. It does make one positive move: it replaces the previously schematic phrase ``future substrate manuscript'' with an explicit bridge architecture, a candidate substrate action class, and success conditions that can be stated cleanly.
 
 \section{Role of the Derivational-Bridge Step}
 
@@ -75,7 +75,7 @@ What is still missing between those layers is the explicit substrate side of the
     \item a clear statement of what counts as a successful derivation and what would still count only as an unfinished ansatz.
 \end{enumerate}
 
-The present manuscript addresses those three points. It should therefore be read as a kinematic bridge paper, not as a completed derivation paper.
+The present manuscript addresses those three points. It should therefore be read as a bridge-and-candidate-dynamics paper, not as a completed derivation paper.
 
 \section{Minimal Substrate Kinematics}
 
@@ -332,56 +332,241 @@ g_{\mu\nu}\, dx^\mu dx^\nu
 The congruence-based flow geometry developed elsewhere in the active sequence now acquires a substrate-level origin. After the bridge map is made, the effective observer field \(u^\mu\) is the relativistic image of the deeper ordered-flow field \(U^A\). Expansion, acceleration, vorticity, and shear in the effective geometry are therefore not inserted by hand; they are the observer-accessible kinematic face of the deeper substrate motion.
 \end{remark}
 
-\section{What a Completed Derivation Must Achieve}
+\section{Candidate Substrate Dynamics}
 
-The present manuscript is still only kinematic unless it is paired with a substrate action. The general derivational target therefore begins with an action of the form
+The bridge is not yet scientifically useful unless one can state at least one explicit candidate dynamics built on it. The purpose of the present section is therefore not to prove emergence, but to replace a purely schematic future target by a concrete action class that can later be tested.
+
+\subsection{Candidate Action Class}
+
+\begin{proposition}
+If \(G_{AB}U^A U^B=1\), then the bridge metric satisfies
 \begin{equation}
-S_{\Sub}
+\det \BridgeMetric_{AB} = - \det G_{AB}.
+\label{eq:detbridge}
+\end{equation}
+\end{proposition}
+
+\begin{proof}
+Choose a \(G\)-orthonormal basis adapted to \(U^A\). In that basis,
+\[
+G_{AB} = \mathrm{diag}(1,1,1,1),
+\qquad
+\BridgeMetric_{AB} = \mathrm{diag}(-1,1,1,1).
+\]
+Therefore \(\det \BridgeMetric_{AB} = -1 = -\det G_{AB}\). Since both determinants are basis-invariant, \eqref{eq:detbridge} holds generally.
+\end{proof}
+
+Equation \eqref{eq:detbridge} implies \(\sqrt{-\det \BridgeMetric}=\sqrt{G}\), so the same invariant volume element may be written using either the positive-definite substrate metric or the induced bridge metric.
+
+For concreteness, let the extra substrate sector be a multiplet \(Q^I\), \(I=1,\dots,N\), with positive-definite mass matrix \(M_{IJ}\). A candidate substrate action class compatible with the bridge is then
+\begin{equation}
+S_{\mathrm{cand}}
 =
-\int_{\Sub} d^4X\,\sqrt{G}\,
-\mathcal{L}_{\Sub}\!\left(
-G_{AB},
-U^A,
-S,
-Q,
-\psi,
-\nabla U,
-\nabla S,
-\nabla Q,
-\ldots
-\right),
-\label{eq:substrateactionbridge}
+\frac{c^3}{16\pi G_N}
+\int_{\Sub} d^4X\,\sqrt{G}\,\bigl(R[\BridgeMetric]-2\Lambda_{\Sub}\bigr)
++
+\int_{\Sub} d^4X\,\sqrt{G}\,\mathcal{L}_{\mathrm{aux}}
++
+S_{\mathrm{matter}}[\Xi^*\BridgeMetric,\psi],
+\label{eq:candidateaction}
 \end{equation}
-where \(G \equiv \det G_{AB}\), subject to the unit constraint \eqref{eq:unitflow} and monotonicity condition \eqref{eq:ordermonotone}. Here \(\psi\) denotes the matter sector that must eventually be recovered in observer-accessible form.
+where
+\begin{align}
+\mathcal{L}_{\mathrm{aux}}
+=\;&
+\lambda_U\bigl(G_{AB}U^A U^B-1\bigr)
+-\frac{\kappa_S}{2}P^{AB}\partial_A S\,\partial_B S
+-\frac{m_S^2}{2}\bigl(U^A\partial_A S-\sigma_0\bigr)^2
+-V_S(S)
+\nonumber\\
+&-\frac{1}{2}\delta_{IJ}P^{AB}(D_AQ^I)(D_BQ^J)
+-\frac{1}{2}M_{IJ}Q^I Q^J
+-W(S,Q)
+\nonumber\\
+&-\frac{\kappa_\theta}{2}\bigl(\nabla_A U^A\bigr)^2
+-\frac{\kappa_\Omega}{4}\Omega_{AB}\Omega^{AB}.
+\label{eq:auxlag}
+\end{align}
+Here \(\lambda_U\) is a Lagrange multiplier enforcing \eqref{eq:unitflow}, \(\sigma_0>0\) sets the order scale along the flow, \(D_A\) is any internal covariant derivative acting on the \(Q^I\), and all contractions are performed with \(G_{AB}\) and its inverse.
 
-After solving the substrate equations, eliminating constrained variables, and passing to the long-wavelength observer-accessible description, the derivational bridge would have to yield an effective action of the form
+The first term in \eqref{eq:candidateaction} is written directly in terms of the bridge Ricci scalar \(R[\BridgeMetric]\) for a clear reason: it makes the candidate model answerable to the exact Einsteinian benchmark already fixed elsewhere in the active sequence. This is still not a completed derivation. The Einsteinian bridge curvature has been posited as the candidate leading bridge-sector dynamics, not recovered from a deeper still-hidden layer.
+
+\subsection{Candidate Equations and Observer-Accessible Metric Equation}
+
+Variation of \eqref{eq:candidateaction} with respect to \(\lambda_U\) reproduces the unit-flow constraint \eqref{eq:unitflow}. Variation with respect to the order scalar gives
 \begin{equation}
-S_{\mathrm{eff}}[g,\psi]
+\kappa_S \nabla_A\!\left(P^{AB}\partial_B S\right)
++
+m_S^2 \nabla_A\!\left[\bigl(U^C\partial_C S-\sigma_0\bigr)U^A\right]
+-V_S'(S)
+-\pdv{W}{S}
 =
-\frac{c^3}{16\pi G_N}\int d^4x\,\sqrt{-g}\,R
-+
-S_{\mathrm{matter}}[g,\psi]
-+
-\Delta S[g,\psi].
-\label{eq:bridgeeffectiveaction}
+0.
+\label{eq:Seom}
 \end{equation}
-In the active exact-closure line, successful recovery requires
+Variation with respect to the extra fields \(Q^I\) gives
 \begin{equation}
-\Delta S[g,\psi] = 0
-\label{eq:deltazero}
+\nabla_A\!\left(P^{AB}D_B Q_I\right)
+-M_{IJ}Q^J
+-\pdv{W}{Q^I}
+=
+0,
+\label{eq:Qeom}
 \end{equation}
-at the effective level. If \(\Delta S\neq 0\) survives as an observable low-energy correction, the result is no longer the exact-closure theory already established elsewhere in the sequence.
+where \(Q_I=\delta_{IJ}Q^J\).
 
-The resulting derivational success conditions can now be stated precisely.
+The full \(G_{AB}\) and \(U^A\) Euler--Lagrange equations are lengthy because \(\BridgeMetric_{AB}\), \(P_{AB}\), and \(\Omega_{AB}\) all depend on them. For the purpose of the present manuscript, the decisive object is instead the observer-accessible pullback of the bridge-sector equation:
+\begin{equation}
+G_{\mu\nu}[g]
++
+\Lambda_{\Sub} g_{\mu\nu}
+=
+\frac{8\pi G_N}{c^4}T_{\mu\nu}
++
+\Delta_{\mu\nu}^{(U,S,Q)}.
+\label{eq:bridgeeinstein}
+\end{equation}
+Here \(T_{\mu\nu}\) is the stress tensor derived from \(S_{\mathrm{matter}}[g,\psi]\), while \(\Delta_{\mu\nu}^{(U,S,Q)}\) collects the pullback of all non-Einsteinian bridge corrections generated by the auxiliary substrate sector. Equation \eqref{eq:bridgeeinstein} is the correct place to formulate the exact-closure test: the candidate model succeeds only if \(\Delta_{\mu\nu}^{(U,S,Q)}\) vanishes or is driven below observer-accessible relevance in the intended regime.
+
+\section{Universal Matter Coupling Through the Bridge}
+
+The matter-coupling route must be stated explicitly, because exact closure depends on it as much as the gravitational equation does. In the present candidate class, matter is not coupled directly to \(G_{AB}\), \(U^A\), \(S\), or \(Q^I\). It is coupled only through the bridge metric seen by observers:
+\begin{equation}
+S_{\mathrm{matter}}^{\mathrm{cand}}[G,U,\Xi,\psi]
+\equiv
+S_{\mathrm{matter}}[\Xi^*\BridgeMetric,\psi]
+=
+S_{\mathrm{matter}}[g,\psi].
+\label{eq:matterroute}
+\end{equation}
+
+\begin{proposition}
+If the observer-accessible matter action is of the form \eqref{eq:matterroute}, then the candidate bridge model has a single universal low-energy matter metric, namely \(g_{\mu\nu}\).
+\end{proposition}
+
+\begin{proof}
+All matter variation is taken with respect to the pullback metric \(g_{\mu\nu}\). Therefore the matter stress tensor is
+\[
+T_{\mu\nu}
+=
+-\frac{2}{\sqrt{-g}}
+\frac{\delta S_{\mathrm{matter}}}{\delta g^{\mu\nu}},
+\]
+and by ordinary diffeomorphism invariance of the matter action one has \(\nabla^\mu T_{\mu\nu}=0\). Since \(G_{AB}\), \(U^A\), \(S\), and \(Q^I\) do not appear as independent matter-coupling arguments, there is no second universal matter metric and no direct preferred-frame matter coupling.
+\end{proof}
+
+This route excludes, at the candidate level, direct observer-accessible couplings such as
+\[
+J_\mu u^\mu,
+\qquad
+\chi(S)\,\mathcal{O}_{\mathrm{matter}},
+\qquad
+q^I \mathcal{O}_I,
+\]
+unless they are driven below the exact-closure threshold. If such terms survive unsuppressed in the observer-accessible regime, then the model no longer belongs to the exact-closure line.
+
+\section{First Mode-Control Pass}
+
+The next task is to say what must happen to the extra substrate sector if the candidate model is to remain answerable to exact closure. For that purpose, linearize about the homogeneous bridge background
+\begin{equation}
+\bar G_{AB}=\delta_{AB},
+\qquad
+\bar U^A=\delta^A{}_0,
+\qquad
+\bar S=\sigma_0 X^0,
+\qquad
+\bar Q^I=0.
+\label{eq:bridgebackground}
+\end{equation}
+Then
+\begin{equation}
+\bar\BridgeMetric_{AB} = \mathrm{diag}(-1,1,1,1).
+\label{eq:minkowskibridge}
+\end{equation}
+
+Write perturbations as
+\begin{equation}
+G_{AB}=\delta_{AB}+H_{AB},
+\qquad
+U^A=\bar U^A+V^A,
+\qquad
+S=\sigma_0 X^0+\sigma,
+\qquad
+Q^I=q^I.
+\label{eq:bridgeperts}
+\end{equation}
+The unit constraint \eqref{eq:unitflow} then gives at linear order
+\begin{equation}
+V^0 = -\frac{1}{2}H_{00}.
+\label{eq:linearunitconstraint}
+\end{equation}
+Thus only the three spatial components of \(V^A\) remain independent before further decomposition. Writing
+\begin{equation}
+V^i = V_T^i + \partial^i \chi,
+\qquad
+\partial_i V_T^i = 0,
+\label{eq:vdecomp}
+\end{equation}
+one sees that the extra nonmetric sector consists of the scalar pair \((\sigma,\chi)\), the transverse vector \(V_T^i\), and the multiplet \(q^I\).
+
+The bridge perturbation itself is
+\begin{equation}
+\delta\BridgeMetric_{00} = -H_{00},
+\qquad
+\delta\BridgeMetric_{0i} = -H_{0i} - 2V_i,
+\qquad
+\delta\BridgeMetric_{ij} = H_{ij}.
+\label{eq:bridgeperturbation}
+\end{equation}
+Equation \eqref{eq:bridgeperturbation} makes the mode-control problem explicit: unless \(V_i\), \(\sigma\), and \(q^I\) are constrained, screened, or gapped, they feed directly into the observer-accessible Lorentzian sector.
+
+The candidate exact-closure branch is therefore defined by the low-energy hierarchy
+\begin{equation}
+E^2,\ |\mathbf{k}|^2
+\ll
+M_*^2,
+\qquad
+M_*^2
+\equiv
+\min\!\left\{
+m_S^2,\,
+\lambda_{\min}(M),\,
+M_U^2
+\right\},
+\label{eq:modegap}
+\end{equation}
+where \(M_U\) denotes the characteristic suppression scale of the nonmetric \(U\)-sector generated by the constraint structure and the \(\kappa_\theta,\kappa_\Omega\) terms. If the \(U\)-sector is purely auxiliary in a given branch, one may read \(M_U=\infty\).
+
+In that regime the scalar and vector sectors may be integrated out, producing only derivative-suppressed corrections,
+\begin{equation}
+\Delta S[g,\psi]
+=
+\int d^4x\,\sqrt{-g}\,
+\mathcal O\!\left(\frac{\nabla^2}{M_*^2}\right),
+\label{eq:deltasuppressed}
+\end{equation}
+so that the unsuppressed observer-accessible propagating sector reduces to the usual transverse-traceless tensor modes of the exact relativistic theory. This is not yet a full quadratic proof. It is the first controlled mode statement needed to keep the candidate bridge model scientifically disciplined.
+
+\section{Exact-Closure Test}
+
+With \eqref{eq:bridgeeinstein}, \eqref{eq:matterroute}, and \eqref{eq:modegap} in hand, one can now state the exact-closure test explicitly. The candidate substrate model remains in the active \TheoryName{} line only if all of the following hold in the observer-accessible regime:
 \begin{enumerate}
-    \item \textbf{Bridge closure.} The map \((G_{AB},U^A,S,Q)\mapsto g_{\mu\nu}\) defined through \eqref{eq:bridgemetric} and \eqref{eq:effectivepullback} must be regular, unique in the observer-accessible regime, and free of ambiguities that would introduce multiple competing low-energy metrics.
-    \item \textbf{Universal matter coupling.} The observer-accessible matter sector must couple universally to the same \(g_{\mu\nu}\) that governs gravity, null propagation, and proper time.
-    \item \textbf{Infrared Einsteinian recovery.} The long-wavelength metric dynamics must reduce exactly to the Einstein equations with ordinary matter coupling, equivalently to \eqref{eq:bridgeeffectiveaction} with \(\Delta S=0\).
-    \item \textbf{Mode control.} Any extra substrate modes carried by \(U^A\), \(S\), or \(Q\) must either be constrained, screened, or decoupled so that no independent low-energy preferred-frame observable sector survives inside \TheoryName{}.
-    \item \textbf{Compatibility with the active sequence.} The recovered observer field \(u^\mu\) and rest-space geometry \(h_{\mu\nu}\) must match the congruence-based flow geometry, weak-field structure, causal structure, and local SR recovery already fixed in the exact-closure manuscripts.
+    \item \textbf{Single-metric matter test.} Matter and light couple only to \(g_{\mu\nu}\), with no unsuppressed direct coupling to \(U^A\), \(S\), or \(Q^I\).
+    \item \textbf{Field-equation test.} The bridge correction tensor in \eqref{eq:bridgeeinstein} satisfies
+    \begin{equation}
+    \Delta_{\mu\nu}^{(U,S,Q)} = 0
+    \label{eq:deltatensorzero}
+    \end{equation}
+    exactly, or at minimum is suppressed below observational relevance by the gap condition \eqref{eq:modegap}.
+    \item \textbf{Spectrum test.} No unsuppressed extra scalar or vector pole survives in the observer-accessible propagator.
+    \item \textbf{Recovery test.} The weak-field, redshift, causal, and local-SR structures match the exact-closure manuscripts already in the active sequence.
 \end{enumerate}
 
-These criteria are intentionally strong. They ensure that the derivational program is answerable to the exact-closure benchmark rather than drifting into a looser metaphorical or deformation-first narrative.
+If those tests are passed, the candidate model lies on an exact-closure branch of the derivational program. If they fail, the correct scientific status is not to blur the failure with the established theory, but to contract back to the exact-closure benchmark already fixed by the existing manuscripts.
+
+\begin{remark}
+This is the precise sense in which the present paper now does all four missing pieces of the next research step. It states one explicit candidate substrate dynamics, one universal matter-coupling route, one first mode-control regime, and one exact-closure test. What it still does not do is prove that the candidate model actually passes that test.
+\end{remark}
 
 \section{What This Manuscript Establishes and What It Does Not}
 
@@ -391,27 +576,30 @@ The present manuscript establishes the following positive structure.
     \item It identifies the local experiential three-space with the substrate projector \(P_{AB}\) orthogonal to the ordered flow.
     \item It gives a concrete Lorentzian bridge metric \(\BridgeMetric_{AB}=G_{AB}-2U_AU_B\).
     \item It defines the observer map by which the effective metric \(g_{\mu\nu}\), the effective observer field \(u^\mu\), and the rest-space metric \(h_{\mu\nu}\) are recovered.
-    \item It states exact derivational success conditions in a form that can be tested by any later substrate action.
+    \item It proposes one explicit candidate substrate action class \eqref{eq:candidateaction}--\eqref{eq:auxlag}.
+    \item It gives a universal matter-coupling route through \(S_{\mathrm{matter}}[g,\psi]\) alone.
+    \item It states a first controlled mode-gap condition \eqref{eq:modegap} for the extra substrate sector.
+    \item It states an explicit exact-closure test through \eqref{eq:bridgeeinstein} and \eqref{eq:deltatensorzero}.
 \end{enumerate}
 
 The present manuscript does \emph{not} establish the following.
 \begin{enumerate}
-    \item It does not derive the Einstein equations from a completed substrate action.
-    \item It does not prove that a specific choice of \(\mathcal{L}_{\Sub}\) reproduces \eqref{eq:bridgeeffectiveaction} with \(\Delta S=0\).
-    \item It does not complete the mode counting or stability analysis of a concrete substrate model.
+    \item It does not derive the bridge-sector Einstein term from a deeper still-hidden microphysics.
+    \item It does not prove that the candidate action actually drives \(\Delta_{\mu\nu}^{(U,S,Q)}\) to zero in every admissible regime.
+    \item It does not complete the full quadratic mode counting or nonlinear stability analysis of the candidate substrate model.
     \item It does not introduce any established non-GR low-energy observable signature within \TheoryName{}.
 \end{enumerate}
 
 \begin{remark}
-The correct scientific status of the manuscript is therefore intermediate but substantive. It closes the missing kinematic bridge from ontology to an explicit candidate relativistic sector, while leaving the decisive dynamical proof to later work. Until that later work succeeds, exact closure remains the benchmark and reversion theory of the framework.
+The correct scientific status of the manuscript is therefore intermediate but substantive. It closes the missing bridge from ontology to an explicit candidate relativistic sector, while leaving the decisive dynamical proof to later work. Until that later work succeeds, exact closure remains the benchmark and reversion theory of the framework.
 \end{remark}
 
 \section{Conclusion}
 
-The project could not advance indefinitely by repeating exact GR / SR recovery statements. What it needed next was a disciplined bridge from ontology to explicit substrate kinematics. The present manuscript supplies that bridge.
+The project could not advance indefinitely by repeating exact GR / SR recovery statements. What it needed next was a disciplined bridge from ontology to explicit substrate kinematics, candidate dynamics, and a testable route toward derivation. The present manuscript supplies that next layer.
 
-The core move is simple but consequential. The \Aether{} is represented by a four-dimensional substrate manifold with positive-definite metric \(G_{AB}\). The \Aflow{} is represented kinematically by a unit ordered-flow field \(U^A\) together with an order scalar \(S\) monotone along that flow. Observed three-dimensional space is represented by the local projector orthogonal to \(U^A\). The observer-accessible Lorentzian sector is then obtained through the bridge metric \(\BridgeMetric_{AB}=G_{AB}-2U_AU_B\) and its pullback to the effective spacetime metric \(g_{\mu\nu}\).
+The core move is simple but consequential. The \Aether{} is represented by a four-dimensional substrate manifold with positive-definite metric \(G_{AB}\). The \Aflow{} is represented kinematically by a unit ordered-flow field \(U^A\) together with an order scalar \(S\) monotone along that flow. Observed three-dimensional space is represented by the local projector orthogonal to \(U^A\). The observer-accessible Lorentzian sector is then obtained through the bridge metric \(\BridgeMetric_{AB}=G_{AB}-2U_AU_B\) and its pullback to the effective spacetime metric \(g_{\mu\nu}\). On that bridge, the manuscript now adds one candidate action class, one universal matter-coupling route, one first mode-control condition, and one exact-closure test.
 
-This is not yet a completed derivation of Einsteinian gravity. It is the missing derivational architecture on which such a derivation would have to stand. The exact-closure theory of \TheoryName{} therefore remains scientifically primary, but the path beyond exact closure is now sharper: any later substrate action must answer to the bridge stated here and recover the exact relativistic benchmark already fixed by the active sequence.
+This is not yet a completed derivation of Einsteinian gravity. It is the first explicit candidate dynamical architecture on which such a derivation would have to stand. The exact-closure theory of \TheoryName{} therefore remains scientifically primary, but the path beyond exact closure is now sharper: the candidate model must either satisfy the exact-closure test stated here or yield no promotion beyond the benchmark theory already fixed by the active sequence.
 
 \end{document}

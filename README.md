@@ -20,7 +20,7 @@ The active root manuscript sequence is:
 - [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex): linearization, gauge structure, degree-of-freedom counting, and health conditions
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
-- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex): explicit substrate variables, bridge metric, observer map, and derivational success conditions
+- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex): explicit substrate variables, bridge metric, candidate dynamics, matter coupling, mode control, and exact-closure test
 
 ## Active Notes
 
@@ -35,6 +35,15 @@ Active manuscripts are built with `pdflatex`. The current active manuscript logs
 
 ## Next Step
 
-The active sequence now includes a first substrate-kinematics / derivational-bridge manuscript. The next substantive research step is to sharpen that bridge into an explicit candidate substrate dynamics with controlled matter coupling and mode control that can be tested against exact closure.
+The active sequence now includes a first substrate-kinematics / derivational-bridge manuscript with explicit candidate dynamics. The next substantive research step is to test that candidate model through linearized consistency, extra-mode suppression, and infrared exact-closure recovery.
 
 The only near-term non-research issue still open is the editorial one already tracked in [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md): whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain a standalone note or be folded into the main sequence later.
+
+## Current Research Delta
+
+The most recent substantive advance is [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex), which now does four things that were previously still open at the manuscript level:
+
+- states an explicit candidate substrate action class
+- states a universal matter-coupling route through the effective metric
+- states a first mode-control regime for the extra substrate sector
+- states an explicit exact-closure test for whether the candidate model really reduces to the active relativistic benchmark

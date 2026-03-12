@@ -26,6 +26,9 @@ Use the following as the primary vocabulary:
 - exact closure: exact recovery of the accepted relativistic operational structure
 - adoption: use of an already established effective dynamics such as GR without claiming substrate derivation
 - derivation: first-principles recovery of the effective relativistic sector from explicit substrate variables
+- candidate bridge dynamics: an explicit substrate-side action class and bridge map proposed for testing, without claiming completed Einsteinian recovery
+- mode control: the requirement that extra substrate scalar and vector sectors be constrained, screened, gapped, or otherwise prevented from surviving as an observer-accessible low-energy deformation
+- exact-closure test: the requirement that the candidate bridge model reduce to the unique effective metric sector of the active relativistic benchmark, with no unsuppressed surviving correction
 
 ## Secondary Explanatory Phrases
 
@@ -41,6 +44,18 @@ These may be used only as shorthand:
 - do not describe the active theory as already proved beyond GR
 - do describe the active theory as the exact relativistic interpretation built on the `Æther / Æther-flow` ontology
 - do distinguish ontology, adopted effective dynamics, and open derivational work
+- do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
+- do describe the current next research step as testing the candidate model through quadratic consistency and infrared exact-closure recovery
+
+## Current Project State
+
+The current active state of the repository is:
+
+- the exact-closure manuscript sequence is drafted
+- the flow-geometry manuscript is drafted
+- the substrate-kinematics manuscript now includes explicit candidate bridge dynamics, matter coupling, first mode control, and an exact-closure test
+- the next substantive research step is to test that candidate model through quadratic consistency analysis, extra-mode suppression, and infrared exact-closure recovery
+- the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
 

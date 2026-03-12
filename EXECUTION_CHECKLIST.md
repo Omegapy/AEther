@@ -10,15 +10,15 @@ This checklist tracks the active manuscript line for `The Æther-Flow Interpreta
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex) is drafted.
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex) is drafted.
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is drafted.
-- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) is drafted.
+- [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) is drafted with explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test.
 - [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md) and [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) are in place.
 - the source rename, retired-label cleanup, and opening-paragraph consolidation are complete.
 
 ## Active Next Tasks
 
-The first substrate-kinematics / derivational-bridge manuscript is now in place. The next substantive research step is to sharpen that bridge into an explicit candidate substrate dynamics with controlled matter coupling and mode control, rather than returning to another GR / SR recovery paper.
+The first substrate-kinematics / derivational-bridge manuscript now includes explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test. The next substantive research step is to test that candidate model through a dedicated linearized consistency and infrared-recovery pass, rather than returning to another GR / SR recovery paper.
 
-1. Extend [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) from kinematic bridge to explicit candidate substrate dynamics, including a sharper substrate action ansatz, matter-coupling route, and mode-control assumptions answerable to exact closure.
+1. Carry [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) through the next test stage: derive and analyze the quadratic candidate-model sector, verify extra-mode suppression, and determine whether the exact-closure branch really drives \(\Delta_{\mu\nu}^{(U,S,Q)}\) to zero.
 2. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
 3. Rebuild the active manuscript set after any further substantive edits.
 4. Re-run the retired-label validation sweep after any further substantive edits.
@@ -35,7 +35,10 @@ The substrate-kinematics manuscript now covers:
 - define a Lorentzian bridge metric \(\mathfrak{g}_{AB} = G_{AB} - 2 U_A U_B\)
 - define the observer map \(g_{\mu\nu} = \Xi^{*}\mathfrak{g}_{AB}\)
 - match the effective observer rest-space metric to the substrate projector
-- state the derivational success conditions required to recover exact Einsteinian closure
+- define a candidate substrate action class answerable to exact closure
+- define universal matter coupling through the effective metric alone
+- state a first mode-gap condition for the nonmetric substrate sector
+- state the exact-closure test required to recover exact Einsteinian closure
 
 ## Flow-Geometry Coverage
 

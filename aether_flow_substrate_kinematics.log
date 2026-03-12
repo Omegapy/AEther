@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.11)  12 MAR 2026 14:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.11)  12 MAR 2026 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -688,23 +688,23 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 69.
  [2{/Users/alex.omegapy/texlive/2026/texmf-dist/fonts/enc/dvips/lm/lm-mathex.en
 c}]
-[3] [4] [5] [6] [7] [8] (./aether_flow_substrate_kinematics.aux)
+[3] [4] [5] [6] [7] [8] [9] [10] [11] (./aether_flow_substrate_kinematics.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `aether_flow_substrate_kinematics.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 01C4261366BB4C67DD35D1271FCA2925;2004.
+(rerunfilecheck)             Checksum: EC077F23C8217ADA9E04B47497F82F50;3061.
  ) 
 Here is how much of TeX's memory you used:
- 15205 strings out of 469006
- 238738 string characters out of 5453979
- 691891 words of memory out of 5000000
- 43375 multiletter control sequences out of 15000+600000
- 722450 words of font info for 223 fonts, out of 8000000 for 9000
+ 15266 strings out of 469006
+ 239503 string characters out of 5453979
+ 694599 words of memory out of 5000000
+ 43398 multiletter control sequences out of 15000+600000
+ 722915 words of font info for 229 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 75i,5n,79p,1029b,781s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1029b,785s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/eule
 r/eufm10.pfb></Users/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/lm
 /lmbx10.pfb></Users/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/lm/
@@ -720,11 +720,11 @@ sers/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Us
 ers/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></User
 s/alex.omegapy/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm
 10.pfb>
-Output written on aether_flow_substrate_kinematics.pdf (8 pages, 238773 bytes).
-
+Output written on aether_flow_substrate_kinematics.pdf (11 pages, 262095 bytes)
+.
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 47177 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 319 PDF objects out of 1000 (max. 8388607)
+ 273 compressed objects within 3 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 47217 words of extra memory for PDF output out of 51595 (max. 10000000)
 
