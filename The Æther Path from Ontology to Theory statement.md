@@ -46,7 +46,7 @@ The active line must remain healthy under:
 - causal-structure control
 - weak-field reduction
 
-The next active research burden is now to carry the candidate substrate model through this consistency layer directly, rather than only at the already-adopted GR closure level.
+That candidate-model consistency layer is now stated directly in [aether_flow_substrate_linearized_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_linearized_consistency.tex), which now carries the bridge model through an explicit quadratic coefficient evaluation and a first local curved-background extension.
 
 ## 5. Relativistic Recovery
 
@@ -69,6 +69,11 @@ The active root sequence now exists in:
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex)
 - [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex)
+- [aether_flow_substrate_linearized_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_linearized_consistency.tex)
+- [aether_flow_substrate_minimal_stable_sign_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_minimal_stable_sign_no_go.tex)
+- [aether_flow_substrate_derivative_mixing_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_branch.tex)
+- [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex)
+- [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex)
 
 The operative public theory line is `The Æther-Flow Interpretation of Relativity`.
 
@@ -76,12 +81,14 @@ The operative public theory line is `The Æther-Flow Interpretation of Relativit
 
 The source rename and prose-consolidation pass are now complete. The active sequence now shares one opening framework paragraph, one claim-boundary vocabulary, and one public theory name.
 
-The repository now includes that next bridge manuscript in [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex), and that manuscript now contains explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test. The next substantive research step is therefore narrower again: test that candidate model through quadratic consistency analysis and infrared exact-closure recovery.
+The repository now includes the minimal stable-sign no-go note in [aether_flow_substrate_minimal_stable_sign_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_minimal_stable_sign_no_go.tex), the first nonminimal branch-selection note in [aether_flow_substrate_derivative_mixing_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_branch.tex), the derivative-mixing consistency result in [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex), and the next branch-family note in [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex). The immediate substantive research step is now to carry the constraint-assisted longitudinal `U`-sector family through its full flat-background quadratic elimination and determine whether its sourced auxiliary channel yields a healthy nondegenerate exact-closure branch or only another tuned degeneracy.
 
 The only near-term non-research issue still open is the narrower editorial one already recorded in [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md):
 
 - decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone
 - or fold its unique material into the main sequence later
+
+The live branch-testing board for this stage is now [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md).
 
 ## Working Standard
 

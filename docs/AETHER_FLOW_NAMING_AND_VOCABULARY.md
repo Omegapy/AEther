@@ -29,6 +29,9 @@ Use the following as the primary vocabulary:
 - candidate bridge dynamics: an explicit substrate-side action class and bridge map proposed for testing, without claiming completed Einsteinian recovery
 - mode control: the requirement that extra substrate scalar and vector sectors be constrained, screened, gapped, or otherwise prevented from surviving as an observer-accessible low-energy deformation
 - exact-closure test: the requirement that the candidate bridge model reduce to the unique effective metric sector of the active relativistic benchmark, with no unsuppressed surviving correction
+- minimal stable-sign no-go result: the coefficient-level statement that positive-definite \(\widehat M_{IJ}\) and nonnegative \(\kappa_S\) force the minimal flat-branch cancellation into a degenerate scalar limit
+- derivative-mixing branch: the first nonminimal `S/Q` completion tested after the minimal no-go result
+- constraint-assisted longitudinal `U`-sector completion: the next candidate family, in which an auxiliary scalar mediates a sourced longitudinal ordered-flow constraint
 
 ## Secondary Explanatory Phrases
 
@@ -45,7 +48,7 @@ These may be used only as shorthand:
 - do describe the active theory as the exact relativistic interpretation built on the `Æther / Æther-flow` ontology
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
-- do describe the current next research step as testing the candidate model through quadratic consistency and infrared exact-closure recovery
+- do describe the current next research step as carrying the constraint-assisted longitudinal `U`-sector family through a full flat-background quadratic elimination and determining whether it yields a healthy nondegenerate exact-closure branch
 
 ## Current Project State
 
@@ -54,7 +57,11 @@ The current active state of the repository is:
 - the exact-closure manuscript sequence is drafted
 - the flow-geometry manuscript is drafted
 - the substrate-kinematics manuscript now includes explicit candidate bridge dynamics, matter coupling, first mode control, and an exact-closure test
-- the next substantive research step is to test that candidate model through quadratic consistency analysis, extra-mode suppression, and infrared exact-closure recovery
+- the substrate linearized-consistency manuscript now evaluates the explicit quadratic coefficients, states the flat-branch conditions \(\mathcal B_0=\mathcal B_2=0\), and records a first local curved-background continuation
+- the minimal stable-sign no-go result is now recorded
+- the first nonminimal derivative-mixing branch has been selected and tested, and it closes only on a tuned degenerate semidefinite branch
+- the next candidate family has now been selected as a constraint-assisted longitudinal `U`-sector completion mediated by an auxiliary scalar `C`
+- the next substantive research step is to carry that `C`-mediated `U`-sector family through a full flat-background quadratic elimination
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph

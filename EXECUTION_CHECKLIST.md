@@ -11,17 +11,27 @@ This checklist tracks the active manuscript line for `The Æther-Flow Interpreta
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex) is drafted.
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is drafted.
 - [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) is drafted with explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test.
+- [aether_flow_substrate_linearized_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_linearized_consistency.tex) is drafted with explicit quadratic coefficient evaluation, the flat-branch conditions \(\mathcal B_0=\mathcal B_2=0\), and a first local curved-background continuation.
+- [aether_flow_substrate_minimal_stable_sign_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_minimal_stable_sign_no_go.tex) is drafted and records the minimal stable-sign no-go result.
+- [aether_flow_substrate_derivative_mixing_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_branch.tex) is drafted and selects the first nonminimal `S/Q` derivative-mixing branch.
+- [aether_flow_substrate_derivative_mixing_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_derivative_mixing_consistency.tex) is drafted and shows that the derivative-mixing branch closes only on a tuned degenerate semidefinite branch.
+- [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex) is drafted and selects the next candidate family, a constraint-assisted longitudinal `U`-sector completion mediated by an auxiliary scalar \(C\).
+- [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) is in place as the living research task board.
 - [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md) and [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) are in place.
 - the source rename, retired-label cleanup, and opening-paragraph consolidation are complete.
 
 ## Active Next Tasks
 
-The first substrate-kinematics / derivational-bridge manuscript now includes explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test. The next substantive research step is to test that candidate model through a dedicated linearized consistency and infrared-recovery pass, rather than returning to another GR / SR recovery paper.
+The minimal stable-sign obstruction has now been recorded, the first nonminimal derivative-mixing branch has been tested and found degenerate, and the next active candidate family has been selected. The immediate substantive research step is now the full quadratic test of the constraint-assisted longitudinal `U`-sector family.
 
-1. Carry [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) through the next test stage: derive and analyze the quadratic candidate-model sector, verify extra-mode suppression, and determine whether the exact-closure branch really drives \(\Delta_{\mu\nu}^{(U,S,Q)}\) to zero.
-2. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
-3. Rebuild the active manuscript set after any further substantive edits.
-4. Re-run the retired-label validation sweep after any further substantive edits.
+1. Use [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex) to derive the full flat-background quadratic elimination of the `C`-mediated longitudinal `U`-sector family.
+2. Determine the generalized exact-closure conditions for that family and decide whether any healthy nondegenerate branch survives away from the singular locus \(1-\kappa_\theta M_C^2=0\).
+3. If a viable branch survives, upgrade that branch from the flat-background calculation to a local and then global admissible-background analysis.
+4. If no viable branch survives, nominate the next genuinely new nonminimal family beyond the present constraint-assisted `U`-sector completion.
+5. Decide whether the derivative-mixing branch should now be archived in the tracking docs as a tested degenerate side branch.
+6. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
+7. Rebuild the active manuscript set after any further substantive edits.
+8. Re-run the retired-label validation sweep after any further substantive edits.
 
 The only near-term non-research issue still open is the editorial placement of [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) within the active sequence.
 

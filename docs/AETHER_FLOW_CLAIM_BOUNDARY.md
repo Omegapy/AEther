@@ -76,13 +76,14 @@ Its claim boundary is strict:
 
 The following remain open:
 
-- a full quadratic mode analysis of the candidate substrate model
-- a proof that the extra scalar and vector substrate sectors really decouple or remain observationally silent
-- a controlled derivation of the infrared Einsteinian metric equation from the candidate action
+- a full flat-background quadratic elimination of the constraint-assisted longitudinal `U`-sector family introduced in [aether_flow_substrate_constraint_assisted_u_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_constraint_assisted_u_branch.tex)
+- a proof that any viable nonminimal completion can evade both the minimal stable-sign obstruction and the derivative-mixing degeneracy while preserving exact closure
+- a proof that those cancellations survive beyond the current local slowly varying curved-background regime
+- a controlled derivation that the infrared Einsteinian metric equation really follows once those coefficient-level cancellations are enforced on a viable branch
 - a proof that the candidate bridge closes onto the exact relativistic line rather than a deformation of it
 - a first-principles justification of why the bridge curvature term itself should arise from deeper substrate microphysics
 
-The central missing piece is therefore no longer the absence of a bridge manuscript or of a candidate dynamics. Those now exist. The next research burden is to test that candidate model hard enough to determine whether it really closes onto the exact relativistic line.
+The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, or even of a first nonminimal branch test. Those now exist. The immediate research burden is to determine whether the newly selected constraint-assisted longitudinal `U`-sector family can generate a genuinely nondegenerate exact-closure branch, or whether it too collapses onto a tuned degeneracy before the project advances to a broader curved-background statement.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
@@ -95,6 +96,9 @@ The following claims are safe in the active sequence:
 - GR is adopted exactly in the active theory line
 - flow geometry is an interpretive deepening of the exact relativistic line, not a change of low-energy law
 - the substrate-kinematics manuscript provides an explicit bridge architecture and candidate substrate dynamics without claiming completed Einsteinian derivation
+- the minimal stable-sign candidate action now has a recorded coefficient-level no-go result
+- the derivative-mixing `S/Q` branch has been tested and reaches exact closure only on a tuned degenerate semidefinite branch
+- the constraint-assisted longitudinal `U`-sector family is the next candidate family under test, not an established success
 
 ## 8. Claims To Avoid
 
@@ -104,3 +108,5 @@ The following statements should not appear in the active manuscripts:
 - ontology by itself establishes new low-energy physics
 - the present active line already contains a completed microphysical theory
 - speculative substrate completions are already established consequences of the framework
+- the derivative-mixing branch has already solved the exact-closure problem
+- the constraint-assisted longitudinal `U`-sector family is already known to be healthy or nondegenerate
