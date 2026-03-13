@@ -77,14 +77,16 @@ Its claim boundary is strict:
 The following remain open:
 
 - a proof that any viable nonminimal completion can evade the minimal stable-sign obstruction, the derivative-mixing semidegenerate branch, and the constraint-assisted positive-sign collapse while preserving exact closure
-- a proof that the current quartic admissible-background package can be upgraded from its present region-level control statement to a true broader admissible-background theorem
-- a proof that those cancellations survive beyond the current local and packaged admissible-background regimes
+- if the admissible-background route is ever reopened, a genuinely new higher-order localization or dynamical estimate that restores enough quantitative control to bypass the recorded automatic-extension obstruction
+- a proof that the quartic cancellations survive beyond the current local, packaged, uniformly controlled, and obstruction-limited admissible-background regimes
+- a proof that the explicit minimal quartic-compatible nonlinear completion now on record is locally well posed and satisfies the first narrow nonlinear-stability setup
+- a proof that the auxiliary elliptic \(Q\)- and \(U\)-sector constraints of that explicit completion remain solvable and propagating on the small-data branch
 - a controlled derivation that the infrared Einsteinian metric equation really follows once those coefficient-level cancellations are enforced on a viable branch
 - a proof that the candidate bridge closes onto the exact relativistic line rather than a deformation of it
 - a nonlinear stability analysis of the surviving quartic branch
 - a first-principles justification of why the bridge curvature term itself should arise from deeper substrate microphysics
 
-The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, of the first bridge-metric matter-coupling gate result, of the quartic recovery-compatibility gate result, of the quartic local curved-background continuation, or of the admissible-background requirements note. Those now exist. The immediate research burden is now narrower again: determine whether that admissible-background package can be sharpened into a true broader theorem, or whether the program should turn next to nonlinear stability on the surviving quartic branch.
+The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, of the first bridge-metric matter-coupling gate result, of the quartic recovery-compatibility gate result, of the quartic local curved-background continuation, of the admissible-background requirements note, of a first broader admissible-background theorem on uniformly controlled bounded-geometry regions, of a disciplined obstruction note fixing why that theorem does not extend automatically beyond uniform control, of a first concrete replacement-control test for that theorem boundary, of a dedicated narrow nonlinear-stability setup note, or of a first explicit minimal quartic-compatible completion and reduced Einstein--quartic-scalar system. Those now exist. The immediate research burden is now narrower again: prove the first local well-posedness and continuation argument for that chosen completion before any actual stability theorem is claimed.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
@@ -108,7 +110,13 @@ The following claims are safe in the active sequence:
 - at the present action-level and flat-branch quadratic scope, the higher-derivative quartic branch remains compatible with the active exact-relativistic recovery line in the stated long-wavelength, non-ultrasoft infrared regime
 - the quartic branch now admits a local slowly varying curved-background continuation with the same recovery-compatible hierarchy kept explicit
 - the active sequence now has a dedicated admissible-background requirements note stating the minimum region-level control package required before any broader theorem could be claimed
-- the immediate next derivational task is no longer the first local continuation but the harder choice between a true broader admissible-background theorem and nonlinear stability on the surviving quartic branch
+- the active sequence now has a first broader admissible-background theorem on uniformly controlled bounded-geometry regions
+- the active sequence now has a disciplined admissible-background extension obstruction fixing why the broader theorem does not extend automatically beyond uniform control
+- the active sequence now has a negative result for the first locally finite summable patch-control weakening test
+- the active sequence now has a narrow nonlinear-stability setup note fixing the minimum quartic-compatible nonlinear completion burden and the first honest flat-background small-data target
+- the active sequence now has an explicit minimal quartic-compatible nonlinear completion and a first reduced Einstein--quartic-scalar 3+1 system
+- at current scope the admissible-background route should be treated as complete at the uniformly controlled theorem boundary
+- the next major burden is to prove the first local well-posedness and continuation result for that chosen explicit completion
 
 ## 8. Claims To Avoid
 
@@ -125,5 +133,12 @@ The following statements should not appear in the active manuscripts:
 - the higher-derivative quartic branch has already been cleared for local curved-background continuation before its bridge-metric matter-coupling and exact-relativistic recovery gates are checked
 - the higher-derivative quartic branch has already been shown compatible with the active exact-relativistic recovery line before that gate is actually analyzed
 - the current admissible-background requirements note is already a full global theorem
+- the current broader admissible-background theorem already covers arbitrary admissible backgrounds
+- the recorded admissible-background extension obstruction already rules out every possible wider theorem in principle
+- the locally finite summable patch-control test has already widened the current theorem at the same operator-level scope
+- the admissible-background route still has an unresolved smallest honest extension mechanism at current scope
+- the nonlinear-stability setup note already proves local well-posedness or nonlinear stability
+- the quartic branch already has a unique full nonlinear covariant completion fixed by the active sequence
+- the explicit minimal completion note already proves local well-posedness, elliptic auxiliary solvability, or nonlinear stability
 - the ultrasoft static corner of the quartic branch has already been shown harmless at the same scope as the non-ultrasoft recovery-compatible regime
 - nonlinear stability of the quartic branch has already been established

@@ -43,6 +43,14 @@ Use the following as the primary vocabulary:
 - higher-derivative recovery-compatibility gate result: the statement that, at the present action-level and flat-branch quadratic scope, the quartic branch preserves the active GR / SR benchmark in a stated long-wavelength, non-ultrasoft infrared regime
 - quartic branch local curved-background continuation: the statement that the quartic branch extends to slowly varying admissible backgrounds with the same recovery-compatible hierarchy kept explicit and with no new unsuppressed observer-accessible low-energy deformation at that local scope
 - admissible-background package: the region-level control package of exact-closure background admissibility, smooth observer congruence, uniform auxiliary positivity, bounded geometry relative to \(M_*\), and recovery-compatible spectral hierarchy required before any broader theorem for the quartic branch could be claimed
+- broader admissible-background theorem on uniformly controlled regions: the first theorem-level upgrade of the quartic admissible-background package, obtained by patching the local continuation across a finite-overlap bounded-geometry atlas while keeping the same single-metric recovery benchmark and a uniform bound on the residual metric-mediated scalar self-energy
+- admissible-background extension obstruction: the statement that the current broader theorem does not extend automatically beyond uniformly controlled regions because loss of observer-structure regularity, uniform positivity, bounded geometry, finite-overlap patch control, or non-ultrasoft hierarchy destroys one of the proof's essential estimates
+- summable patch-control test result: the statement that replacing finite-overlap patch control by a locally finite atlas with summable partition-derivative bounds does not preserve the same quartic operator remainder hierarchy at the present operator-level scope
+- current admissible-background endpoint: the disciplined conclusion that the quartic theorem route presently stops at the broader theorem on uniformly controlled regions together with its recorded obstruction and the negative summable patch-control test
+- quartic-compatible nonlinear completion: a nonlinear completion of the higher-derivative quartic branch that preserves the bridge metric and matter route, reproduces the recorded flat and local curved quartic reductions, keeps the auxiliary blocks positive, and introduces no new observer-accessible higher ordered-flow principal term
+- narrow nonlinear-stability setup: the first honest stability target for the quartic branch, posed as a conditional small-data flat-background Cauchy problem after a quartic-compatible nonlinear completion is fixed explicitly
+- explicit minimal quartic-compatible completion: the first concrete nonlinear branch now recorded, obtained by keeping the bridge and matter route, preserving the collapsed-scalar low-order baseline and positive auxiliary blocks, and adjoining only the covariant projected quartic operator \((\Delta_\perp S)^2\)
+- reduced Einstein--quartic-scalar 3+1 system: the ADM-form observer-accessible evolution and constraint system attached to the explicit minimal quartic-compatible completion, with the \(Q\)- and \(U\)-sector variables treated through auxiliary elliptic constraints rather than as new propagating channels
 
 ## Secondary Explanatory Phrases
 
@@ -59,7 +67,8 @@ These may be used only as shorthand:
 - do describe the active theory as the exact relativistic interpretation built on the `Æther / Æther-flow` ontology
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
-- do describe the current next research step as deciding whether the quartic branch admissible-background package should be sharpened into a broader theorem or whether the next honest burden is nonlinear stability
+- do describe the current admissible-background route as reaching a theorem boundary fixed by the broader theorem, the recorded extension obstruction, and the negative summable patch-control test unless genuinely new higher-order input is added
+- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion now on record, while still not treating local well-posedness or nonlinear stability as already proved
 
 ## Current Project State
 
@@ -78,7 +87,14 @@ The current active state of the repository is:
 - the higher-derivative recovery-compatibility gate result is now recorded
 - the quartic branch local curved-background continuation is now recorded
 - the admissible-background package note is now recorded
-- the next substantive research step is to decide whether that admissible-background package should be sharpened into a broader theorem or whether the next honest burden is nonlinear stability
+- the broader admissible-background theorem on uniformly controlled regions is now recorded
+- the admissible-background extension obstruction is now recorded
+- the summable patch-control test result is now recorded
+- the current admissible-background endpoint is now fixed at the present disciplined scope
+- the narrow nonlinear-stability setup is now recorded
+- the explicit minimal quartic-compatible completion is now recorded
+- the reduced Einstein--quartic-scalar 3+1 system is now recorded
+- the next substantive research step is to prove the first local well-posedness and continuation result for that chosen explicit completion
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
