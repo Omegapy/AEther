@@ -40,6 +40,9 @@ Use the following as the primary vocabulary:
 - higher-derivative collapsed-scalar branch: the next candidate family selected after the constraint-assisted no-go result, in which the repeated low-order scalar collapse is treated as baseline and the first stabilizing scalar operator is pushed to quartic spatial derivative order
 - higher-derivative quartic test result: the coefficient-level statement that the minimal quartic representative of the higher-derivative branch satisfies the flat-background `k^0/k^2` exact-closure conditions identically and retains a strictly positive quartic scalar stiffness when \(m_S^2>0\), \(\lambda_4>0\), and \(\widehat M_{IJ}\) is positive definite
 - higher-derivative matter-coupling gate result: the statement that, at the present action-level and flat-branch quadratic scope, the quartic branch leaves the matter route \(S_{\mathrm{matter}}[\Xi^*\BridgeMetric,\psi]\) unchanged and generates only metric-mediated derivative-suppressed corrections rather than an unsuppressed direct low-energy matter coupling to extra substrate variables
+- higher-derivative recovery-compatibility gate result: the statement that, at the present action-level and flat-branch quadratic scope, the quartic branch preserves the active GR / SR benchmark in a stated long-wavelength, non-ultrasoft infrared regime
+- quartic branch local curved-background continuation: the statement that the quartic branch extends to slowly varying admissible backgrounds with the same recovery-compatible hierarchy kept explicit and with no new unsuppressed observer-accessible low-energy deformation at that local scope
+- admissible-background package: the region-level control package of exact-closure background admissibility, smooth observer congruence, uniform auxiliary positivity, bounded geometry relative to \(M_*\), and recovery-compatible spectral hierarchy required before any broader theorem for the quartic branch could be claimed
 
 ## Secondary Explanatory Phrases
 
@@ -56,7 +59,7 @@ These may be used only as shorthand:
 - do describe the active theory as the exact relativistic interpretation built on the `Æther / Æther-flow` ontology
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
-- do describe the current next research step as checking compatibility with the active exact-relativistic recovery line before any local curved-background continuation
+- do describe the current next research step as deciding whether the quartic branch admissible-background package should be sharpened into a broader theorem or whether the next honest burden is nonlinear stability
 
 ## Current Project State
 
@@ -72,7 +75,10 @@ The current active state of the repository is:
 - the higher-derivative collapsed-scalar branch has now been selected as the next candidate family
 - the higher-derivative quartic test result is now recorded
 - the higher-derivative matter-coupling gate result is now recorded
-- the next substantive research step is to check whether that quartic branch remains compatible with the active exact-relativistic recovery line before any local curved-background continuation
+- the higher-derivative recovery-compatibility gate result is now recorded
+- the quartic branch local curved-background continuation is now recorded
+- the admissible-background package note is now recorded
+- the next substantive research step is to decide whether that admissible-background package should be sharpened into a broader theorem or whether the next honest burden is nonlinear stability
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph

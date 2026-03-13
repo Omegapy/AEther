@@ -21,24 +21,24 @@ This checklist tracks the active manuscript line for `The Æther-Flow Interpreta
 - [aether_flow_substrate_higher_derivative_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_branch.tex) is drafted and selects the next candidate family as a higher-derivative completion around the collapsed scalar branch.
 - [aether_flow_substrate_higher_derivative_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_consistency.tex) is drafted and shows that the minimal quartic representative passes the flat-background `k^0/k^2` exact-closure screen and keeps a positive quartic scalar stiffness under the quartic-health gate.
 - [aether_flow_substrate_higher_derivative_matter_coupling.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_matter_coupling.tex) is drafted and shows that the quartic branch preserves controlled matter coupling through the bridge metric alone at the present action-level and flat-branch quadratic scope.
+- [aether_flow_substrate_higher_derivative_recovery_compatibility.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_recovery_compatibility.tex) is drafted and shows that the quartic branch preserves the active exact-relativistic benchmark in its stated long-wavelength, non-ultrasoft infrared regime.
+- [aether_flow_substrate_higher_derivative_curved_background_continuation.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_curved_background_continuation.tex) is drafted and extends the quartic branch to slowly varying admissible backgrounds under the same recovery-compatible hierarchy.
+- [aether_flow_substrate_higher_derivative_admissible_background_requirements.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_admissible_background_requirements.tex) is drafted and states the region-level admissible-background package needed before any broader theorem could be claimed.
 - [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) is in place as the living research task board.
 - [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md) and [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) are in place.
 - the source rename, retired-label cleanup, and opening-paragraph consolidation are complete.
 
 ## Active Next Tasks
 
-The minimal stable-sign obstruction has now been recorded, the first nonminimal derivative-mixing branch has been tested and found degenerate, the constraint-assisted longitudinal `U`-sector family has now also been carried through quadratic elimination and ruled out as a healthy nondegenerate branch under the active positive-sign standard, the higher-derivative quartic branch has now passed its flat-background `k^0/k^2` screening step, and the first Phase 4 gate has now also been passed: controlled matter coupling through the bridge metric alone. The immediate substantive research step is therefore the next remaining gate, compatibility with the active exact-relativistic recovery line, before any local curved-background continuation.
+The minimal stable-sign obstruction has now been recorded, the first nonminimal derivative-mixing branch has been tested and found degenerate, the constraint-assisted longitudinal `U`-sector family has also been ruled out as a healthy nondegenerate branch under the active positive-sign standard, and the higher-derivative quartic branch has now passed the full benchmark gate sequence needed before a broader theorem-level statement could even be discussed. The immediate substantive research step is therefore no longer recovery compatibility or the first local continuation. It is to decide whether the new admissible-background package should be sharpened into a true broader theorem, or whether the next honest burden should instead be nonlinear stability on the surviving quartic branch.
 
-1. Check whether the higher-derivative quartic branch remains compatible with the active exact-relativistic recovery line.
-2. Recommended concrete pass: write a dedicated quartic recovery-compatibility note on the reduced observer-accessible theory.
-3. In that pass, check whether the quartic branch preserves the GR weak-field/Newtonian sector at orders `k^0/k^2`.
-4. In that pass, check whether the branch preserves the single metric null cone, proper-time rule, and local SR limit already fixed in [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex).
-5. In that pass, state the infrared regime in which the surviving quartic metric self-energy remains below observer-accessible relevance.
-6. Only after that gate passes should the project promote the quartic branch to a local curved-background continuation, and only after that to a broader global admissible-background analysis.
-7. Decide whether the derivative-mixing and constraint-assisted branches should now be archived in the tracking docs as tested degenerate side branches.
-8. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
-9. Rebuild the active manuscript set after any further substantive edits.
-10. Re-run the retired-label validation sweep after any further substantive edits.
+1. Decide whether to attempt a broader admissible-background theorem for the higher-derivative quartic branch or to turn first to nonlinear stability.
+2. If the admissible-background route is chosen, sharpen the package in [aether_flow_substrate_higher_derivative_admissible_background_requirements.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_admissible_background_requirements.tex) into a genuine theorem or a disciplined obstruction result.
+3. If the nonlinear-stability route is chosen, define the narrowest honest first pass and its claim boundary before writing a manuscript.
+4. Decide whether the derivative-mixing and constraint-assisted branches should now be archived in the tracking docs as tested degenerate side branches.
+5. Decide whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) should remain standalone or be folded into the main sequence later.
+6. Rebuild the active manuscript set after any further substantive edits.
+7. Re-run the retired-label validation sweep after any further substantive edits.
 
 The only near-term non-research issue still open is the editorial placement of [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) within the active sequence.
 

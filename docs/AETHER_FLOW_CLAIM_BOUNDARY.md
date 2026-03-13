@@ -76,14 +76,15 @@ Its claim boundary is strict:
 
 The following remain open:
 
-- a disciplined Phase 4 recovery-compatibility check for the higher-derivative quartic branch after the bridge-metric matter-coupling gate already passed at the present action-level and flat-branch quadratic scope
 - a proof that any viable nonminimal completion can evade the minimal stable-sign obstruction, the derivative-mixing semidegenerate branch, and the constraint-assisted positive-sign collapse while preserving exact closure
-- a proof that those cancellations survive beyond the current local slowly varying curved-background regime
+- a proof that the current quartic admissible-background package can be upgraded from its present region-level control statement to a true broader admissible-background theorem
+- a proof that those cancellations survive beyond the current local and packaged admissible-background regimes
 - a controlled derivation that the infrared Einsteinian metric equation really follows once those coefficient-level cancellations are enforced on a viable branch
 - a proof that the candidate bridge closes onto the exact relativistic line rather than a deformation of it
+- a nonlinear stability analysis of the surviving quartic branch
 - a first-principles justification of why the bridge curvature term itself should arise from deeper substrate microphysics
 
-The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, or of the first bridge-metric matter-coupling gate result. Those now exist. The immediate research burden is now narrower again: check whether the higher-derivative quartic branch remains compatible with the active exact-relativistic recovery line, and only after that gate passes advance to a local curved-background statement.
+The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, of the first bridge-metric matter-coupling gate result, of the quartic recovery-compatibility gate result, of the quartic local curved-background continuation, or of the admissible-background requirements note. Those now exist. The immediate research burden is now narrower again: determine whether that admissible-background package can be sharpened into a true broader theorem, or whether the program should turn next to nonlinear stability on the surviving quartic branch.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
@@ -104,7 +105,10 @@ The following claims are safe in the active sequence:
 - the higher-derivative quartic branch has now been carried through a flat-background coefficient-level test
 - on its minimal quartic representative, the higher-derivative branch satisfies the `k^0/k^2` exact-closure conditions identically and retains a positive quartic scalar stiffness under the quartic-health gate
 - at the present action-level and flat-branch quadratic scope, the higher-derivative quartic branch preserves controlled matter coupling through the bridge metric alone and does not introduce an unsuppressed direct low-energy matter coupling to extra substrate variables
-- the immediate next derivational task is to check exact-relativistic recovery compatibility before any local curved-background continuation
+- at the present action-level and flat-branch quadratic scope, the higher-derivative quartic branch remains compatible with the active exact-relativistic recovery line in the stated long-wavelength, non-ultrasoft infrared regime
+- the quartic branch now admits a local slowly varying curved-background continuation with the same recovery-compatible hierarchy kept explicit
+- the active sequence now has a dedicated admissible-background requirements note stating the minimum region-level control package required before any broader theorem could be claimed
+- the immediate next derivational task is no longer the first local continuation but the harder choice between a true broader admissible-background theorem and nonlinear stability on the surviving quartic branch
 
 ## 8. Claims To Avoid
 
@@ -120,3 +124,6 @@ The following statements should not appear in the active manuscripts:
 - the sign-flipped tuned loophole of the constraint-assisted branch is an accepted surviving derivational solution
 - the higher-derivative quartic branch has already been cleared for local curved-background continuation before its bridge-metric matter-coupling and exact-relativistic recovery gates are checked
 - the higher-derivative quartic branch has already been shown compatible with the active exact-relativistic recovery line before that gate is actually analyzed
+- the current admissible-background requirements note is already a full global theorem
+- the ultrasoft static corner of the quartic branch has already been shown harmless at the same scope as the non-ultrasoft recovery-compatible regime
+- nonlinear stability of the quartic branch has already been established

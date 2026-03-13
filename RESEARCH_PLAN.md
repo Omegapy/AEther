@@ -1,6 +1,6 @@
 # Research Plan
 
-Last updated: March 12, 2026
+Last updated: March 13, 2026
 
 This file is the living research task board for the active manuscript line of `The Æther-Flow Interpretation of Relativity`.
 
@@ -23,7 +23,7 @@ Use this plan to track:
 
 ## Current Objective
 
-The immediate research objective is to carry the higher-derivative collapsed-scalar branch through the next remaining benchmark gate: compatibility with the active exact-relativistic recovery line. The bridge-metric matter-coupling gate has now been passed at the present action-level and flat-branch quadratic scope, and only after the recovery-compatibility gate passes should the branch be promoted to a local curved-background continuation.
+The immediate research objective is to decide whether the quartic branch's current admissible-background package should be sharpened into a broader theorem-level statement, or whether the next honest burden should instead be nonlinear stability on the surviving branch. The recovery-compatibility gate, the local curved-background continuation, and the admissible-background requirements pass now all exist at the present disciplined scope.
 
 ## Completed Prerequisites
 
@@ -68,20 +68,26 @@ The immediate research objective is to carry the higher-derivative collapsed-sca
 
 - [x] Check whether the branch preserves controlled matter coupling through the bridge metric alone.
   Completed in [aether_flow_substrate_higher_derivative_matter_coupling.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_matter_coupling.tex), which shows that the quartic branch leaves the matter route \(S_{\mathrm{matter}}[\Xi^*\BridgeMetric,\psi]\) unchanged and that, after flat-branch auxiliary elimination, only a metric-mediated quartic self-energy survives at the present coefficient-level scope.
-- [ ] Check whether the branch remains compatible with the active exact-relativistic recovery line.
-- [ ] Write a dedicated quartic recovery-compatibility note, tentatively `aether_flow_substrate_higher_derivative_recovery_compatibility.tex`.
-- [ ] Show that the reduced observer-accessible quartic branch preserves the GR weak-field/Newtonian sector at orders `k^0` and `k^2`.
-- [ ] Show that the quartic branch preserves the single metric null cone, the ordinary proper-time rule, and the absence of a preferred-frame light-propagation sector.
-- [ ] Show that the local inertial and local SR limit remain governed by the same operational metric seen by matter and light.
-- [ ] State the infrared regime in which the surviving quartic metric self-energy remains below observer-accessible relevance and therefore does not spoil exact relativistic recovery in the intended regime.
-- [ ] Decide whether the branch passes those two benchmark gates cleanly enough to justify promotion to a local curved-background continuation.
+- [x] Check whether the branch remains compatible with the active exact-relativistic recovery line.
+- [x] Write a dedicated quartic recovery-compatibility note, tentatively `aether_flow_substrate_higher_derivative_recovery_compatibility.tex`.
+- [x] Show that the reduced observer-accessible quartic branch preserves the GR weak-field/Newtonian sector at orders `k^0` and `k^2`.
+- [x] Show that the quartic branch preserves the single metric null cone, the ordinary proper-time rule, and the absence of a preferred-frame light-propagation sector.
+- [x] Show that the local inertial and local SR limit remain governed by the same operational metric seen by matter and light.
+- [x] State the infrared regime in which the surviving quartic metric self-energy remains below observer-accessible relevance and therefore does not spoil exact relativistic recovery in the intended regime.
+- [x] Decide whether the branch passes those two benchmark gates cleanly enough to justify promotion to a local curved-background continuation.
+- [x] Record the result in [aether_flow_substrate_higher_derivative_recovery_compatibility.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_recovery_compatibility.tex), which clears the quartic branch for continuation only in the long-wavelength, non-ultrasoft infrared regime stated there.
 - [ ] If either gate fails, contract the branch back to the exact-closure benchmark rather than promoting it.
 
 ### Phase 5: Beyond Minkowski Space (Only After Phase 4 Passes)
 
-- [ ] Upgrade the current local curved-background continuation to the quartic branch only after the Phase 4 matter-coupling and exact-relativistic recovery gates pass.
-- [ ] Determine whether the cancellation conditions can be stated on general admissible backgrounds rather than only in a local slowly varying patch.
-- [ ] Identify the minimum ingredients needed for a future global admissible-background theorem.
+- [x] Upgrade the current local curved-background continuation to the quartic branch only after the Phase 4 matter-coupling and exact-relativistic recovery gates pass.
+  Completed in [aether_flow_substrate_higher_derivative_curved_background_continuation.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_curved_background_continuation.tex), which extends the quartic branch to slowly varying admissible backgrounds in the same recovery-compatible regime already stated on the flat branch.
+- [x] Determine whether the cancellation conditions can be stated on general admissible backgrounds rather than only in a local slowly varying patch.
+  Completed in conditioned package form in [aether_flow_substrate_higher_derivative_admissible_background_requirements.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_admissible_background_requirements.tex), which states the region-level admissible-background package required before any broader theorem could be claimed.
+- [x] Identify the minimum ingredients needed for a future global admissible-background theorem.
+  Completed in [aether_flow_substrate_higher_derivative_admissible_background_requirements.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_admissible_background_requirements.tex).
+- [ ] Decide whether to attempt a true broader admissible-background theorem next or to turn first to nonlinear stability on the surviving quartic branch.
+- [ ] If a broader theorem is attempted, sharpen the current admissible-background package into a genuine theorem or a disciplined obstruction result.
 
 ## Follow-On Tasks After a Viable Branch Exists
 
@@ -108,7 +114,9 @@ The immediate research objective is to carry the higher-derivative collapsed-sca
   Completed in [aether_flow_substrate_higher_derivative_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_branch.tex), which selects a higher-derivative completion around the collapsed scalar branch as the next family under test.
 - [x] Carry the higher-derivative collapsed-scalar family through a full flat-background quadratic elimination and determine whether its quartic spatial stabilizer yields a healthy observer-accessible exact-closure branch without reintroducing an unsuppressed `k^0` or `k^2` scalar term.
   Completed in [aether_flow_substrate_higher_derivative_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_consistency.tex), which shows that on the minimal quartic representative the branch satisfies `\mathcal B_{4,0}=\mathcal B_{4,2}=0` identically and retains a strictly positive quartic stiffness `\mathcal B_{4,4}=\lambda_4/M_*^2` under the quartic-health gate.
-- [ ] Carry the higher-derivative quartic branch through the remaining gate sequence: compatibility with the active exact-relativistic recovery line and only then a decision on local curved-background continuation.
+- [x] Carry the higher-derivative quartic branch through the remaining gate sequence: compatibility with the active exact-relativistic recovery line and only then a decision on local curved-background continuation.
+  Completed in [aether_flow_substrate_higher_derivative_recovery_compatibility.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_recovery_compatibility.tex) and [aether_flow_substrate_higher_derivative_curved_background_continuation.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_curved_background_continuation.tex).
+- [ ] Decide whether the current admissible-background package should now be pushed toward a broader theorem or treated as the stopping point before nonlinear stability.
 
 ## Research Log
 
@@ -123,3 +131,6 @@ The immediate research objective is to carry the higher-derivative collapsed-sca
 - 2026-03-12: The post-quartic next step was sharpened across the active docs: first test controlled matter coupling through the bridge metric alone, then test compatibility with the active exact-relativistic recovery line, and only after those gates pass promote the quartic branch to a local curved-background continuation.
 - 2026-03-12: The higher-derivative quartic branch matter-coupling gate was completed in [aether_flow_substrate_higher_derivative_matter_coupling.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_matter_coupling.tex). At the present action-level and flat-branch quadratic scope the branch preserves the single-metric matter route and introduces no unsuppressed direct low-energy matter coupling to extra substrate variables.
 - 2026-03-12: The recommended next manuscript focus was sharpened further: test quartic recovery compatibility by checking the weak-field/Newtonian sector, the single metric null and proper-time structure, the local SR limit, and the infrared domain of validity before any curved-background continuation.
+- 2026-03-13: The quartic recovery-compatibility gate was completed in [aether_flow_substrate_higher_derivative_recovery_compatibility.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_recovery_compatibility.tex). At the present action-level and flat-branch quadratic scope the branch preserves the active GR/SR benchmark in a long-wavelength, non-ultrasoft infrared regime.
+- 2026-03-13: The quartic branch local curved-background continuation was completed in [aether_flow_substrate_higher_derivative_curved_background_continuation.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_curved_background_continuation.tex). The branch now admits a local slowly varying admissible-background continuation with the same recovery-compatible hierarchy kept explicit.
+- 2026-03-13: The admissible-background requirements pass was completed in [aether_flow_substrate_higher_derivative_admissible_background_requirements.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_admissible_background_requirements.tex). The active next burden is now sharper again: decide whether to push that package toward a broader theorem or turn first to nonlinear stability.
