@@ -51,6 +51,10 @@ Use the following as the primary vocabulary:
 - narrow nonlinear-stability setup: the first honest stability target for the quartic branch, posed as a conditional small-data flat-background Cauchy problem after a quartic-compatible nonlinear completion is fixed explicitly
 - explicit minimal quartic-compatible completion: the first concrete nonlinear branch now recorded, obtained by keeping the bridge and matter route, preserving the collapsed-scalar low-order baseline and positive auxiliary blocks, and adjoining only the covariant projected quartic operator \((\Delta_\perp S)^2\)
 - reduced Einstein--quartic-scalar 3+1 system: the ADM-form observer-accessible evolution and constraint system attached to the explicit minimal quartic-compatible completion, with the \(Q\)- and \(U\)-sector variables treated through auxiliary elliptic constraints rather than as new propagating channels
+- strict auxiliary elliptic-control regime: the first local-theorem subregime for the explicit minimal quartic-compatible completion, in which the spatial metric remains uniformly elliptic, the lapse stays positive, the \(Q\)-sector mass block stays uniformly positive, and the ordered-flow elliptic coefficients satisfy \(\kappa_\theta>0\) and \(\kappa_\Omega>0\) so that lapse, shift, and the \(Q\)- and \(U\)-sector auxiliaries are solved slice by slice through uniformly elliptic equations
+- local well-posedness and continuation result with auxiliary elliptic control: the first small-data flat-background theorem for the explicit minimal quartic-compatible completion, proved in maximal spatial-harmonic gauge on the strict auxiliary elliptic-control branch where lapse, shift, and the \(Q\)- and \(U\)-sector variables are solved slice by slice through elliptic equations
+- coercive longer-time bootstrap on the strict auxiliary elliptic-control branch: the strengthened post-local-theorem estimate for the explicit minimal quartic-compatible completion, in which a corrected coercive energy obeys quadratic small-data growth and closes a \(T\sim \varepsilon^{-1}\) bootstrap on the same strict branch
+- strict elliptic-assumption relaxation test: the same-branch result showing that the current mixed hyperbolic--elliptic local solvability architecture does not extend uniformly to \(\kappa_\theta\ge 0\), \(\kappa_\Omega\ge 0\), because allowing either coefficient to vanish collapses the corresponding ordered-flow auxiliary equation into a nongeneric compatibility condition
 
 ## Secondary Explanatory Phrases
 
@@ -68,7 +72,7 @@ These may be used only as shorthand:
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
 - do describe the current admissible-background route as reaching a theorem boundary fixed by the broader theorem, the recorded extension obstruction, and the negative summable patch-control test unless genuinely new higher-order input is added
-- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion now on record, while still not treating local well-posedness or nonlinear stability as already proved
+- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, and its coercive longer-time bootstrap on the strict auxiliary elliptic-control branch, while still not treating nonlinear stability as already proved
 
 ## Current Project State
 
@@ -94,7 +98,10 @@ The current active state of the repository is:
 - the narrow nonlinear-stability setup is now recorded
 - the explicit minimal quartic-compatible completion is now recorded
 - the reduced Einstein--quartic-scalar 3+1 system is now recorded
-- the next substantive research step is to prove the first local well-posedness and continuation result for that chosen explicit completion
+- the local well-posedness and continuation result with auxiliary elliptic control is now recorded
+- the coercive longer-time bootstrap on the strict auxiliary elliptic-control branch is now recorded
+- the strict elliptic-assumption relaxation test is now recorded and shows that the present local solvability architecture does not survive \(\kappa_\theta=0\) or \(\kappa_\Omega=0\)
+- the next substantive research step is to determine whether that strict-branch coercive bootstrap can be promoted to genuine nonlinear stability, or whether a different completion is needed if one wants a theorem beyond the strict branch
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph

@@ -79,14 +79,14 @@ The following remain open:
 - a proof that any viable nonminimal completion can evade the minimal stable-sign obstruction, the derivative-mixing semidegenerate branch, and the constraint-assisted positive-sign collapse while preserving exact closure
 - if the admissible-background route is ever reopened, a genuinely new higher-order localization or dynamical estimate that restores enough quantitative control to bypass the recorded automatic-extension obstruction
 - a proof that the quartic cancellations survive beyond the current local, packaged, uniformly controlled, and obstruction-limited admissible-background regimes
-- a proof that the explicit minimal quartic-compatible nonlinear completion now on record is locally well posed and satisfies the first narrow nonlinear-stability setup
-- a proof that the auxiliary elliptic \(Q\)- and \(U\)-sector constraints of that explicit completion remain solvable and propagating on the small-data branch
+- a proof that the coercive longer-time bootstrap on the explicit minimal quartic-compatible completion can be promoted to a genuine small-data nonlinear stability theorem on the same strict auxiliary elliptic-control branch
+- if one wants a theorem beyond that strict branch, a new completion, gauge, or auxiliary architecture that preserves local solvability without the current strict \(\kappa_\theta>0\) and \(\kappa_\Omega>0\) requirements
 - a controlled derivation that the infrared Einsteinian metric equation really follows once those coefficient-level cancellations are enforced on a viable branch
 - a proof that the candidate bridge closes onto the exact relativistic line rather than a deformation of it
-- a nonlinear stability analysis of the surviving quartic branch
+- a global or asymptotic nonlinear stability analysis of the surviving quartic branch beyond the present \(T\sim \varepsilon^{-1}\) bootstrap
 - a first-principles justification of why the bridge curvature term itself should arise from deeper substrate microphysics
 
-The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, of the first bridge-metric matter-coupling gate result, of the quartic recovery-compatibility gate result, of the quartic local curved-background continuation, of the admissible-background requirements note, of a first broader admissible-background theorem on uniformly controlled bounded-geometry regions, of a disciplined obstruction note fixing why that theorem does not extend automatically beyond uniform control, of a first concrete replacement-control test for that theorem boundary, of a dedicated narrow nonlinear-stability setup note, or of a first explicit minimal quartic-compatible completion and reduced Einstein--quartic-scalar system. Those now exist. The immediate research burden is now narrower again: prove the first local well-posedness and continuation argument for that chosen completion before any actual stability theorem is claimed.
+The central missing piece is therefore no longer the absence of a bridge manuscript, of a candidate dynamics, of a first dedicated quadratic test manuscript, of the minimal-action no-go result, of a first nonminimal branch test, of the constraint-assisted longitudinal `U`-sector test, of a justified next-family selection, of a first positive flat-background quartic branch test, of the first bridge-metric matter-coupling gate result, of the quartic recovery-compatibility gate result, of the quartic local curved-background continuation, of the admissible-background requirements note, of a first broader admissible-background theorem on uniformly controlled bounded-geometry regions, of a disciplined obstruction note fixing why that theorem does not extend automatically beyond uniform control, of a first concrete replacement-control test for that theorem boundary, of a dedicated narrow nonlinear-stability setup note, of a first explicit minimal quartic-compatible completion and reduced Einstein--quartic-scalar system, of a first local well-posedness and continuation theorem for that explicit completion, of a coercive longer-time bootstrap on the same strict auxiliary elliptic-control branch, or of a first same-branch test of the strict elliptic assumptions. Those now exist. The immediate research burden is now narrower again: determine whether that strict-branch coercive bootstrap upgrades to actual nonlinear stability, while any attempt to go beyond the strict ordered-flow positivity assumptions now requires genuinely new structural input.
 
 The only near-term non-research issue still open is editorial: whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later.
 
@@ -115,8 +115,11 @@ The following claims are safe in the active sequence:
 - the active sequence now has a negative result for the first locally finite summable patch-control weakening test
 - the active sequence now has a narrow nonlinear-stability setup note fixing the minimum quartic-compatible nonlinear completion burden and the first honest flat-background small-data target
 - the active sequence now has an explicit minimal quartic-compatible nonlinear completion and a first reduced Einstein--quartic-scalar 3+1 system
+- the active sequence now has a first local well-posedness and continuation theorem for that explicit completion on a strict auxiliary elliptic-control branch
+- the active sequence now has a coercive longer-time bootstrap on that same strict auxiliary elliptic-control branch
+- the active sequence now has a strict elliptic-assumption relaxation test showing that the present local solvability architecture does not extend uniformly once \(\kappa_\theta\) or \(\kappa_\Omega\) is allowed to vanish
 - at current scope the admissible-background route should be treated as complete at the uniformly controlled theorem boundary
-- the next major burden is to prove the first local well-posedness and continuation result for that chosen explicit completion
+- the next major burden is to determine whether that strict-branch coercive bootstrap can be promoted to genuine nonlinear stability, or whether a different completion is needed if one wants a theorem beyond the strict branch
 
 ## 8. Claims To Avoid
 
@@ -140,5 +143,9 @@ The following statements should not appear in the active manuscripts:
 - the nonlinear-stability setup note already proves local well-posedness or nonlinear stability
 - the quartic branch already has a unique full nonlinear covariant completion fixed by the active sequence
 - the explicit minimal completion note already proves local well-posedness, elliptic auxiliary solvability, or nonlinear stability
+- the local well-posedness note already proves longer-time or global nonlinear stability
+- the coercive bootstrap note already proves full nonlinear stability, decay, or asymptotic convergence
+- the strict elliptic-assumption relaxation test shows that every conceivable branch with \(\kappa_\theta=0\) or \(\kappa_\Omega=0\) is impossible in principle
+- the strict ordered-flow positivity assumptions are already unnecessary on the present explicit branch
 - the ultrasoft static corner of the quartic branch has already been shown harmless at the same scope as the non-ultrasoft recovery-compatible regime
 - nonlinear stability of the quartic branch has already been established
