@@ -52,6 +52,13 @@ The active root manuscript sequence is:
 
 Active manuscripts are built with `pdflatex`. The current active manuscript logs are otherwise clean; the only standing log noise is the benign `microtype` footnote-patch warning.
 
+To remove `pdflatex` byproducts matching `aether_*.aux`, `aether_*.log`, and `aether_*.out`, use [scripts/clean_aether_pdflatex_artifacts.sh](/Volumes/P-SSD/The Æther/scripts/clean_aether_pdflatex_artifacts.sh). It scans recursively from the repository root by default, supports `--dry-run`, and can also be pointed at a specific directory:
+
+```bash
+./scripts/clean_aether_pdflatex_artifacts.sh --dry-run
+./scripts/clean_aether_pdflatex_artifacts.sh
+```
+
 ## Next Step
 
 The active sequence now contains the higher-derivative quartic branch flat-background consistency note, the bridge-metric matter-coupling gate note, the dedicated recovery-compatibility note, the local curved-background continuation note, the admissible-background requirements note, a first broader admissible-background theorem note on uniformly controlled regions, and an extension-obstruction note fixing where that theorem stops. The quartic branch has therefore now been carried through the current admissible-background route to an honest theorem boundary.
