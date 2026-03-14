@@ -55,6 +55,11 @@ Use the following as the primary vocabulary:
 - local well-posedness and continuation result with auxiliary elliptic control: the first small-data flat-background theorem for the explicit minimal quartic-compatible completion, proved in maximal spatial-harmonic gauge on the strict auxiliary elliptic-control branch where lapse, shift, and the \(Q\)- and \(U\)-sector variables are solved slice by slice through elliptic equations
 - coercive longer-time bootstrap on the strict auxiliary elliptic-control branch: the strengthened post-local-theorem estimate for the explicit minimal quartic-compatible completion, in which a corrected coercive energy obeys quadratic small-data growth and closes a \(T\sim \varepsilon^{-1}\) bootstrap on the same strict branch
 - strict elliptic-assumption relaxation test: the same-branch result showing that the current mixed hyperbolic--elliptic local solvability architecture does not extend uniformly to \(\kappa_\theta\ge 0\), \(\kappa_\Omega\ge 0\), because allowing either coefficient to vanish collapses the corresponding ordered-flow auxiliary equation into a nongeneric compatibility condition
+- strict-branch decay test and first nonlinear-stability obstruction: the result showing that under the natural linear-compatible decay package the propagating quadratic Einstein--quartic-scalar interactions are integrable, but the lapse perturbation generically carries a Coulomb tail whose feedback through \(\sigma_0(N-1)\) is the first obstruction to a straightforward stability upgrade on the present strict branch
+- renormalized same-branch asymptotic test: the immediate post-obstruction step in which one keeps the same strict branch, the same explicit completion, and the same gauge, introduces an explicit Coulomb-profile asymptotic target together with a renormalized scalar variable, and asks whether the lapse-tail obstruction can be removed without changing formulation
+- renormalized same-branch asymptotic failure test: the negative result showing that the recorded first-pass scalar-variable renormalization cancels the lapse-tail forcing in the transport law but generates a secular compact quartic source in the \(\pi_\sigma\) equation, so that recorded repair does not preserve the strict-branch corrected coercive architecture
+- gauge-first unit-lapse spatial-harmonic reformulation: the next post-failure step in which one keeps the explicit completion \(S_{\mathrm{min},4}\) fixed, replaces maximal slicing by unit-lapse spatial-harmonic gauge, re-derives the reduced Einstein--quartic-scalar system together with its modified shift/auxiliary package, and tests whether the old maximal-gauge lapse obstruction survives at equation level
+- unit-lapse trace/auxiliary obstruction: the follow-on result showing that, although the old maximal-gauge lapse obstruction disappears in unit-lapse spatial-harmonic gauge, the direct unweighted decaying Sobolev \((K,\chi,\beta)\) package does not close because the longitudinal ordered-flow solve \(\kappa_\theta\Delta_\gamma\chi=-K+\mathcal N_\chi\) generically produces a trace-driven Coulomb \(1/|x|\) tail unless a new slice-wise monopole cancellation or auxiliary renormalization is imposed
 
 ## Secondary Explanatory Phrases
 
@@ -72,7 +77,7 @@ These may be used only as shorthand:
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
 - do describe the current admissible-background route as reaching a theorem boundary fixed by the broader theorem, the recorded extension obstruction, and the negative summable patch-control test unless genuinely new higher-order input is added
-- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, and its coercive longer-time bootstrap on the strict auxiliary elliptic-control branch, while still not treating nonlinear stability as already proved
+- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, its coercive longer-time bootstrap, its strict elliptic-assumption relaxation test, and its first obstruction note on the strict auxiliary elliptic-control branch, while still not treating nonlinear stability as already proved
 
 ## Current Project State
 
@@ -101,7 +106,13 @@ The current active state of the repository is:
 - the local well-posedness and continuation result with auxiliary elliptic control is now recorded
 - the coercive longer-time bootstrap on the strict auxiliary elliptic-control branch is now recorded
 - the strict elliptic-assumption relaxation test is now recorded and shows that the present local solvability architecture does not survive \(\kappa_\theta=0\) or \(\kappa_\Omega=0\)
-- the next substantive research step is to determine whether that strict-branch coercive bootstrap can be promoted to genuine nonlinear stability, or whether a different completion is needed if one wants a theorem beyond the strict branch
+- the strict-branch decay test and first nonlinear-stability obstruction are now recorded
+- the renormalized same-branch asymptotic test is now recorded
+- the renormalized same-branch asymptotic failure test is now recorded
+- the gauge-first unit-lapse spatial-harmonic reformulation is now recorded
+- in that new formulation the old maximal-gauge lapse obstruction disappears at equation level
+- the unit-lapse trace/auxiliary obstruction is now recorded
+- the next substantive research step is now to determine whether the fixed-completion unit-lapse trace/auxiliary package can be repaired by propagated monopole cancellation, auxiliary renormalization, or a weighted/homogeneous function class before any deeper completion change is tried
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
