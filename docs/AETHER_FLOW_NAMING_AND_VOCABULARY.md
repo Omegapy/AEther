@@ -64,7 +64,8 @@ Use the following as the primary vocabulary:
 - unit-lapse Coulomb-split regular-part failure test: the follow-on repair test showing that subtracting the explicit monopole profile \(\chi=\chi_{\mathrm{Coul}}+\chi_{\mathrm{reg}}\) removes the leading \(1/|x|\) tail but still does not restore unweighted \(H^N\) closure because the regular part requires an additional low-frequency seminorm
 - weighted/homogeneous unit-lapse closure test: the theorem-architecture step showing that the fixed-completion unit-lapse longitudinal sector is naturally controlled in a weighted or homogeneous norm rather than by plain unweighted \(H^N\), and that the first local theorem package can be replayed in that class
 - weighted/homogeneous unit-lapse coercive-bootstrap test: the recorded post-local theorem step showing that the corrected weighted/homogeneous unit-lapse energy closes a \(T\sim \varepsilon^{-1}\) coercive bootstrap on the fixed completion and does not yet force a deeper completion change
-- weighted/homogeneous unit-lapse decay/integrability test: the next post-bootstrap step in which the same fixed-completion weighted/homogeneous class is tested for integrable nonlinear control and the first genuine post-coercive obstruction, if any, is isolated before any deeper completion change is considered
+- weighted/homogeneous unit-lapse decay/integrability test: the recorded post-bootstrap step showing that, under the expected linear-compatible wave/Schr\"odinger decay package, the same fixed-completion weighted/homogeneous class has time-integrable quadratic and lower-order nonlinear terms and no first genuine post-coercive obstruction appears at that integrability level
+- weighted/homogeneous unit-lapse asymptotic/nonlinear-stability closure test: the next same-class manuscript step in which the recorded decay/integrability package is turned into a closed asymptotic bootstrap, asymptotic variables or profiles are fixed for the low-frequency trace--longitudinal wave pair, the high-frequency Einstein wave sector, and the quartic scalar Schr\"odinger channel, and one decides whether ordinary decay, a mild modified asymptotic profile, or the first genuine asymptotic obstruction appears before any deeper completion change is considered
 
 ## Secondary Explanatory Phrases
 
@@ -82,7 +83,7 @@ These may be used only as shorthand:
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
 - do describe the current admissible-background route as reaching a theorem boundary fixed by the broader theorem, the recorded extension obstruction, and the negative summable patch-control test unless genuinely new higher-order input is added
-- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, its coercive longer-time bootstrap, its strict elliptic-assumption relaxation test, the gauge-first unit-lapse reformulation, the recorded unit-lapse trace/auxiliary obstruction, the two failed smallest repair tests, the now-recorded weighted/homogeneous local-closure step, and the now-recorded weighted/homogeneous coercive-bootstrap step, while still not treating nonlinear stability as already proved
+- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, its coercive longer-time bootstrap, its strict elliptic-assumption relaxation test, the gauge-first unit-lapse reformulation, the recorded unit-lapse trace/auxiliary obstruction, the two failed smallest repair tests, the now-recorded weighted/homogeneous local-closure step, the now-recorded weighted/homogeneous coercive-bootstrap step, the now-recorded weighted/homogeneous decay/integrability step, and the next same-class asymptotic/nonlinear-stability closure test, while still not treating nonlinear stability as already proved
 
 ## Current Project State
 
@@ -121,7 +122,8 @@ The current active state of the repository is:
 - the unit-lapse Coulomb-split regular-part failure test is now recorded and shows that subtracting the explicit monopole profile still does not restore the old unweighted \(H^N\) closure package
 - the weighted/homogeneous unit-lapse closure test is now recorded and shows that the fixed-completion unit-lapse longitudinal sector admits slice-wise elliptic closure in a derivative-level norm and that the first local theorem architecture can be replayed in that class
 - the weighted/homogeneous unit-lapse coercive-bootstrap test is now recorded and shows that the corrected weighted/homogeneous energy closes a \(T\sim \varepsilon^{-1}\) bootstrap in that class
-- the next substantive research step is now the weighted/homogeneous decay/integrability test, with any deeper completion change deferred unless that broader post-local route fails
+- the weighted/homogeneous unit-lapse decay/integrability test is now recorded and shows that the same fixed-completion weighted/homogeneous class has the expected linear-compatible decay package and no first post-coercive obstruction at the integrability level
+- the next substantive research step is now the weighted/homogeneous unit-lapse asymptotic/nonlinear-stability closure test, tentatively `aether_flow_substrate_higher_derivative_unit_lapse_weighted_homogeneous_asymptotic_closure_test.tex`
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
