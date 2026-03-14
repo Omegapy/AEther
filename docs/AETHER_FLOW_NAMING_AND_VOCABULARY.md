@@ -139,8 +139,11 @@ The current active state of the repository is:
 - the quartic exact-square compensator branch is now recorded as the least-drift next candidate beyond the surviving quartic side program
 - the compensator-branch consistency/reduction note is now recorded and shows that the full tuned branch removes the complete flat-background observer correction while preserving single-metric matter coupling and auxiliary gap control
 - the tuned-compensator reduced-system/local-coercive note is now recorded and fixes one explicit tuned nonlinear completion, the first reduced \(3+1\) branch architecture, the replacement scalar control variable, and the first honest theorem target
-- the next substantive research step is now to prove the first actual local/coercive theorem on that explicit tuned-compensator branch
-- the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
+- the tuned-compensator local well-posedness/coercive-bootstrap note is now recorded and proves the first actual tuned local theorem together with the corrected \(T\sim \varepsilon^{-1}\) coercive bootstrap
+- the tuned-compensator decay/integrability test is now recorded and shows that the neutral scalar-momentum channel blocks a direct unrenormalized asymptotic claim on generic tuned data
+- the tuned-compensator renormalized same-branch asymptotic test is now recorded and shows that subtracting the transported frozen scalar momentum and induced linear drift still leaves a nonintegrable observer-side frozen-momentum source on generic small data
+- the next substantive research step is now the narrower momentum-suppressed sub-branch test on that explicit tuned-compensator branch, not a broader asymptotic claim on the present generic tuned variables
+- the only near-term non-research open items are whether the derivative-mixing and constraint-assisted branches should be archived in the tracking docs as tested degenerate side branches, and whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
 
