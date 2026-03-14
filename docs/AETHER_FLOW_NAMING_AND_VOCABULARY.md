@@ -60,6 +60,10 @@ Use the following as the primary vocabulary:
 - renormalized same-branch asymptotic failure test: the negative result showing that the recorded first-pass scalar-variable renormalization cancels the lapse-tail forcing in the transport law but generates a secular compact quartic source in the \(\pi_\sigma\) equation, so that recorded repair does not preserve the strict-branch corrected coercive architecture
 - gauge-first unit-lapse spatial-harmonic reformulation: the next post-failure step in which one keeps the explicit completion \(S_{\mathrm{min},4}\) fixed, replaces maximal slicing by unit-lapse spatial-harmonic gauge, re-derives the reduced Einstein--quartic-scalar system together with its modified shift/auxiliary package, and tests whether the old maximal-gauge lapse obstruction survives at equation level
 - unit-lapse trace/auxiliary obstruction: the follow-on result showing that, although the old maximal-gauge lapse obstruction disappears in unit-lapse spatial-harmonic gauge, the direct unweighted decaying Sobolev \((K,\chi,\beta)\) package does not close because the longitudinal ordered-flow solve \(\kappa_\theta\Delta_\gamma\chi=-K+\mathcal N_\chi\) generically produces a trace-driven Coulomb \(1/|x|\) tail unless a new slice-wise monopole cancellation or auxiliary renormalization is imposed
+- unit-lapse trace-monopole compatibility test: the next-smallest repair test showing that the existing unit-lapse compatible-data conditions do not presently derive \(\mathfrak m_\chi(0)=0\) and do not yet prove propagation of that cancellation, so propagated monopole cancellation does not repair the old unweighted package at the current recorded scope
+- unit-lapse Coulomb-split regular-part failure test: the follow-on repair test showing that subtracting the explicit monopole profile \(\chi=\chi_{\mathrm{Coul}}+\chi_{\mathrm{reg}}\) removes the leading \(1/|x|\) tail but still does not restore unweighted \(H^N\) closure because the regular part requires an additional low-frequency seminorm
+- weighted/homogeneous unit-lapse closure test: the theorem-architecture step showing that the fixed-completion unit-lapse longitudinal sector is naturally controlled in a weighted or homogeneous norm rather than by plain unweighted \(H^N\), and that the first local theorem package can be replayed in that class
+- weighted/homogeneous unit-lapse coercive-bootstrap test: the next post-local theorem step in which the corrected weighted/homogeneous unit-lapse energy is tested for a \(T\sim \varepsilon^{-1}\) coercive bootstrap before any dedicated decay analysis is attempted in that class
 
 ## Secondary Explanatory Phrases
 
@@ -77,7 +81,7 @@ These may be used only as shorthand:
 - do distinguish ontology, adopted effective dynamics, and open derivational work
 - do describe the current substrate manuscript as candidate bridge dynamics rather than as a completed derivation
 - do describe the current admissible-background route as reaching a theorem boundary fixed by the broader theorem, the recorded extension obstruction, and the negative summable patch-control test unless genuinely new higher-order input is added
-- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, its coercive longer-time bootstrap, its strict elliptic-assumption relaxation test, and its first obstruction note on the strict auxiliary elliptic-control branch, while still not treating nonlinear stability as already proved
+- do describe the current nonlinear-stability route as centered on the explicit minimal quartic-compatible completion, its first local theorem, its coercive longer-time bootstrap, its strict elliptic-assumption relaxation test, the gauge-first unit-lapse reformulation, the recorded unit-lapse trace/auxiliary obstruction, the two failed smallest repair tests, and the now-recorded weighted/homogeneous local-closure step, while still not treating nonlinear stability as already proved
 
 ## Current Project State
 
@@ -112,7 +116,10 @@ The current active state of the repository is:
 - the gauge-first unit-lapse spatial-harmonic reformulation is now recorded
 - in that new formulation the old maximal-gauge lapse obstruction disappears at equation level
 - the unit-lapse trace/auxiliary obstruction is now recorded
-- the next substantive research step is now to determine whether the fixed-completion unit-lapse trace/auxiliary package can be repaired by propagated monopole cancellation, auxiliary renormalization, or a weighted/homogeneous function class before any deeper completion change is tried
+- the unit-lapse trace-monopole compatibility test is now recorded and shows that zero trace monopole is not presently derived from the existing unit-lapse compatibility package and is not yet proved to propagate
+- the unit-lapse Coulomb-split regular-part failure test is now recorded and shows that subtracting the explicit monopole profile still does not restore the old unweighted \(H^N\) closure package
+- the weighted/homogeneous unit-lapse closure test is now recorded and shows that the fixed-completion unit-lapse longitudinal sector admits slice-wise elliptic closure in a derivative-level norm and that the first local theorem architecture can be replayed in that class
+- the next substantive research step is now the weighted/homogeneous coercive-bootstrap test, with any dedicated decay analysis deferred until after that post-local step
 - the only near-term non-research open item is whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
 
 ## Reusable Framework Paragraph
