@@ -26,6 +26,8 @@ Use the following as the primary vocabulary:
 - exact closure: exact recovery of the accepted relativistic operational structure
 - adoption: use of an already established effective dynamics such as GR without claiming substrate derivation
 - derivation: first-principles recovery of the effective relativistic sector from explicit substrate variables
+- restricted positive asymptotic side result: a theorem proved only on an invariant restricted sub-branch and therefore not a reopening of broader generic-data asymptotic claims
+- post-restricted-verdict derivational next-step note: a note that records a restricted positive asymptotic side result as a side theorem, keeps generic tuned-data asymptotics closed, and fixes the next exact-closure proof sequence on the active viable branch
 - candidate bridge dynamics: an explicit substrate-side action class and bridge map proposed for testing, without claiming completed Einsteinian recovery
 - mode control: the requirement that extra substrate scalar and vector sectors be constrained, screened, gapped, or otherwise prevented from surviving as an observer-accessible low-energy deformation
 - exact-closure test: the requirement that the candidate bridge model reduce to the unique effective metric sector of the active relativistic benchmark, with no unsuppressed surviving correction
@@ -142,8 +144,12 @@ The current active state of the repository is:
 - the tuned-compensator local well-posedness/coercive-bootstrap note is now recorded and proves the first actual tuned local theorem together with the corrected \(T\sim \varepsilon^{-1}\) coercive bootstrap
 - the tuned-compensator decay/integrability test is now recorded and shows that the neutral scalar-momentum channel blocks a direct unrenormalized asymptotic claim on generic tuned data
 - the tuned-compensator renormalized same-branch asymptotic test is now recorded and shows that subtracting the transported frozen scalar momentum and induced linear drift still leaves a nonintegrable observer-side frozen-momentum source on generic small data
-- the next substantive research step is now the narrower momentum-suppressed sub-branch test on that explicit tuned-compensator branch, not a broader asymptotic claim on the present generic tuned variables
-- the only near-term non-research open items are whether the derivative-mixing and constraint-assisted branches should be archived in the tracking docs as tested degenerate side branches, and whether [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone or is folded into the main sequence later
+- the tuned-compensator momentum-suppressed same-branch test is now recorded and shows that the invariant \(\pi_\sigma|_{t=0}=0\) restriction clears the \(L_t^1\) observer-side remainder test while generic tuned-data claims remain closed
+- the tuned-compensator restricted asymptotic-closure note is now recorded and shows that the invariant momentum-suppressed branch closes positively in the same repaired weighted/homogeneous class around the same exact flat observer target, with transport-dressed wave profiles and an exact passive transport profile for \(\sigma\)
+- no further same-branch asymptotic repair is the active tuned-branch task at current scope
+- the next active manuscript burden is a post-restricted-verdict derivational next-step/criteria note that treats the invariant momentum-suppressed result as a restricted side theorem and fixes the next proof sequence: extend the tuned cancellations beyond the current flat/local packaged scope, derive the infrared Einsteinian metric equation, decide whether the bridge closes exactly or leaves a deformation/remainder, and only then choose a replacement bridge/completion candidate if needed
+- the derivative-mixing and constraint-assisted branches are now tracked as archived tested degenerate side branches
+- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone as the exact-closure anchor for the active sequence
 
 ## Reusable Framework Paragraph
 
