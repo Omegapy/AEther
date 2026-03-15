@@ -179,7 +179,7 @@ The current active state of the repository is:
 - the quotient-branch local/coercive note is now recorded and shows that the same quotient branch admits a positive local/coercive setup directly on the quotient physical field space, with \(\mathcal A_Y=\mathcal A_Z=0\) imposed from the outset, full weighted/homogeneous slice closure of \((\beta^i,Q^I,\chi,W_i^T)\), and no scalar correction channel in the corrected quotient energy
 - the quotient theorem note is now recorded and proves the first quotient local well-posedness/continuation theorem and the first corrected \(T\sim \varepsilon^{-1}\) coercive bootstrap on that same quotient branch, with \(\mathcal A_Y=\mathcal A_Z=0\) imposed from the outset, no physical or analytic \(S,Y,Z\) data, and only the geometric and trace/longitudinal low-frequency correction channels
 - the project is now doing well against its exact-theory-statement goal, but the derivational bridge remains incomplete
-- the next active manuscript burden is now the first post-coercive quotient decay/integrability note on the already-proved quotient theorem branch, not another setup placeholder and not a bridge-metric or matter-route redesign note
+- the next active manuscript burden is now the explicit tensor-level quotient bridge-closure verdict on the already-recorded positive quotient branch, not another same-branch asymptotic note and not a bridge-metric or matter-route redesign note
 - the derivative-mixing and constraint-assisted branches are now tracked as archived tested degenerate side branches
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone as the exact-closure anchor for the active sequence
 
