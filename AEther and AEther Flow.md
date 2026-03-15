@@ -42,6 +42,30 @@ relative to the Æther-flow. What changes here is not that core
 intuition, but the ontology used to explain it. The revised conceptual
 structure may therefore be stated clearly:
 
+One further interpretive point also belongs to this ontology statement.
+Matter is not only something that moves within the Æther-flow; it may
+also be understood as locally reorganizing that ordered motion. In a
+fluid analogy, the closest everyday picture is a **whirlpool** or
+**sink-vortex** rather than a uniform current: the presence of mass
+creates a locally convergent and circulating pattern in the surrounding
+flow, and nearby bodies respond to that organized pattern by moving
+inward. In this reading, gravity is experienced as the observer-level
+effect of how mass and the Æther-flow interact. The analogy is
+heuristic, not literal. The claim is not that observed three-dimensional
+space is ordinary water, but that gravitational attraction should be
+interpreted as a structured response of the deeper substrate to matter.
+
+This also clarifies how the ontology relates to the active manuscript
+sequence. The exact-closure papers adopt Einsteinian gravity as the
+effective observer law. The derivational bridge program then asks
+whether this mass-shaped reorganization of the Æther-flow can be written
+as an explicit substrate dynamics whose observer-level output is exactly
+the Einstein equation with ordinary matter coupling. The recent
+quotient-tensor verdict says that the current fixed bridge-metric and
+fixed single-metric matter route does not yet complete that derivation:
+it remains dynamically well behaved, but it still leaves a nonzero
+observer-side remainder.
+
 - **Æther** = the four-dimensional substrate of reality
 
 - **Æther-flow** = the substrate’s intrinsic ordered motion
@@ -54,3 +78,7 @@ structure may therefore be stated clearly:
 
 - **Observed expansion** = the three-dimensional appearance of deeper
   four-dimensional motion
+
+- **Gravity** = the observer-level manifestation of how matter locally
+  reorganizes the Æther-flow, heuristically through a convergent or
+  vortical pattern in the deeper substrate
