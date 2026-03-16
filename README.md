@@ -12,8 +12,21 @@ This repository now centers on the active manuscript sequence for `The Æther-Fl
 
 ## Active Manuscript Line
 
-The active root manuscript sequence is:
+The canonical front-door note for the flagship exact-closure line is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). It states the role of the exact-closure sequence as the main theory-facing deliverable of the repository and fixes the reading order of the core exact-closure papers.
 
+The flagship exact-closure sequence should be read in the following order:
+
+- [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
+- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor
+- [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
+- [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
+- [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex): linearization, gauge structure, degree-of-freedom counting, and health conditions
+- [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
+- [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
+
+The broader active root manuscript sequence is:
+
+- [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure note
 - [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
 - [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
@@ -95,6 +108,7 @@ The active root manuscript sequence is:
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_justification_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_justification_note.tex): active deeper selector-justification note introducing the bridge-curvature response susceptibility sector, recovering the selector as reduced homogeneity energy, and fixing the response scale on the pinned equilibrium branch
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_susceptibility_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_susceptibility_origin_note.tex): active susceptibility-origin note introducing the explicit carrier/flux/gap sector below \(\Sigma_{\mathrm{br}}\), recovering the same selector-level energies by elimination, and identifying \(\ell_{\mathrm{br}}^4=\mathcal N_{\mathrm{br}}h_{\mathrm{br}}/m_{\mathrm{br}}^2\)
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex): active carrier-data-origin note introducing the deeper microscopic bridge-response amplitude sector, showing that \((Y_{\mathrm{br}},J_{\mathrm{br}},\Lambda_{\mathrm{br}})\) is its auxiliary first-order realization, and deriving \((\mathcal N_{\mathrm{br}},\gamma_{\mathrm{br}},m_{\mathrm{br}},h_{\mathrm{br}})\) from normalization, stiffness, gap, and equilibrium-amplitude data
+- [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex): active microscopic-amplitude-origin note introducing the primitive bridge-order doublet, showing that \((X_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{mic}},\mu_{\mathrm{br}},X_{\mathrm{br}}^\ast)\) is the uniquely selected phase-neutral quadratic reduction of that deeper sector, and recovering \((\mathcal N_{\mathrm{br}},\gamma_{\mathrm{br}},m_{\mathrm{br}},h_{\mathrm{br}})\), \(\Sigma_{\mathrm{br}}^\ast\), and \(\ell_{\mathrm{br}}^4\) again from primitive order data
 - [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md)
 - [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md)
 - [The Æther Path from Ontology to Theory statement.md](/Volumes/P-SSD/The Æther/The Æther Path from Ontology to Theory statement.md)
@@ -113,28 +127,21 @@ To remove `pdflatex` byproducts matching `aether_*.aux`, `aether_*.log`, and `ae
 
 ## Next Step
 
-[aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex) is now recorded as the completed carrier-data-origin manuscript after the susceptibility-origin note. It introduces the deeper microscopic bridge-response amplitude sector, shows that the carrier block \((Y_{\mathrm{br}},J_{\mathrm{br}},\Lambda_{\mathrm{br}})\) is its auxiliary first-order realization, derives
-\[
-\mathcal N_{\mathrm{br}}=\frac{1}{X_{\mathrm{br}}^{\mathrm{ref}}},
-\qquad
-\gamma_{\mathrm{br}}=\Gamma_{\mathrm{br}}^{\mathrm{mic}},
-\qquad
-m_{\mathrm{br}}=\mu_{\mathrm{br}},
-\qquad
-h_{\mathrm{br}}=\mu_{\mathrm{br}}^2X_{\mathrm{br}}^\ast,
-\]
-and recovers the response scale through
-\[
-\ell_{\mathrm{br}}^4=\Sigma_{\mathrm{br}}^\ast=\mathcal N_{\mathrm{br}}h_{\mathrm{br}}/m_{\mathrm{br}}^2
-\]
-while preserving the same downstream package and dressed bridge map.
+The immediate next step is now an exact-closure integration pass centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). That pass should make the overview note the canonical front door to the flagship theory statement of the repository and should update the project-facing docs to present the fixed exact-closure reading order explicitly.
 
-The live burden is therefore narrower again. The active line no longer needs another current-scope representative re-test, another observer-level repair screen, another same-layer susceptibility-origin note, or another primitive carrier-data note of the same kind. If the derivational program continues, the remaining honest burden is whether the deeper microscopic bridge-response amplitude sector itself, with data \((X_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{mic}},\mu_{\mathrm{br}},X_{\mathrm{br}}^\ast)\), can be derived or uniquely selected from still more primitive substrate structure rather than left as the present symmetry-normalized microphysical block. A clean next manuscript target would therefore be [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex).
+In practice, that means the Markdown and manuscript-facing docs should now:
+
+- present the overview note as the first entry point to the exact-closure line
+- keep the exact-closure note, foundations, dynamics, consistency, relativistic-recovery, and flow-geometry papers in one fixed reading order
+- state clearly that the derivational bridge program is downstream of the exact theory statement rather than constituting the active theory statement itself
+
+After that architectural pass, the next substantive research manuscript should be [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex). Its task would be to ask whether the primitive bridge-order sector \((\Xi_{\mathrm{br}},Z_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{ord}},\Lambda_{\mathrm{br}},Z_{\mathrm{br}}^\ast)\) together with the zero-current phase-neutral branch can be derived or uniquely selected from still more primitive substrate structure while preserving the same downstream package and dressed bridge map.
 
 ## Current Research Delta
 
 The most recent substantive advances are:
 
+- [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) now presents the exact-closure line as the canonical flagship theory statement of the repository and fixes the reading order of the core exact-closure manuscripts.
 - [aether_flow_substrate_minimal_stable_sign_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_minimal_stable_sign_no_go.tex) records the coefficient-level no-go result for the minimal stable-sign candidate action.
 - the early derivative-mixing and constraint-assisted branch-search sequence is now retired and archived as tested negative or degenerate side-branch material.
 - [aether_flow_substrate_higher_derivative_branch.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_branch.tex) selects the next candidate family as a higher-derivative completion around the collapsed scalar branch.
@@ -199,4 +206,5 @@ The most recent substantive advances are:
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_justification_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_justification_note.tex) records the next deeper verdict: the selector is recovered as the reduced homogeneity principle of a bridge-curvature response susceptibility sector, and on the pinned branch the response scale is fixed as equilibrium susceptibility data.
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_susceptibility_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_susceptibility_origin_note.tex) records the next microphysical verdict: the deeper susceptibility sector is realized by an explicit carrier/flux/gap block and the equilibrium scale is identified as \(\ell_{\mathrm{br}}^4=\mathcal N_{\mathrm{br}}h_{\mathrm{br}}/m_{\mathrm{br}}^2\).
 - [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_carrier_data_origin_note.tex) records the next deeper verdict: the primitive carrier data are reduced to a microscopic bridge-response amplitude sector, with \((Y_{\mathrm{br}},J_{\mathrm{br}},\Lambda_{\mathrm{br}})\) auxiliary and \(\ell_{\mathrm{br}}^4=\Sigma_{\mathrm{br}}^\ast=\mathcal N_{\mathrm{br}}h_{\mathrm{br}}/m_{\mathrm{br}}^2\) recovered again from normalization and equilibrium data.
-- [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) now tracks the completed carrier-data-origin step together with the live microscopic-amplitude-origin / uniqueness burden.
+- [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_microscopic_amplitude_origin_note.tex) records the next deeper verdict: the microscopic bridge-response amplitude sector is recovered as the uniquely selected phase-neutral quadratic reduction of a primitive bridge-order doublet, and \(\ell_{\mathrm{br}}^4=\Sigma_{\mathrm{br}}^\ast=Z_{\mathrm{br}}^\ast/Z_{\mathrm{br}}^{\mathrm{ref}}\) is recovered again from primitive order data.
+- [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) now tracks the completed microscopic-amplitude-origin step together with the live primitive-bridge-order-origin / phase-neutral-selection burden.
