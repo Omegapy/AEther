@@ -746,7 +746,13 @@ The explicit local density itself is fixed only up to an equivalence class gener
 \end{theorem}
 
 \begin{proof}
-Proposition \ref{prop:basis} fixes the carrier-slot structure. Proposition \ref{prop:EL} then shows that the normalized readout \(\nu\,\CurvSeed^{-1}\CurvOne\) cancels the bridge-curvature seed and leaves the coefficient triple \((\mathfrak c_I,\mathfrak c_\chi,\mathfrak c_W)\) unchanged. Corollaries \ref{cor:currentflux}, \ref{cor:continuity}, and \ref{cor:coulomb}, together with Proposition \ref{prop:pullback} and Theorem \ref{thm:gains}, fix the eliminated downstream package.
+Proposition \ref{prop:basis} fixes the carrier-slot structure. Proposition \ref{prop:EL} then shows that the normalized readout
+\[
+\nu_I\CurvSeed^{-1}\CurvOneI_A^I
++\nu_\chi\CurvSeed^{-1}\CurvOneChi_A
++\nu_W\CurvSeed^{-1}\CurvOneW_A
+\]
+cancels the bridge-curvature seed and leaves the coefficient triple \((\mathfrak c_I,\mathfrak c_\chi,\mathfrak c_W)\) unchanged. Corollaries \ref{cor:currentflux}, \ref{cor:continuity}, and \ref{cor:coulomb}, together with Proposition \ref{prop:pullback} and Theorem \ref{thm:gains}, fix the eliminated downstream package.
 
 Now replace \(\CurvProfile\) by any smooth positive \(\widetilde{\CurvProfile}\). The proof of Proposition \ref{prop:EL} goes through verbatim with \(\CurvSeed=\widetilde{\CurvProfile}(R[\BridgeMetric]-2\Lambda_{\Sub})\), because the readout still uses the inverse seed and therefore still reduces to \(\ConstCurrent_A=\mathfrak c_I\SpatialD_AQ^I+\mathfrak c_\chi\SpatialD_A\chi+\mathfrak c_WW_A^T\). Adding local slice divergences does not change the Euler--Lagrange equations, and Bianchi-exact additions vanish once \(\CurvSeedMult=0\) is imposed. Therefore the explicit local density is not unique at current scope, even though the eliminated constitutive-current sector is fixed.
 \end{proof}
