@@ -10,20 +10,29 @@ This repository now centers on the active manuscript sequence for `The Æther-Fl
 - `S-time`: the experienced order of change arising from matter, light, and the `Æther-flow`
 - observed expansion: the three-dimensional appearance of deeper four-dimensional ordered motion
 
-## Active Manuscript Line
+## Flagship Exact-Closure Deliverable
 
-The canonical front-door note for the flagship exact-closure line is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). New readers should begin there for the exact theory statement, the fixed core reading order, and the claim boundary of the active repository.
+The public-facing deliverable of this repository is the flagship exact-closure package centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). New readers should begin there. It is the canonical front door for the exact theory statement, the fixed reading order, and the active claim boundary.
 
-The fixed core reading order of the exact-closure manuscripts is:
+The flagship package should be read in the following order:
 
-- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor
-- [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
-- [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
-- [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex): linearization, gauge structure, degree-of-freedom counting, and health conditions
-- [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
-- [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
+1. [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the flagship exact-theory sequence
+2. [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor
+3. [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
+4. [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
+5. [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex): linearization, gauge structure, degree-of-freedom counting, and health conditions
+6. [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
+7. [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
 
-The broader active root manuscript sequence therefore begins with the overview front door, then proceeds through that fixed exact-closure line, and only after that moves into the downstream derivational bridge program:
+This fixed sequence is the main theory statement of the repository. It packages the exact-closure line as the flagship deliverable and keeps the claim boundary explicit: exact relativistic adoption and exact closure are the active theory statement, while deeper substrate derivation remains open work.
+
+## Optional Downstream Foundational Continuation
+
+Any further derivational continuation is secondary to the flagship package above. If the bridge line is deliberately resumed, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex), and it should be presented only as optional downstream foundational work answerable to the exact-closure benchmark.
+
+## Extended Manuscript Inventory
+
+The broader active root manuscript sequence therefore begins with the flagship package above and only after that moves into the downstream derivational bridge program:
 
 - [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor and first manuscript in the fixed core reading order
@@ -139,10 +148,14 @@ The next substantive research burden is no longer the calibration-modulus-origin
 
 Based on the repository goal, the immediate next work is no longer another derivational bridge manuscript. The next required step is packaging, integration, and presentation of the flagship exact-closure sequence itself as the public-facing deliverable of the project. That means tightening the sequence-level framing around [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex), preserving the fixed core reading order, and presenting the six core exact-closure manuscripts as the main theory statement. The deeper orbit-shape/modulus-origin manuscript remains available only as optional downstream foundational work if the derivational bridge is deliberately continued.
 
+That sequence-wide manuscript harmonization pass is now complete. Across [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex), the abstracts, introductions, and conclusions now point back to the flagship sequence so the overview reads as the front door, the exact-closure note reads as the short anchor, the remaining five papers read as the modular full statement, and any further derivational continuation remains explicitly secondary.
+
+The immediate packaging next step is therefore repository-facing Markdown integration. The project should next keep [README.md](/Volumes/P-SSD/The Æther/README.md), [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md), [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md), [docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md](/Volumes/P-SSD/The Æther/docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md), [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md), and [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md) aligned around that same fixed sequence logic.
+
 The honest project priority order is now:
 
 1. Consolidate the flagship exact-theory presentation.
-2. Tighten sequence-level framing, reading order, and public manuscript packaging.
+2. Keep repository-facing Markdown and summaries aligned around the fixed exact-closure sequence roles and reading order.
 3. Treat any further derivational note only as optional downstream foundational work.
 
 That packaging priority is summarized in [docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md](/Volumes/P-SSD/The Æther/docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md).

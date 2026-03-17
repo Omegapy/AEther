@@ -10,6 +10,14 @@ This note freezes the naming and vocabulary for the active manuscript sequence o
 - the active repository should use that full name in titles, opening paragraphs, and high-visibility prose
 - older repository labels are retired and should not appear in active prose or active filenames
 
+## Flagship Packaging Status
+
+- the flagship public-facing sequence is fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex)
+- within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short standalone anchor
+- the five companion papers on foundations, dynamics, consistency, relativistic recovery, and flow geometry are the modular full statement
+- the immediate required repository work is packaging and integration of that exact-closure sequence across project-facing Markdown, not another derivational bridge manuscript
+- if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package
+
 ## Legacy Note
 
 Older source material may contain historical labels. Those labels are legacy only and should not appear in active prose.
@@ -246,7 +254,7 @@ The current active state of the repository is:
 - the selector-justification note is now recorded and shows that the old minimal-bending selector can be read as the reduced homogeneity energy of a deeper bridge-curvature response susceptibility sector, while the pinned branch fixes the response scale as equilibrium susceptibility data
 - the susceptibility-origin note is now recorded and shows that the same deeper susceptibility sector can be realized by an explicit carrier/flux/gap block, with \(\ell_{\mathrm{br}}^4=\Sigma_{\mathrm{br}}^\ast=\mathcal N_{\mathrm{br}}h_{\mathrm{br}}/m_{\mathrm{br}}^2\)
 - the carrier-data-origin note is now recorded and shows that the primitive carrier data reduce to a microscopic bridge-response amplitude sector
-- the next active manuscript burden is now the microscopic-amplitude-origin note: derive or uniquely select the deeper microscopic bridge-response amplitude sector \((X_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{mic}},\mu_{\mathrm{br}},X_{\mathrm{br}}^\ast)\) from still more primitive substrate structure rather than leaving that sector as the present symmetry-normalized microphysical block
+- if the optional derivational bridge is deliberately resumed after the flagship packaging pass, the downstream manuscript burden is the still deeper orbit-shape/modulus-origin, anchoring, or quotient problem rather than another same-layer bridge note; that continuation must derive or sharply constrain the unit-reference orbit-shape block and the unanchored positive orbit modulus while preserving the same downstream package
 - the derivative-mixing and constraint-assisted branches are now tracked as archived tested degenerate side branches
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone as the exact-closure anchor for the active sequence
 

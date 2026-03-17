@@ -2,6 +2,19 @@
 
 This checklist tracks the active manuscript line for `The Æther-Flow Interpretation of Relativity`.
 
+## Primary Packaging Milestone
+
+- Treat [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical front door to the flagship exact-theory deliverable.
+- Keep the fixed flagship reading order explicit and stable: [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex).
+- Treat any further derivational continuation only as optional downstream foundational work. If that line is deliberately resumed, the next manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
+
+## Immediate Packaging Next Steps
+
+- Treat the six core exact-closure manuscripts as already harmonized in their abstracts, introductions, and conclusions around the flagship package centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex).
+- Keep the sequence roles explicit and stable across repository-facing Markdown: the overview is the front door, the exact-closure note is the short anchor, and the remaining five papers are the modular full statement.
+- Align [README.md](/Volumes/P-SSD/The Æther/README.md), [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md), [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md), [docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md](/Volumes/P-SSD/The Æther/docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md), and this checklist around that same fixed public-facing sequence.
+- Keep any resumed derivational bridge work explicitly secondary in both manuscript framing and repository-facing summaries.
+
 ## Current Status
 
 - [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) is drafted as the canonical front-door overview of the flagship exact-closure line.
@@ -11,6 +24,7 @@ This checklist tracks the active manuscript line for `The Æther-Flow Interpreta
 - [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex) is drafted.
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex) is drafted.
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex) is drafted.
+- the six core exact-closure manuscripts are now harmonized so their abstracts, introductions, and conclusions point back to the overview, the fixed reading order, and the exact-closure-first claim boundary.
 - [aether_flow_substrate_kinematics.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_kinematics.tex) is drafted with explicit candidate substrate dynamics, matter coupling, first mode control, and an exact-closure test.
 - [aether_flow_substrate_linearized_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_linearized_consistency.tex) is drafted with explicit quadratic coefficient evaluation, the flat-branch conditions \(\mathcal B_0=\mathcal B_2=0\), and a first local curved-background continuation.
 - [aether_flow_substrate_minimal_stable_sign_no_go.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_minimal_stable_sign_no_go.tex) is drafted and records the minimal stable-sign no-go result.

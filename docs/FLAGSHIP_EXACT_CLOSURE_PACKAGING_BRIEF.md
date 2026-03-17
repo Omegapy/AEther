@@ -22,19 +22,22 @@ The derivational bridge sequence remains valuable, but it no longer sets the thr
 ## Priority Order
 
 1. Consolidate the flagship exact-theory presentation.
-2. Tighten sequence-level framing, reading order, and public manuscript packaging.
+2. Carry out the repository-facing packaging and documentation pass that presents that sequence consistently in project Markdown and summaries.
 3. Treat any further derivational note as optional downstream foundational work, not as the next required milestone.
 
 ## Immediate Next Steps
 
 1. Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical front door of the repository-facing theory sequence.
-2. Keep the fixed six-manuscript exact-closure reading order explicit and stable across the project-facing Markdown.
-3. Continue tightening the repo-facing summaries so the exact-closure line reads first as the main deliverable and the derivational bridge reads second as optional foundational continuation.
+2. Record explicitly that the six core manuscripts have already been harmonized in their abstracts, introductions, and conclusions so they now read as one coordinated flagship sequence rather than as isolated papers.
+3. Keep the same sequence roles explicit and stable across project-facing Markdown: the overview is the front door, the exact-closure note is the short anchor, and the remaining five papers are the modular full statement.
+4. Update repository-facing summaries, checklists, and boundary notes so the fixed six-manuscript reading order is always presented before any derivational continuation.
+5. Continue tightening the repo-facing presentation so the exact-closure line reads first as the main deliverable and the derivational bridge reads second as optional foundational continuation.
 
 ## Packaging Implications
 
 - Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical repository front door.
 - Present the fixed six-manuscript exact-closure sequence as the main public-facing deliverable.
+- Make the role of each flagship manuscript explicit and consistent: the overview is the front door, the exact-closure note is the short anchor, and the remaining five papers are the modular full statement.
 - Describe the broader bridge program as downstream foundational continuation rather than as the current flagship target.
 - Preserve the existing claim boundary: exact relativistic adoption and exact closure are already the active theory statement, while deeper substrate derivation remains open work.
 
