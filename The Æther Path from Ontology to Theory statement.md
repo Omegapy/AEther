@@ -139,6 +139,18 @@ The active sequence has now moved well beyond the old tuned-branch asymptotic de
 
 The immediate substantive research step has therefore moved again. It is no longer another observer-level repair, no longer another same-layer selector/carrier/microscopic note, no longer the calibration-modulus-origin problem, and no longer the raw-vacuum-orbit-origin problem either. The bridge-order-density/current-origin note, the bridge-order-vacuum-amplitude/current-carrier-origin note, the bridge-order-calibration-modulus-origin note, and the bridge-order-raw-vacuum-orbit-origin note are now also completed. Together they carry the live derivational line one layer lower again: the primitive bridge-order block is recovered from deeper density/current data, that deeper density/current sector is recovered from a primitive vacuum-amplitude/current-carrier lift, that lifted block is recovered from a calibration-modulus split, that calibration split is shown to be the unique canonical normalized slice of a deeper raw positive vacuum orbit, and that raw positive vacuum orbit is now itself shown to be generated as the minimizing family of a deeper primitive orbit-modulus sector while preserving the same downstream dressed bridge map. The flagship exact-theory statement has already crossed its threshold, so this deeper work now belongs only to the optional derivational bridge rather than to the public theory claim itself.
 
+## Immediate Next Steps
+
+Based on the active repository goal, the next required work is now packaging, integration, and presentation of the flagship exact-theory statement rather than another derivational bridge manuscript. The exact-closure overview note and its fixed six-manuscript core sequence should therefore be treated as the main public-facing deliverable of the project.
+
+The honest next-step order is now:
+
+1. Consolidate the flagship exact-theory presentation.
+2. Tighten sequence-level framing, fixed reading order, and public manuscript packaging.
+3. Treat any further derivational note only as optional downstream foundational work.
+
+If the optional foundational bridge is nevertheless continued, the next honest manuscript is no longer a same-layer repair below the raw-vacuum-orbit note. It is the still deeper orbit-shape/modulus-origin continuation fixed in [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex). That continuation remains secondary to the flagship exact-closure presentation.
+
 The next live burden should now be stated more concretely:
 
 - keep the constitutive-current curvature-action note at disciplined integrated-action scope rather than overreading it as a unique ultraviolet curvature-density derivation
