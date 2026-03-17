@@ -69,6 +69,8 @@ Historical labels from earlier drafts are legacy material only and should not ap
 - Keep ontology, phenomenology, and formal derivation clearly separated.
 - Preserve existing notation unless there is a strong reason to change it.
 - Use standard LaTeX sectioning, equations, theorem-style environments, and bibliography conventions when needed.
+- Every active manuscript, including narrowly scoped notes, should end with at least a short `Conclusion` section that states the positive result, the scope of that result, and the next honest open burden.
+- A `Claim Boundary`, `Verdict`, or similarly named boundary section may supplement the ending, but it does not replace the requirement for a short `Conclusion`.
 
 ## Support Tooling Rules
 
@@ -94,6 +96,7 @@ If the image is ambiguous, incomplete, or unreadable, do not invent missing scie
 - Reuse the active definitions for terms such as substrate, `Æther`, `Æther-flow`, `S-time`, and effective metric.
 - Maintain consistency between prose and equations.
 - When adding mathematics, define symbols before using them.
+- When revising active manuscripts or active notes, preserve or restore a short `Conclusion` section if it is missing, unless the user explicitly asks for a different structure.
 - Keep historical branch material out of the active line unless explicitly requested.
 
 ## Prohibited Behavior
