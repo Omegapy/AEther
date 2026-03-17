@@ -12,11 +12,10 @@ This repository now centers on the active manuscript sequence for `The Æther-Fl
 
 ## Active Manuscript Line
 
-The canonical front-door note for the flagship exact-closure line is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). It states the role of the exact-closure sequence as the main theory-facing deliverable of the repository and fixes the reading order of the core exact-closure papers.
+The canonical front-door note for the flagship exact-closure line is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). New readers should begin there for the exact theory statement, the fixed core reading order, and the claim boundary of the active repository.
 
-The flagship exact-closure sequence should be read in the following order:
+The fixed core reading order of the exact-closure manuscripts is:
 
-- [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor
 - [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
 - [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
@@ -24,10 +23,10 @@ The flagship exact-closure sequence should be read in the following order:
 - [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
 - [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
 
-The broader active root manuscript sequence is:
+The broader active root manuscript sequence therefore begins with the overview front door, then proceeds through that fixed exact-closure line, and only after that moves into the downstream derivational bridge program:
 
 - [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
-- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure note
+- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor and first manuscript in the fixed core reading order
 - [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex): ontology, framework statement, and exact-closure role
 - [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex): exact effective dynamics, matter coupling, and weak-field structure
 - [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex): linearization, gauge structure, degree-of-freedom counting, and health conditions
@@ -125,17 +124,11 @@ To remove `pdflatex` byproducts matching `aether_*.aux`, `aether_*.log`, and `ae
 ./scripts/clean_aether_pdflatex_artifacts.sh
 ```
 
-## Next Step
+## Current Architectural Status
 
-The immediate next step is now an exact-closure integration pass centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). That pass should make the overview note the canonical front door to the flagship theory statement of the repository and should update the project-facing docs to present the fixed exact-closure reading order explicitly.
+The exact-closure integration pass is now complete. [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) is the canonical front door to the flagship theory statement of the repository, the six core exact-closure manuscripts are now presented in their fixed reading order, and the derivational bridge program is framed explicitly as downstream foundational research answerable to that exact-closure benchmark.
 
-In practice, that means the Markdown and manuscript-facing docs should now:
-
-- present the overview note as the first entry point to the exact-closure line
-- keep the exact-closure note, foundations, dynamics, consistency, relativistic-recovery, and flow-geometry papers in one fixed reading order
-- state clearly that the derivational bridge program is downstream of the exact theory statement rather than constituting the active theory statement itself
-
-After that architectural pass, the next substantive research manuscript should be [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex). Its task would be to ask whether the primitive bridge-order sector \((\Xi_{\mathrm{br}},Z_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{ord}},\Lambda_{\mathrm{br}},Z_{\mathrm{br}}^\ast)\) together with the zero-current phase-neutral branch can be derived or uniquely selected from still more primitive substrate structure while preserving the same downstream package and dressed bridge map.
+The next substantive research manuscript is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_primitive_bridge_order_origin_note.tex). It has not yet been written in the repository. Its task is to ask whether the primitive bridge-order sector \((\Xi_{\mathrm{br}},Z_{\mathrm{br}}^{\mathrm{ref}},\Gamma_{\mathrm{br}}^{\mathrm{ord}},\Lambda_{\mathrm{br}},Z_{\mathrm{br}}^\ast)\) together with the zero-current phase-neutral branch can be derived or uniquely selected from still more primitive substrate structure while preserving the same downstream package and dressed bridge map.
 
 ## Current Research Delta
 
