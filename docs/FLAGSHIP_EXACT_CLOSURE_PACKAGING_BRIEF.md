@@ -8,16 +8,19 @@ This note fixes the near-term project priority after the flagship exact-theory t
 
 ## Current Project Position
 
-The repository already has its flagship exact-theory statement. The canonical front door is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex), and the fixed core reading order is:
+The repository already has its flagship exact-theory statement. The canonical front door is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex), and the public package should be presented in the following fixed order:
 
-1. [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex)
-2. [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex)
-3. [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex)
-4. [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex)
-5. [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex)
-6. [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
+1. [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex)
+2. [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex)
+3. [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex)
+4. [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex)
+5. [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex)
+6. [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex)
+7. [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
 
-The derivational bridge sequence remains valuable, but it no longer sets the threshold for the active public theory claim.
+Within that package, the overview is the front door, the exact-closure note is the short anchor, and the other five manuscripts are the modular full statement.
+
+The derivational bridge sequence remains valuable, but it no longer sets the threshold for the active public theory claim. In presentation order it comes only after the flagship package and only as optional downstream foundational continuation.
 
 ## Priority Order
 
@@ -30,14 +33,15 @@ The derivational bridge sequence remains valuable, but it no longer sets the thr
 1. Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical front door of the repository-facing theory sequence.
 2. Record explicitly that the six core manuscripts have already been harmonized in their abstracts, introductions, and conclusions so they now read as one coordinated flagship sequence rather than as isolated papers.
 3. Keep the same sequence roles explicit and stable across project-facing Markdown: the overview is the front door, the exact-closure note is the short anchor, and the remaining five papers are the modular full statement.
-4. Update repository-facing summaries, checklists, and boundary notes so the fixed six-manuscript reading order is always presented before any derivational continuation.
+4. Update repository-facing summaries, checklists, and boundary notes so the overview plus fixed six-manuscript core reading order is always presented before any derivational continuation.
 5. Continue tightening the repo-facing presentation so the exact-closure line reads first as the main deliverable and the derivational bridge reads second as optional foundational continuation.
 
 ## Packaging Implications
 
 - Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical repository front door.
-- Present the fixed six-manuscript exact-closure sequence as the main public-facing deliverable.
+- Present the overview plus fixed six-manuscript exact-closure sequence as the main public-facing deliverable.
 - Make the role of each flagship manuscript explicit and consistent: the overview is the front door, the exact-closure note is the short anchor, and the remaining five papers are the modular full statement.
+- End the flagship public presentation with [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex); only after that should any derivational bridge note appear.
 - Describe the broader bridge program as downstream foundational continuation rather than as the current flagship target.
 - Preserve the existing claim boundary: exact relativistic adoption and exact closure are already the active theory statement, while deeper substrate derivation remains open work.
 

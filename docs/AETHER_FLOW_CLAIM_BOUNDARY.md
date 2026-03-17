@@ -4,6 +4,8 @@
 
 This note records the active claim boundary of `The Æther-Flow Interpretation of Relativity`.
 
+For repository-facing presentation, readers should begin with [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) and then follow the fixed exact-closure sequence before any derivational continuation is introduced.
+
 ## 1. Ontology
 
 The active ontological claim is:
@@ -27,8 +29,11 @@ That means:
 - the active theory line is exact closure, not low-energy deformation
 - the present manuscript sequence is an exact interpretation of relativity rather than a rival low-energy law
 - the canonical front-door note for that flagship exact-closure line is [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex), which fixes the reading order of the core exact-closure manuscripts without adding stronger claims
+- public presentation begins with that overview rather than with a bridge or derivational note
 
 After that front-door note, the fixed core reading order is [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex).
+
+Within that fixed package, the overview is the front door, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short anchor, and the other five manuscripts are the modular full statement. Derivational bridge notes remain downstream and optional in presentation order.
 
 ## 3. Adopted GR Dynamics
 
@@ -59,6 +64,8 @@ Its purpose is:
 ## 5. Substrate-Kinematics Manuscript
 
 The active line now also includes the substrate-kinematics / derivational-bridge manuscript.
+
+In repository-facing presentation, this manuscript and every later bridge note are downstream of the flagship exact-closure package. They should appear only after the overview and the six core exact-closure manuscripts have already fixed the public theory claim.
 
 Its purpose is:
 

@@ -13,10 +13,11 @@ This note freezes the naming and vocabulary for the active manuscript sequence o
 ## Flagship Packaging Status
 
 - the flagship public-facing sequence is fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex)
+- the fixed public reading order is the overview, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
 - within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short standalone anchor
 - the five companion papers on foundations, dynamics, consistency, relativistic recovery, and flow geometry are the modular full statement
 - the immediate required repository work is packaging and integration of that exact-closure sequence across project-facing Markdown, not another derivational bridge manuscript
-- if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package
+- if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package and should appear only after that package in presentation order
 
 ## Legacy Note
 

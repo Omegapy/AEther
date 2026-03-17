@@ -2,19 +2,11 @@
 
 This repository now centers on the active manuscript sequence for `The Æther-Flow Interpretation of Relativity`.
 
-## Ontology
+## Start Here
 
-- `Æther`: the underlying four-dimensional substrate of reality
-- `Æther-flow`: the intrinsic ordered motion of that substrate
-- observed three-dimensional space: the local experiential slice of the deeper substrate
-- `S-time`: the experienced order of change arising from matter, light, and the `Æther-flow`
-- observed expansion: the three-dimensional appearance of deeper four-dimensional ordered motion
+The flagship public-facing deliverable of this repository is the exact-closure package centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). New readers should begin there. It is the canonical front door for the exact theory statement, the fixed reading order, and the active claim boundary.
 
-## Flagship Exact-Closure Deliverable
-
-The public-facing deliverable of this repository is the flagship exact-closure package centered on [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex). New readers should begin there. It is the canonical front door for the exact theory statement, the fixed reading order, and the active claim boundary.
-
-The flagship package should be read in the following order:
+The flagship package should be presented and read in the following fixed order:
 
 1. [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the flagship exact-theory sequence
 2. [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor
@@ -24,15 +16,25 @@ The flagship package should be read in the following order:
 6. [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex): GR / SR recovery, causal structure, and final naming statement
 7. [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex): congruence-based interpretation of `Æther-flow` through expansion, acceleration, vorticity, shear, tides, frame dragging, and local SR
 
-This fixed sequence is the main theory statement of the repository. It packages the exact-closure line as the flagship deliverable and keeps the claim boundary explicit: exact relativistic adoption and exact closure are the active theory statement, while deeper substrate derivation remains open work.
+Within that package, the overview is the front door, the exact-closure note is the short anchor, and the other five manuscripts are the modular full statement. This fixed sequence is the main theory statement of the repository. It packages the exact-closure line as the flagship deliverable and keeps the claim boundary explicit: exact relativistic adoption and exact closure are the active theory statement, while deeper substrate derivation remains open work.
+
+## Ontology
+
+- `Æther`: the underlying four-dimensional substrate of reality
+- `Æther-flow`: the intrinsic ordered motion of that substrate
+- observed three-dimensional space: the local experiential slice of the deeper substrate
+- `S-time`: the experienced order of change arising from matter, light, and the `Æther-flow`
+- observed expansion: the three-dimensional appearance of deeper four-dimensional ordered motion
 
 ## Optional Downstream Foundational Continuation
 
-Any further derivational continuation is secondary to the flagship package above. If the bridge line is deliberately resumed, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex), and it should be presented only as optional downstream foundational work answerable to the exact-closure benchmark.
+Public presentation order stops with the flagship package above. Any derivational bridge note belongs downstream of that package and should be introduced only as optional foundational continuation answerable to the exact-closure benchmark.
+
+If the bridge line is deliberately resumed, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex), and it should be presented only in that subordinate downstream role.
 
 ## Extended Manuscript Inventory
 
-The broader active root manuscript sequence therefore begins with the flagship package above and only after that moves into the downstream derivational bridge program:
+The broader active root manuscript sequence therefore begins with the flagship package above. Everything listed after the six core manuscripts is downstream derivational continuation rather than part of the flagship public package:
 
 - [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex): canonical front-door overview of the exact-closure line
 - [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex): standalone exact-closure anchor and first manuscript in the fixed core reading order
