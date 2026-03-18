@@ -32,4 +32,5 @@ AGENTS.md
 docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md
 File Format Convertor to docx.bat
 scripts/clean_aether_pdflatex_artifacts.sh
-.gitignore
+
+
