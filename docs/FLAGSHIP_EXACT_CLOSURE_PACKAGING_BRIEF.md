@@ -24,7 +24,7 @@ The derivational bridge sequence remains valuable, but it no longer sets the thr
 
 ## Stable Package Status
 
-As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue. If the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: hold that package fixed. There is no further required packaging step and no required new bridge manuscript. There is no active next manuscript under that goal.
+As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue. If the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: hold that package fixed. The practical next move is editorial stability, not another paper. There is no further required packaging step and no required new bridge manuscript. There is no active next manuscript under that goal. The overview-first reading order should now simply be kept stable across the repository.
 
 Only two sensible paths remain:
 
@@ -40,6 +40,7 @@ Only two sensible paths remain:
 - Describe the broader bridge program as downstream foundational continuation rather than as the current flagship target.
 - Preserve the existing claim boundary: exact relativistic adoption and exact closure are already the active theory statement, while deeper substrate derivation remains open work.
 - Hold that package line fixed unless a deliberate new packaging decision is made later.
+- Keep the overview-first reading order stable across repository-facing Markdown and related presentation.
 
 ## Optional Downstream Continuation
 

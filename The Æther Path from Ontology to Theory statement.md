@@ -143,11 +143,11 @@ The most recent derivational continuation is now the raw-vacuum-orbit-origin not
 
 ## Immediate Next Steps
 
-Based on the active repository goal, the next thing to do is nothing new in the manuscript line: hold the flagship public package fixed. The exact-closure overview note and its fixed six-manuscript core sequence should now simply be held as the main public-facing deliverable of the project. There is no further required packaging step and no required new bridge manuscript.
+Based on the active repository goal, the next thing to do is nothing new in the manuscript line: hold the flagship public package fixed. The practical next move is editorial stability, not another paper. The exact-closure overview note and its fixed six-manuscript core sequence should now simply be held as the main public-facing deliverable of the project. There is no further required packaging step and no required new bridge manuscript.
 
 The honest public order is now:
 
-1. Hold the flagship exact-theory presentation fixed: [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) first, then [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex).
+1. Do not add another manuscript; hold the flagship exact-theory presentation fixed: [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) first, then [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex).
 2. Keep the sequence-level framing and fixed reading order stable across repository-facing Markdown.
 3. Treat every bridge note as downstream and optional unless research is deliberately reopened.
 

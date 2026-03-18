@@ -16,8 +16,8 @@ This note freezes the naming and vocabulary for the active manuscript sequence o
 - the fixed public reading order is the overview, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
 - within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short standalone anchor
 - the five companion papers on foundations, dynamics, consistency, relativistic recovery, and flow geometry are the modular full statement
-- the repository-facing packaging pass and short verification-and-freeze pass for that exact-closure sequence are complete, so the flagship package should now be held stable in project-facing Markdown
-- if the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: there is no further required packaging step and no required new bridge manuscript
+- the repository-facing packaging pass and short verification-and-freeze pass for that exact-closure sequence are complete, so the flagship package should now be held stable in project-facing Markdown with the overview-first reading order kept fixed across the repository
+- if the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: there is no further required packaging step and no required new bridge manuscript, and there is no active next manuscript under that goal
 - if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package and should appear only after that package in presentation order
 
 ## Legacy Note
