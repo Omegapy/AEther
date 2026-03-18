@@ -1,0 +1,46 @@
+---
+title: How to Review
+permalink: /how-to-review/
+---
+
+[Home]({{ '/' | relative_url }}) | [Start Here]({{ '/start-here/' | relative_url }}) | [Front-Facing Article]({{ '/front-facing-article/' | relative_url }}) | [Theory Package]({{ '/theory-package/' | relative_url }}) | [Research Archive]({{ '/research-archive/' | relative_url }}) | [AI Collaboration and Method]({{ '/ai-collaboration-and-method/' | relative_url }}) | [How to Review]({{ '/how-to-review/' | relative_url }})
+
+This page is for physicists, mathematicians, and technically trained readers who want to audit the repository honestly and efficiently.
+
+## Best Review Entry Point
+
+Start with the [exact-closure sequence overview PDF]({{ '/assets/pdfs/aether_flow_exact_closure_sequence_overview.pdf' | relative_url }}), then move to the [Theory Package]({{ '/theory-package/' | relative_url }}) in order.
+
+That order matters because the package, not the bridge archive, is the current public-facing claim.
+
+## Core Audits Requested
+
+- Claim-boundary audit: does the public presentation keep exact relativistic adoption distinct from first-principles derivation?
+- Equation audit: do the package manuscripts say exactly what they claim to establish, no more and no less?
+- Consistency audit: are the package definitions, symbols, and roles aligned across the overview and six core manuscripts?
+- Novelty and literature-position audit: where does the package genuinely differ from standard interpretive or effective-field presentations, and where does it need sharper positioning?
+
+## Suggested Reviewer Path
+
+1. Read the overview and exact-closure note first.
+2. Read the companion manuscript most relevant to your expertise.
+3. Use the [claim-boundary note]({{ site.blob_base_url }}/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) as a check against overstatement.
+4. Only after that, enter the [Research Archive]({{ '/research-archive/' | relative_url }}) if you want the broader derivational context.
+
+## Particularly Useful Feedback
+
+- a specific equation, definition, or logical transition that is unclear or unsupported
+- a place where adoption and derivation language are being conflated
+- a place where terminology, notation, or manuscript ordering creates avoidable confusion
+- a literature reference or prior result that the project should acknowledge directly
+- a precise reason the exact-closure interpretation should be reformulated, narrowed, or rejected
+
+## Practical Review Guidance
+
+- Please cite the manuscript name and equation or section when possible.
+- Negative feedback is useful if it is specific about whether the problem is mathematical, conceptual, interpretive, or presentational.
+- Criticism of the archive is welcome, but criticism of the flagship package should be distinguished from criticism of downstream optional bridge work.
+
+## Public Feedback Target
+
+The most useful public review at this stage is not a general endorsement or dismissal. It is a disciplined audit of whether the overview-first exact-closure package is readable, internally coherent, and honest about its open burdens.
