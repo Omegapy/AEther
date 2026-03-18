@@ -24,7 +24,7 @@ The derivational bridge sequence remains valuable, but it no longer sets the thr
 
 ## Stable Package Status
 
-As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue.
+As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue. If the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: hold that package fixed. There is no further required packaging step and no required new bridge manuscript.
 
 Only two sensible paths remain:
 

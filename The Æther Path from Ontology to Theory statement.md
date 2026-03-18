@@ -143,15 +143,15 @@ The immediate substantive research step has therefore moved again. It is no long
 
 ## Immediate Next Steps
 
-Based on the active repository goal, the next required work is no longer another packaging rewrite or another derivational bridge manuscript. The exact-closure overview note and its fixed six-manuscript core sequence should now simply be held as the main public-facing deliverable of the project.
+Based on the active repository goal, the next thing to do is nothing new in the manuscript line: hold the flagship public package fixed. The exact-closure overview note and its fixed six-manuscript core sequence should now simply be held as the main public-facing deliverable of the project. There is no further required packaging step and no required new bridge manuscript.
 
 The honest next-step order is now:
 
-1. Hold the flagship exact-theory presentation fixed.
+1. Hold the flagship exact-theory presentation fixed: overview first, then the six core manuscripts.
 2. Keep the sequence-level framing and fixed reading order stable across repository-facing Markdown.
-3. Treat any further derivational note only as optional downstream foundational work.
+3. Treat every bridge note as downstream and optional unless research is deliberately reopened.
 
-If the optional foundational bridge is nevertheless continued, the next honest manuscript is no longer a same-layer repair below the raw-vacuum-orbit note. It is the still deeper orbit-shape/modulus-origin continuation fixed in [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex). That continuation remains secondary to the flagship exact-closure presentation.
+Only if the optional foundational bridge is deliberately resumed does the next honest manuscript become the still deeper orbit-shape/modulus-origin continuation fixed in [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex). That continuation remains secondary to the flagship exact-closure presentation.
 
 The next live burden should now be stated more concretely:
 

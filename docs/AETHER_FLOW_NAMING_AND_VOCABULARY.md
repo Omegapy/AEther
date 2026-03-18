@@ -17,6 +17,7 @@ This note freezes the naming and vocabulary for the active manuscript sequence o
 - within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short standalone anchor
 - the five companion papers on foundations, dynamics, consistency, relativistic recovery, and flow geometry are the modular full statement
 - the repository-facing packaging pass and short verification-and-freeze pass for that exact-closure sequence are complete, so the flagship package should now be held stable in project-facing Markdown
+- if the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: there is no further required packaging step and no required new bridge manuscript
 - if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package and should appear only after that package in presentation order
 
 ## Legacy Note
