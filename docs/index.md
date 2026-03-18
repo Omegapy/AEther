@@ -41,4 +41,4 @@ For the fuller repository claim-boundary note, see [Æther-Flow Claim Boundary](
 
 ## Release Scope
 
-This site now uses a curated public asset bundle under `docs/assets/pdfs/` and `docs/assets/tex/` for the flagship article and the overview-first exact-closure package. The larger root manuscript tree remains available in the repository, but it is no longer surfaced equally on the public landing path.
+This site now uses a curated public asset bundle under `docs/assets/pdfs/` and `docs/assets/tex/` for the flagship article and the overview-first exact-closure package. The larger manuscript tree under `manuscripts/active/` and `manuscripts/retired/` remains available in the repository, but it is no longer surfaced equally on the public landing path.

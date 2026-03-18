@@ -12,13 +12,13 @@ This note freezes the naming and vocabulary for the active manuscript sequence o
 
 ## Flagship Packaging Status
 
-- the flagship public-facing sequence is fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex)
-- the fixed public reading order is the overview, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
-- within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) is the short standalone anchor
+- the flagship public-facing sequence is fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex)
+- the fixed public reading order is the overview, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex), [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_foundations.tex), [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_dynamics.tex), [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_consistency.tex), [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_relativistic_recovery.tex), and [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_geometry.tex)
+- within that sequence, [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex) is the short standalone anchor
 - the five companion papers on foundations, dynamics, consistency, relativistic recovery, and flow geometry are the modular full statement
 - as of March 17, 2026, the repository-facing packaging pass and short verification-and-freeze pass for that exact-closure sequence are complete, so the flagship package should now be held stable in project-facing Markdown with the overview-first reading order kept fixed across the repository
 - if the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: the practical next move is editorial stability, not another paper; there is no further required packaging step, no required new bridge manuscript, and no active next manuscript under that goal
-- if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package, should appear only after that package in presentation order, and the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex)
+- if the derivational bridge is deliberately resumed later, it remains secondary to the flagship exact-closure package, should appear only after that package in presentation order, and the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex)
 
 ## Legacy Note
 
@@ -258,7 +258,7 @@ The current active state of the repository is:
 - the carrier-data-origin note is now recorded and shows that the primitive carrier data reduce to a microscopic bridge-response amplitude sector
 - if the optional derivational bridge is deliberately resumed after the flagship packaging pass, the downstream manuscript burden is the still deeper orbit-shape/modulus-origin, anchoring, or quotient problem rather than another same-layer bridge note; that continuation must derive or sharply constrain the unit-reference orbit-shape block and the unanchored positive orbit modulus while preserving the same downstream package
 - the derivative-mixing and constraint-assisted branches are now tracked as archived tested degenerate side branches
-- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex) remains standalone as the exact-closure anchor for the active sequence
+- [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex) remains standalone as the exact-closure anchor for the active sequence
 
 ## Reusable Framework Paragraph
 

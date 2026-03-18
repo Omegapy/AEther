@@ -18,14 +18,14 @@ When the user explicitly asks for repository documentation or support tooling, i
 
 ## Source of Truth
 
-Use the active root manuscript sequence and active notes as the primary references for terminology, structure, and conceptual continuity:
+Use the active manuscript sequence under `manuscripts/active/tex/` and the active notes as the primary references for terminology, structure, and conceptual continuity:
 
-- `/Volumes/P-SSD/The Æther/aether_flow_foundations.tex`
-- `/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex`
-- `/Volumes/P-SSD/The Æther/aether_flow_consistency.tex`
-- `/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex`
-- `/Volumes/P-SSD/The Æther/aether_flow_geometry.tex`
-- `/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_foundations.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_dynamics.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_consistency.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_relativistic_recovery.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_geometry.tex`
+- `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex`
 - `/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md`
 - `/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md`
 - `/Volumes/P-SSD/The Æther/The Æther Path from Ontology to Theory statement.md`
@@ -92,7 +92,7 @@ If the image is ambiguous, incomplete, or unreadable, do not invent missing scie
 
 ## Editing Behavior
 
-- Before changing conceptual structure, inspect the active root manuscripts first.
+- Before changing conceptual structure, inspect the active manuscripts under `manuscripts/active/tex/` first.
 - Reuse the active definitions for terms such as substrate, `Æther`, `Æther-flow`, `S-time`, and effective metric.
 - Maintain consistency between prose and equations.
 - When adding mathematics, define symbols before using them.
@@ -111,4 +111,4 @@ If the image is ambiguous, incomplete, or unreadable, do not invent missing scie
 
 When asked to generate content, return ready-to-use LaTeX.
 When asked to create a file, create a `.tex` file directly.
-When asked to revise the paper, preserve continuity with the active root manuscript sequence.
+When asked to revise the paper, preserve continuity with the active manuscript sequence under `manuscripts/active/tex/`.

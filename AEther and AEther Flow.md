@@ -56,21 +56,35 @@ space is ordinary water, but that gravitational attraction should be
 interpreted as a structured response of the deeper substrate to matter.
 
 This also clarifies how the ontology relates to the active manuscript
-sequence. The exact-closure papers adopt Einsteinian gravity as the
+sequence. The flagship public-facing deliverable is now the exact-closure
+package fronted by
+[aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex).
+Within that package, the overview is the front door,
+[aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex)
+is the short anchor, and the other five core manuscripts are the modular
+full statement. Those papers adopt Einsteinian gravity as the exact
 effective observer law. The derivational bridge program then asks
 whether this mass-shaped reorganization of the Æther-flow can be written
 as an explicit substrate dynamics whose observer-level output is exactly
-the Einstein equation with ordinary matter coupling. The recent
-quotient-tensor verdict says that the current fixed bridge-metric and
-fixed single-metric matter route does not yet complete that derivation:
-it remains dynamically well behaved, but it still leaves a nonzero
-observer-side remainder.
+the Einstein equation with ordinary matter coupling.
+
+That bridge program now stands downstream of the flagship package rather
+than defining the public theory threshold. The most recent derivational
+continuation is the raw-vacuum-orbit-origin note, which carries the
+optional bridge line one layer deeper while leaving the flagship exact
+theory statement already in hand. As of March 17, 2026, the next step is
+therefore not another manuscript but editorial stability: keep the
+overview-first flagship package fixed in repository-facing presentation,
+and treat all bridge notes as optional downstream continuation. Only if
+derivational research is deliberately reopened does the next honest
+manuscript become
+[aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
 
 - **Æther** = the four-dimensional substrate of reality
 
 - **Æther-flow** = the substrate’s intrinsic ordered motion
 
-- **Three-dimensional space** = the local experiential slice of that
+- **Observed three-dimensional space** = the local experiential slice of that
   deeper substrate
 
 - **S-time** = the experienced order of change arising from the relation

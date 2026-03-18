@@ -42,4 +42,4 @@ The public presentation order is fixed:
 
 That ordering is intentional. It keeps the main deliverable readable and keeps the claim boundary honest.
 
-The public site now exposes those package files through a curated asset bundle rather than by treating the entire repository root as the default reading surface.
+The public site now exposes those package files through a curated asset bundle rather than by surfacing the full `manuscripts/active/` tree as the default reading surface.

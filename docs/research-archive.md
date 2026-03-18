@@ -15,9 +15,9 @@ Read the [Theory Package]({{ '/theory-package/' | relative_url }}) first. The ar
 
 ## What The Archive Contains
 
-- The downstream derivational bridge sequence beginning with [`aether_flow_substrate_kinematics.tex`]({{ site.blob_base_url }}/aether_flow_substrate_kinematics.tex) and its later continuation through the root manuscript tree.
+- The downstream derivational bridge sequence beginning with [`aether_flow_substrate_kinematics.tex`]({{ site.blob_base_url }}/manuscripts/active/tex/aether_flow_substrate_kinematics.tex) and its later continuation through the active manuscript tree under `manuscripts/active/`.
 - Technical screening, redesign, and closure notes that remain answerable to the exact-closure benchmark fixed by the flagship package.
-- Older tested side branches archived in [`Retirer_Researches/`]({{ site.blob_base_url }}/Retirer_Researches).
+- Older tested side branches archived in [`manuscripts/retired/`]({{ site.blob_base_url }}/manuscripts/retired).
 
 ## How To Read The Archive Honestly
 
@@ -27,11 +27,11 @@ Read the [Theory Package]({{ '/theory-package/' | relative_url }}) first. The ar
 
 ## Useful Archive Entry Points
 
-- [Substrate kinematics PDF]({{ site.raw_base_url }}/aether_flow_substrate_kinematics.pdf)
-- [Substrate kinematics LaTeX]({{ site.blob_base_url }}/aether_flow_substrate_kinematics.tex)
+- [Substrate kinematics PDF]({{ site.raw_base_url }}/manuscripts/active/pdf/aether_flow_substrate_kinematics.pdf)
+- [Substrate kinematics LaTeX]({{ site.blob_base_url }}/manuscripts/active/tex/aether_flow_substrate_kinematics.tex)
 - [Research plan]({{ site.blob_base_url }}/RESEARCH_PLAN.md)
 - [Extended repository inventory in README]({{ site.blob_base_url }}/README.md)
-- [Archived side branches in `Retirer_Researches`]({{ site.blob_base_url }}/Retirer_Researches)
+- [Archived side branches in `manuscripts/retired/`]({{ site.blob_base_url }}/manuscripts/retired)
 
 ## Why This Separation Exists
 

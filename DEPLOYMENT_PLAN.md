@@ -32,16 +32,16 @@ The deployment layer must preserve the current claim boundary already fixed else
 
 The repository already contains the core pieces needed for public deployment:
 
-- a flagship exact-closure package fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex)
+- a flagship exact-closure package fronted by [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex)
 - six core public manuscripts:
-  [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_note.tex),
-  [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/aether_flow_foundations.tex),
-  [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/aether_flow_dynamics.tex),
-  [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/aether_flow_consistency.tex),
-  [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/aether_flow_relativistic_recovery.tex), and
-  [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/aether_flow_geometry.tex)
-- a large downstream derivational manuscript archive in root `.tex` and `.pdf` files
-- archived older side branches in [Retirer_Researches](/Volumes/P-SSD/The Æther/Retirer_Researches)
+  [aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex),
+  [aether_flow_foundations.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_foundations.tex),
+  [aether_flow_dynamics.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_dynamics.tex),
+  [aether_flow_consistency.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_consistency.tex),
+  [aether_flow_relativistic_recovery.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_relativistic_recovery.tex), and
+  [aether_flow_geometry.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_geometry.tex)
+- a large downstream derivational manuscript archive in `manuscripts/active/tex/` and `manuscripts/active/pdf/`
+- archived older side branches in [manuscripts/retired](/Volumes/P-SSD/The Æther/manuscripts/retired)
 - repository-facing documentation in [README.md](/Volumes/P-SSD/The Æther/README.md), [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_CLAIM_BOUNDARY.md), [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](/Volumes/P-SSD/The Æther/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md), [docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md](/Volumes/P-SSD/The Æther/docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md), [RESEARCH_PLAN.md](/Volumes/P-SSD/The Æther/RESEARCH_PLAN.md), and [EXECUTION_CHECKLIST.md](/Volumes/P-SSD/The Æther/EXECUTION_CHECKLIST.md)
 - human-readable PDF outputs for most active manuscripts
 
@@ -98,7 +98,7 @@ Create one new flagship article for readers who need a single coherent entry doc
 
 Suggested new file:
 
-- [aether_flow_exact_closure_flagship_article.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_flagship_article.tex)
+- [aether_flow_exact_closure_flagship_article.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_flagship_article.tex)
 
 Suggested role:
 
@@ -138,7 +138,7 @@ The public-facing provenance text should communicate the following points:
 ### Phase 2: Front-Facing Article
 
 - [ ] define the outline for the flagship front-facing article
-- [ ] create [aether_flow_exact_closure_flagship_article.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_flagship_article.tex)
+- [ ] create [aether_flow_exact_closure_flagship_article.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_flagship_article.tex)
 - [ ] ensure the article states the claim boundary explicitly
 - [ ] compile a public PDF version for release
 

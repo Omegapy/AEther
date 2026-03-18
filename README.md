@@ -50,8 +50,9 @@ For the fuller boundary statement, see [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](docs
 ## Repository Map
 
 - `docs/`: public Pages layer, curated release assets, and public-facing review material
-- root `.tex` and `.pdf` files: active manuscript tree, including the downstream bridge archive
-- `Retirer_Researches/`: archived tested side branches
+- `manuscripts/active/tex/`: active manuscript sources, including the downstream bridge archive
+- `manuscripts/active/pdf/`: compiled active manuscript outputs
+- `manuscripts/retired/tex/` and `manuscripts/retired/pdf/`: archived tested side branches
 - [DEPLOYMENT_PLAN.md](DEPLOYMENT_PLAN.md): public release plan
 - [RESEARCH_PLAN.md](RESEARCH_PLAN.md): broader research tracking
 
@@ -63,9 +64,18 @@ The repository should therefore be read as AI-assisted theoretical research unde
 
 ## Build
 
-Compile from the repository root with `pdflatex`:
+Compile active manuscripts from `manuscripts/active/tex/` and write outputs into `manuscripts/active/pdf/`:
 
-- `pdflatex aether_flow_exact_closure_flagship_article.tex`
-- `pdflatex aether_flow_exact_closure_sequence_overview.tex`
+- `pdflatex -output-directory=manuscripts/active/pdf manuscripts/active/tex/aether_flow_exact_closure_flagship_article.tex`
+- `pdflatex -output-directory=manuscripts/active/pdf manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex`
 
-The other curated package manuscripts can be compiled the same way from their root `.tex` files.
+The other curated package manuscripts can be compiled the same way from `manuscripts/active/tex/`.
+
+## License
+
+This repository uses a mixed-content license model:
+
+- research manuscripts and documentation: `CC BY 4.0`
+- support tooling and small utility/config files: `MIT`
+
+See [LICENSE.md](LICENSE.md) for the full repository license statement.
