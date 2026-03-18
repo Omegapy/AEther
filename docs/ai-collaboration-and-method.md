@@ -1,9 +1,6 @@
----
-title: AI Collaboration and Method
-permalink: /ai-collaboration-and-method/
----
+# AI Collaboration and Method
 
-[Home]({{ '/' | relative_url }}) | [Start Here]({{ '/start-here/' | relative_url }}) | [Front-Facing Article]({{ '/front-facing-article/' | relative_url }}) | [Theory Package]({{ '/theory-package/' | relative_url }}) | [Research Archive]({{ '/research-archive/' | relative_url }}) | [AI Collaboration and Method]({{ '/ai-collaboration-and-method/' | relative_url }}) | [How to Review]({{ '/how-to-review/' | relative_url }})
+[Home](index.md) | [Start Here](start-here.md) | [Front-Facing Article](front-facing-article.md) | [Theory Package](theory-package.md) | [Research Archive](research-archive.md) | [AI Collaboration and Method](ai-collaboration-and-method.md) | [How to Review](how-to-review.md)
 
 This repository should be read as AI-assisted theoretical research carried out under sustained human direction.
 
@@ -39,8 +36,8 @@ Readers should evaluate the manuscripts by their stated assumptions, explicit eq
 
 ## Related Repository Notes
 
-- [Deployment plan]({{ site.blob_base_url }}/DEPLOYMENT_PLAN.md)
-- [Claim boundary note]({{ site.blob_base_url }}/docs/AETHER_FLOW_CLAIM_BOUNDARY.md)
-- [Naming and vocabulary note]({{ site.blob_base_url }}/docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md)
+- [Deployment plan](../DEPLOYMENT_PLAN.md)
+- [Claim boundary note](AETHER_FLOW_CLAIM_BOUNDARY.md)
+- [Naming and vocabulary note](AETHER_FLOW_NAMING_AND_VOCABULARY.md)
 
-If you want the technical audit path next, continue to [How to Review]({{ '/how-to-review/' | relative_url }}).
+If you want the technical audit path next, continue to [How to Review](how-to-review.md).

@@ -1,9 +1,6 @@
----
-title: Front-Facing Article
-permalink: /front-facing-article/
----
+# Front-Facing Article
 
-[Home]({{ '/' | relative_url }}) | [Start Here]({{ '/start-here/' | relative_url }}) | [Front-Facing Article]({{ '/front-facing-article/' | relative_url }}) | [Theory Package]({{ '/theory-package/' | relative_url }}) | [Research Archive]({{ '/research-archive/' | relative_url }}) | [AI Collaboration and Method]({{ '/ai-collaboration-and-method/' | relative_url }}) | [How to Review]({{ '/how-to-review/' | relative_url }})
+[Home](index.md) | [Start Here](start-here.md) | [Front-Facing Article](front-facing-article.md) | [Theory Package](theory-package.md) | [Research Archive](research-archive.md) | [AI Collaboration and Method](ai-collaboration-and-method.md) | [How to Review](how-to-review.md)
 
 This page introduces the single-entry public article for `The Æther-Flow Interpretation of Relativity`.
 
@@ -11,8 +8,8 @@ The article is a public orientation layer. It does not replace the overview-firs
 
 ## Article Access
 
-- [Flagship article PDF]({{ '/assets/pdfs/aether_flow_exact_closure_flagship_article.pdf' | relative_url }})
-- [Flagship article LaTeX source]({{ '/assets/tex/aether_flow_exact_closure_flagship_article.tex' | relative_url }})
+- [Flagship article PDF](assets/pdfs/aether_flow_exact_closure_flagship_article.pdf)
+- [Flagship article LaTeX source](assets/tex/aether_flow_exact_closure_flagship_article.tex)
 
 ## Role Of The Article
 
@@ -25,8 +22,8 @@ The article is a public orientation layer. It does not replace the overview-firs
 ## Reading Guidance
 
 - If you want a single-entry orientation document, read this article first.
-- If you want the canonical package front door, go next to [Theory Package]({{ '/theory-package/' | relative_url }}) and begin with the overview.
-- If you want the broader downstream archive after that, continue to [Research Archive]({{ '/research-archive/' | relative_url }}).
+- If you want the canonical package front door, go next to [Theory Package](theory-package.md) and begin with the overview.
+- If you want the broader downstream archive after that, continue to [Research Archive](research-archive.md).
 
 ## Public Boundary
 

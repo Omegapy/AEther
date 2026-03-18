@@ -58,9 +58,9 @@ interpreted as a structured response of the deeper substrate to matter.
 This also clarifies how the ontology relates to the active manuscript
 sequence. The flagship public-facing deliverable is now the exact-closure
 package fronted by
-[aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex).
+[aether_flow_exact_closure_sequence_overview.tex](manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex).
 Within that package, the overview is the front door,
-[aether_flow_exact_closure_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_exact_closure_note.tex)
+[aether_flow_exact_closure_note.tex](manuscripts/active/tex/aether_flow_exact_closure_note.tex)
 is the short anchor, and the other five core manuscripts are the modular
 full statement. Those papers adopt Einsteinian gravity as the exact
 effective observer law. The derivational bridge program then asks
@@ -78,7 +78,7 @@ overview-first flagship package fixed in repository-facing presentation,
 and treat all bridge notes as optional downstream continuation. Only if
 derivational research is deliberately reopened does the next honest
 manuscript become
-[aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
+[aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](manuscripts/active/tex/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
 
 - **Æther** = the four-dimensional substrate of reality
 

@@ -1,15 +1,12 @@
----
-title: How to Review
-permalink: /how-to-review/
----
+# How to Review
 
-[Home]({{ '/' | relative_url }}) | [Start Here]({{ '/start-here/' | relative_url }}) | [Front-Facing Article]({{ '/front-facing-article/' | relative_url }}) | [Theory Package]({{ '/theory-package/' | relative_url }}) | [Research Archive]({{ '/research-archive/' | relative_url }}) | [AI Collaboration and Method]({{ '/ai-collaboration-and-method/' | relative_url }}) | [How to Review]({{ '/how-to-review/' | relative_url }})
+[Home](index.md) | [Start Here](start-here.md) | [Front-Facing Article](front-facing-article.md) | [Theory Package](theory-package.md) | [Research Archive](research-archive.md) | [AI Collaboration and Method](ai-collaboration-and-method.md) | [How to Review](how-to-review.md)
 
 This page is for physicists, mathematicians, and technically trained readers who want to audit the repository honestly and efficiently.
 
 ## Best Review Entry Point
 
-Start with the [exact-closure sequence overview PDF]({{ '/assets/pdfs/aether_flow_exact_closure_sequence_overview.pdf' | relative_url }}), then move to the [Theory Package]({{ '/theory-package/' | relative_url }}) in order.
+Start with the [exact-closure sequence overview PDF](assets/pdfs/aether_flow_exact_closure_sequence_overview.pdf), then move to the [Theory Package](theory-package.md) in order.
 
 That order matters because the package, not the bridge archive, is the current public-facing claim.
 
@@ -24,8 +21,8 @@ That order matters because the package, not the bridge archive, is the current p
 
 1. Read the overview and exact-closure note first.
 2. Read the companion manuscript most relevant to your expertise.
-3. Use the [claim-boundary note]({{ site.blob_base_url }}/docs/AETHER_FLOW_CLAIM_BOUNDARY.md) as a check against overstatement.
-4. Only after that, enter the [Research Archive]({{ '/research-archive/' | relative_url }}) if you want the broader derivational context.
+3. Use the [claim-boundary note](AETHER_FLOW_CLAIM_BOUNDARY.md) as a check against overstatement.
+4. Only after that, enter the [Research Archive](research-archive.md) if you want the broader derivational context.
 
 ## Particularly Useful Feedback
 

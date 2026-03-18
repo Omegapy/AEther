@@ -1,9 +1,6 @@
----
-title: Research Archive
-permalink: /research-archive/
----
+# Research Archive
 
-[Home]({{ '/' | relative_url }}) | [Start Here]({{ '/start-here/' | relative_url }}) | [Front-Facing Article]({{ '/front-facing-article/' | relative_url }}) | [Theory Package]({{ '/theory-package/' | relative_url }}) | [Research Archive]({{ '/research-archive/' | relative_url }}) | [AI Collaboration and Method]({{ '/ai-collaboration-and-method/' | relative_url }}) | [How to Review]({{ '/how-to-review/' | relative_url }})
+[Home](index.md) | [Start Here](start-here.md) | [Front-Facing Article](front-facing-article.md) | [Theory Package](theory-package.md) | [Research Archive](research-archive.md) | [AI Collaboration and Method](ai-collaboration-and-method.md) | [How to Review](how-to-review.md)
 
 This page separates the broader research archive from the flagship exact-closure package.
 
@@ -11,13 +8,13 @@ The archive is included for transparency, continuity, and future work. It is not
 
 ## Reading Rule
 
-Read the [Theory Package]({{ '/theory-package/' | relative_url }}) first. The archive is downstream and optional.
+Read the [Theory Package](theory-package.md) first. The archive is downstream and optional.
 
 ## What The Archive Contains
 
-- The downstream derivational bridge sequence beginning with [`aether_flow_substrate_kinematics.tex`]({{ site.blob_base_url }}/manuscripts/active/tex/aether_flow_substrate_kinematics.tex) and its later continuation through the active manuscript tree under `manuscripts/active/`.
+- The downstream derivational bridge sequence beginning with [`aether_flow_substrate_kinematics.tex`](../manuscripts/active/tex/aether_flow_substrate_kinematics.tex) and its later continuation through the active manuscript tree under `manuscripts/active/`.
 - Technical screening, redesign, and closure notes that remain answerable to the exact-closure benchmark fixed by the flagship package.
-- Older tested side branches archived in [`manuscripts/retired/`]({{ site.blob_base_url }}/manuscripts/retired).
+- Older tested side branches archived in [`manuscripts/retired/`](../manuscripts/retired).
 
 ## How To Read The Archive Honestly
 
@@ -27,11 +24,11 @@ Read the [Theory Package]({{ '/theory-package/' | relative_url }}) first. The ar
 
 ## Useful Archive Entry Points
 
-- [Substrate kinematics PDF]({{ site.raw_base_url }}/manuscripts/active/pdf/aether_flow_substrate_kinematics.pdf)
-- [Substrate kinematics LaTeX]({{ site.blob_base_url }}/manuscripts/active/tex/aether_flow_substrate_kinematics.tex)
-- [Research plan]({{ site.blob_base_url }}/RESEARCH_PLAN.md)
-- [Extended repository inventory in README]({{ site.blob_base_url }}/README.md)
-- [Archived side branches in `manuscripts/retired/`]({{ site.blob_base_url }}/manuscripts/retired)
+- [Substrate kinematics PDF](../manuscripts/active/pdf/aether_flow_substrate_kinematics.pdf)
+- [Substrate kinematics LaTeX](../manuscripts/active/tex/aether_flow_substrate_kinematics.tex)
+- [Research plan](../RESEARCH_PLAN.md)
+- [Extended repository inventory in README](../README.md)
+- [Archived side branches in `manuscripts/retired/`](../manuscripts/retired)
 
 ## Why This Separation Exists
 
