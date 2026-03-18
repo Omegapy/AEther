@@ -31,6 +31,13 @@ Only two sensible paths remain:
 1. If the project stays on the packaging goal, do not add a new manuscript; hold the fixed public line: the overview first, then the six core manuscripts, with all bridge notes downstream and optional.
 2. If the derivational research line is deliberately reopened, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex), and it remains optional downstream foundational work rather than a required flagship milestone.
 
+## Current Next Steps
+
+- Do not open another manuscript while the flagship public-package goal remains active.
+- Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) first and the six core manuscripts immediately after it in every repository-facing package description.
+- Keep all bridge notes downstream and optional in public presentation.
+- Only if derivational research is deliberately reopened should the manuscript queue resume, and then it should resume with [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
+
 ## Packaging Implications
 
 - Keep [aether_flow_exact_closure_sequence_overview.tex](/Volumes/P-SSD/The Æther/aether_flow_exact_closure_sequence_overview.tex) as the canonical repository front door.
