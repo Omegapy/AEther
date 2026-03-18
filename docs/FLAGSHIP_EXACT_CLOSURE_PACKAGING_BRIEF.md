@@ -24,11 +24,11 @@ The derivational bridge sequence remains valuable, but it no longer sets the thr
 
 ## Stable Package Status
 
-As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue. If the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: hold that package fixed. There is no further required packaging step and no required new bridge manuscript.
+As of March 17, 2026, the repository-facing packaging pass and the short verification-and-freeze pass are complete. The flagship package should now be treated as stable rather than as an open packaging queue. If the goal remains the flagship public package, the next thing to do is nothing new in the manuscript line: hold that package fixed. There is no further required packaging step and no required new bridge manuscript. There is no active next manuscript under that goal.
 
 Only two sensible paths remain:
 
-1. If the project stays on the packaging goal, hold the fixed public line: the overview first, then the six core manuscripts, with all bridge notes downstream and optional.
+1. If the project stays on the packaging goal, do not add a new manuscript; hold the fixed public line: the overview first, then the six core manuscripts, with all bridge notes downstream and optional.
 2. If the derivational research line is deliberately reopened, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex), and it remains optional downstream foundational work rather than a required flagship milestone.
 
 ## Packaging Implications
@@ -43,6 +43,6 @@ Only two sensible paths remain:
 
 ## Optional Downstream Continuation
 
-If the foundational bridge is deliberately resumed, the next honest manuscript target is [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
+Only if the foundational bridge is deliberately resumed does the next honest manuscript target become [aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex](/Volumes/P-SSD/The Æther/aether_flow_substrate_higher_derivative_nonlocal_bridge_self_response_off_shell_profile_selection_bridge_order_orbit_shape_modulus_origin_note.tex).
 
 That continuation should remain subordinate to the flagship exact-closure presentation. It should derive or sharply constrain the unit-reference orbit-shape block and the unanchored positive orbit modulus, preserve the same downstream package, and revisit the scale-orbit and residual global \(O(2)\) vacuum-angle verdicts only if genuinely deeper quotient or locking structure appears.
