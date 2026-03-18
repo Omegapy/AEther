@@ -144,30 +144,30 @@ The migration should apply consistent rewrite rules.
 
 ### Absolute local links in Markdown
 
-Current pattern:
+Historical pre-relocation active example:
 
-- `/Volumes/P-SSD/The Æther/aether_flow_foundations.tex`
+- repository-root `aether_flow_foundations.tex`
 
-New pattern:
+Current active pattern:
 
 - `/Volumes/P-SSD/The Æther/manuscripts/active/tex/aether_flow_foundations.tex`
 
+Historical pre-relocation retired example:
+
+- `aether_flow_substrate_derivative_mixing_branch.tex` under `Retirer_Researches/`
+
 Current retired pattern:
-
-- `/Volumes/P-SSD/The Æther/Retirer_Researches/aether_flow_substrate_derivative_mixing_branch.tex`
-
-New retired pattern:
 
 - `/Volumes/P-SSD/The Æther/manuscripts/retired/tex/aether_flow_substrate_derivative_mixing_branch.tex`
 
 ### GitHub Pages blob/raw links
 
+Historical pre-relocation active examples:
+
+- repository-root `aether_flow_substrate_kinematics.tex`
+- repository-root `aether_flow_substrate_kinematics.pdf`
+
 Current active examples:
-
-- `{{ site.blob_base_url }}/aether_flow_substrate_kinematics.tex`
-- `{{ site.raw_base_url }}/aether_flow_substrate_kinematics.pdf`
-
-New active examples:
 
 - `{{ site.blob_base_url }}/manuscripts/active/tex/aether_flow_substrate_kinematics.tex`
 - `{{ site.raw_base_url }}/manuscripts/active/pdf/aether_flow_substrate_kinematics.pdf`

@@ -24,3 +24,12 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Repo-local ignores
+FILE_RELOCATION_PLAN.md
+FILE_RELOCATION_MANIFEST.csv
+AGENTS.md
+docs/FLAGSHIP_EXACT_CLOSURE_PACKAGING_BRIEF.md
+File Format Convertor to docx.bat
+scripts/clean_aether_pdflatex_artifacts.sh
+.gitignore
