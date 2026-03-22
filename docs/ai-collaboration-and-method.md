@@ -38,7 +38,6 @@ Readers should evaluate the manuscripts by their stated assumptions, explicit eq
 
 ## Related Repository Notes
 
-- [Deployment plan](../DEPLOYMENT_PLAN.md)
 - [Claim boundary note](AETHER_FLOW_CLAIM_BOUNDARY.md)
 - [Naming and vocabulary note](AETHER_FLOW_NAMING_AND_VOCABULARY.md)
 
