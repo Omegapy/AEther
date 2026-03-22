@@ -1,8 +1,20 @@
 # The Æther-Flow Interpretation of Relativity
 
-This repository's flagship public deliverable is the overview-first exact-closure package for `The Æther-Flow Interpretation of Relativity`.
+This repository documents theoretical research by Alexander Samuel Ricciardi, developed using the Codex App with GPT-5.4 at Ultra High reasoning effort and grounded in his `Æther / Æther-flow` ontology.
+
+Its flagship public deliverable is the overview-first exact-closure package for `The Æther-Flow Interpretation of Relativity`.
 
 The active public theory statement is exact relativistic adoption and exact closure within the `Æther / Æther-flow` interpretation. GR is adopted exactly at the operational level. A completed first-principles substrate derivation is not yet claimed.
+
+## Research Provenance
+
+- This repository should be read as human-led theoretical research by Alexander Samuel Ricciardi.
+- The originating conceptual basis is Ricciardi's `Æther / Æther-flow` ontology.
+- The research and drafting workflow used the Codex App with GPT-5.4 at Ultra High reasoning effort as a sustained research assistant.
+- GPT-5.4 assisted with drafting, mathematical exploration, branch screening, organization, and revision under Ricciardi's direction.
+- AI is not being presented as an accountable scientific author, and the work remains open to human expert technical review.
+
+For the fuller provenance and workflow note, see [docs/ai-collaboration-and-method.md](docs/ai-collaboration-and-method.md).
 
 ## Start Here
 
@@ -55,12 +67,6 @@ For the fuller boundary statement, see [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](docs
 - `manuscripts/retired/tex/` and `manuscripts/retired/pdf/`: archived tested side branches
 - [DEPLOYMENT_PLAN.md](DEPLOYMENT_PLAN.md): public release plan
 - [RESEARCH_PLAN.md](RESEARCH_PLAN.md): broader research tracking
-
-## Research Provenance
-
-This project originated from the user's `Æther / Æther-flow` idea and was developed through sustained collaboration with GPT-5.4. The user supplied the conceptual direction, goals, and judgment calls. GPT-5.4 assisted with drafting, mathematical exploration, branch screening, organization, and revision.
-
-The repository should therefore be read as AI-assisted theoretical research under human direction. AI is not being presented as an accountable scientific author, and the work remains open to human expert technical review.
 
 ## Build
 

@@ -6,8 +6,10 @@ This repository should be read as AI-assisted theoretical research carried out u
 
 ## Provenance
 
-- The original conceptual direction came from the user.
-- GPT-5.4 assisted with drafting, mathematical exploration, branch screening, organization, and revision.
+- The research is led by Alexander Samuel Ricciardi.
+- The original conceptual basis is Ricciardi's `Æther / Æther-flow` ontology.
+- The work was developed using the Codex App with GPT-5.4 at Ultra High reasoning effort.
+- GPT-5.4 assisted with drafting, mathematical exploration, branch screening, organization, and revision under Ricciardi's direction.
 - The resulting repository is therefore neither purely solo-human drafting nor an autonomous AI product.
 
 ## What The Collaboration Did
