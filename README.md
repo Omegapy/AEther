@@ -29,15 +29,14 @@ This was not an agentic AI experiment. I prompted each task and monitored the AI
 - Observed expansion is interpreted as the three-dimensional appearance of a deeper four-dimensional ordered motion.
 - On this view, relativistic phenomena are not denied or replaced; they remain part of the measurable observer-level structure that the theory must account for exactly.
 - Gravity may be interpreted heuristically as the observer-level effect of matter locally reorganizing the surrounding `Æther-flow`, though this remains an interpretive picture rather than a completed first-principles derivation.
-- The ontology therefore provides the conceptual basis of the project, while the active theory line states the exact relativistic structure that is presently adopted mathematically.
+- The ontology therefore provides the conceptual basis of the project, while the exact-closure manuscripts preserved here state the relativistic structure that is presently adopted mathematically.
+
+## What This Repository Preserves
+
+This repository preserves the manuscript line, curated release assets, and supporting documentation for `The Æther-Flow Interpretation of Relativity`.
 
 
-## The Active Theory Line
-
-This repository contains the active manuscript line, curated release assets, and supporting documentation for `The Æther-Flow Interpretation of Relativity`.
-
-
-The active public theory statement is the overview-first exact-closure package. Within that package, general relativity is adopted exactly as the operational relativistic sector with universal matter coupling, while the `Æther / Æther-flow` framework supplies the interpretive ontology. A completed first-principles substrate derivation is not yet claimed.
+The central theory package preserved in this repository is the overview-first exact-closure package. Within that package, general relativity is adopted exactly as the operational relativistic sector with universal matter coupling, while the `Æther / Æther-flow` framework supplies the interpretive ontology. A completed first-principles substrate derivation is not claimed here.
 
 ## Start Here
 
@@ -48,14 +47,15 @@ The active public theory statement is the overview-first exact-closure package. 
 - [Research Archive](docs/research-archive.md): downstream derivational bridge material and archive framing
 - [AI Collaboration and Method](docs/ai-collaboration-and-method.md): provenance and workflow transparency
 
-The `docs/` tree is the public GitHub Pages presentation layer and can be published directly from the repository's `docs/` folder when Pages is enabled.
+The `docs/` tree is the public GitHub Pages presentation layer for this preserved repository state and can be published directly from the repository's `docs/` folder when Pages is enabled.
 
 ## At A Glance
 
-- `The Æther-Flow Interpretation of Relativity` is the active exact relativistic theory statement.
-- The flagship deliverable is the overview-first exact-closure package.
-- GR is adopted exactly in the active package; it is not yet claimed as derived from substrate microphysics.
+- This repository is now a preserved reference line rather than the active working repository.
+- The flagship deliverable preserved here is the overview-first exact-closure package.
+- GR is adopted exactly in the package preserved here; it is not yet claimed there as derived from substrate microphysics.
 - The larger derivational bridge archive remains available for transparency and future work, but it is downstream and optional rather than the public front door.
+- A new active repository is planned for the derivational program that will attempt to recover GR from the `Æther / Æther-flow` framework.
 
 For the fuller boundary statement, see [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](docs/AETHER_FLOW_CLAIM_BOUNDARY.md). For naming and vocabulary, see [docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md](docs/AETHER_FLOW_NAMING_AND_VOCABULARY.md).
 
@@ -81,13 +81,13 @@ For the fuller boundary statement, see [docs/AETHER_FLOW_CLAIM_BOUNDARY.md](docs
 ## Repository Map
 
 - `docs/`: public Pages layer, curated release assets, and public-facing review material
-- `manuscripts/active/tex/`: active manuscript sources, including the exact-closure sequence and downstream bridge archive
-- `manuscripts/active/pdf/`: compiled active manuscript outputs
+- `manuscripts/active/tex/`: preserved manuscript sources in the legacy `active/` tree, including the exact-closure sequence and downstream bridge archive
+- `manuscripts/active/pdf/`: compiled outputs for the preserved manuscripts in the legacy `active/` tree
 - `manuscripts/retired/tex/` and `manuscripts/retired/pdf/`: archived tested side branches
 
 ## Build
 
-Compile active manuscripts from `manuscripts/active/tex/` and write outputs into `manuscripts/active/pdf/`:
+Compile the preserved manuscripts from the legacy `manuscripts/active/tex/` tree and write outputs into `manuscripts/active/pdf/`:
 
 - `pdflatex -output-directory=manuscripts/active/pdf manuscripts/active/tex/aether_flow_exact_closure_flagship_article.tex`
 - `pdflatex -output-directory=manuscripts/active/pdf manuscripts/active/tex/aether_flow_exact_closure_sequence_overview.tex`
@@ -104,6 +104,21 @@ The remaining package manuscripts in `manuscripts/active/tex/` can be compiled t
 - AI is not being presented as an accountable scientific author, and the work remains open to human expert technical review.
 
 For the fuller provenance and workflow note, see [docs/ai-collaboration-and-method.md](docs/ai-collaboration-and-method.md).
+
+## Repository Status
+
+This repository is no longer intended to be the active working repository of the project. It now serves as the preserved record of the current exact-closure package, the surrounding manuscript archive, and the AI-assisted research path that led to this stage.
+
+The next active line is planned to move into a new repository focused on attempting a first-principles derivation of GR from `The Æther-Flow Interpretation of Relativity`. That repository has not yet been created.
+
+### Planned Active Repository Placeholder
+
+- Status: not yet created
+- Purpose: pursue the derivational line that attempts to recover GR from the `Æther / Æther-flow` framework
+- Repository name: `TBD`
+- Repository link: `TBD`
+
+Update this section once the new active repository exists.
 
 ## License
 
