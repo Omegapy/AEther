@@ -1,6 +1,6 @@
 # The Æther-Flow Interpretation of Relativity
-![The Æther Project ](https://github.com/user-attachments/assets/db15a23d-6e2a-4dab-9a02-eb9b48ece7a2)
-This repository documents theoretical research by Alexander Samuel Ricciardi, developed using the Codex App with GPT-5.4 at Ultra High reasoning effort and grounded in his `Æther / Æther-flow` ontology.
+![The Æther-Flow Project ](https://github.com/user-attachments/assets/589d6d9e-fa70-497c-aa31-6561d299584c)
+
 
 Its flagship public deliverable is the overview-first exact-closure package for `The Æther-Flow Interpretation of Relativity`.
 
