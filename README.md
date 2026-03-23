@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This repository documents an AI-assisted experiment in theoretical physics research. I used the Codex App with GPT-5.4 at Ultra High reasoning effort to investigate whether my `Æther-flow` interpretation of relativity could be developed into a viable interpretation of relativity and expanded into a structured research line.
+This repository documents an AI experiment in theoretical physics research. I used the Codex App with GPT-5.4 at Ultra High reasoning effort to investigate whether my `Æther-flow` interpretation of relativity could be developed into a viable interpretation of relativity and expanded into a structured research line.
 
 GPT-5.4 was given [Æther and Æther-Flow](Æther_and_Æther-Flow.md), my original statement of the concept, as its starting point. The underlying `Æther and Æther-Flow` concept is my idea, not the AI's. The AI's role was to rewrite, formalize, expand, and organize that original idea in more academic language.
 
