@@ -1,8 +1,6 @@
-
-![The Æther-Flow Project ](https://github.com/user-attachments/assets/589d6d9e-fa70-497c-aa31-6561d299584c)
-
 # The Æther-Flow Interpretation of Relativity
 
+![The Æther-Flow Project ](https://github.com/user-attachments/assets/589d6d9e-fa70-497c-aa31-6561d299584c)
 ---
 
 <img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"> Alexander Ricciardi (Omega.py)
