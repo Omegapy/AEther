@@ -15,10 +15,10 @@ It was developed using the Codex App with GPT-5.4 at Ultra High reasoning effort
 
 GPT-5.4 was asked to investigate whether my `Æther-flow` interpretation of relativity could be developed as a valid interpretation of relativity and to expand upon it.  
 The model was given [Æther and Æther-Flow](AEther and AEther Flow.md), my original statement of the concept, as its starting point.  
-The initial interpretation was my idea, not the AI's.  
+The Æther and Æther-Flow concept is my idea, not the AI's.  
 Note: The AI rewrote the initial `Æther and Æther-Flow` document to be more formal and academic.  
 
-This was not an agentic AI experiment. I prompted each task and monitored the AI during this time, providing feedback and guidance. The experiment ran in average of 6 hours per day for 14 days. The LaTeX format was used to format the documents for AI use, and PDF was used for human readability.  
+This was not a fully autonomous AI experiment. I prompted each task and monitored the AI during this time, providing feedback and guidance. The experiment ran in average of 6 hours per day for 14 days. The LaTeX format was used to format the documents for AI use, and PDF was used for human readability.  
 
 ## Summary of the Æther and Æther-Flow Concept
 
@@ -29,7 +29,7 @@ This was not an agentic AI experiment. I prompted each task and monitored the AI
 - Observed expansion is interpreted as the three-dimensional appearance of a deeper four-dimensional ordered motion.
 - On this view, relativistic phenomena are not denied or replaced; they remain part of the measurable observer-level structure that the theory must account for exactly.
 - Gravity may be interpreted heuristically as the observer-level effect of matter locally reorganizing the surrounding `Æther-flow`, though this remains an interpretive picture rather than a completed first-principles derivation.
-- The ontology therefore provides the conceptual basis of the project, while the exact-closure manuscripts preserved here state the relativistic structure that is presently adopted mathematically.
+- The ontology, therefore, provides the conceptual basis of the project, while the exact-closure manuscripts preserved here state the relativistic structure that is presently adopted mathematically.
 
 ## What This Repository Preserves
 
