@@ -17,7 +17,7 @@ This was not a fully autonomous AI experiment. I prompted each task, monitored t
 
 The experiment produced the theory package titled `The Æther-Flow Interpretation of Relativity`, based on my [Æther_and_Æther-Flow.md](Æther_and_Æther-Flow.md) concept. The preserved manuscript set includes 7 exact-closure articles supporting the theory, 1 front-facing flagship article, and 87 research articles in total.
 
-I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would genuinely welcome your feedback.
+I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would welcome your feedback.
 
 ## Summary of the Æther and Æther-Flow Concept
 
