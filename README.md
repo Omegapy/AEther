@@ -9,16 +9,15 @@
 
 ## Introduction
 
-This repository documents an AI experiment in theoretical physics research. The goal is to research whether an AI can develop a new feasible interpretation of relativity from a concept.
+This repository documents an AI-assisted experiment in theoretical physics research. I used the Codex App with GPT-5.4 at Ultra High reasoning effort to investigate whether my `Æther-flow` interpretation of relativity could be developed into a viable interpretation of relativity and expanded into a structured research line.
 
-It was developed using the Codex App with GPT-5.4 at Ultra High reasoning effort and grounded in the `Æther / Æther-flow` concept.
+GPT-5.4 was given [Æther and Æther-Flow](Æther_and_Æther-Flow.md), my original statement of the concept, as its starting point. The underlying `Æther and Æther-Flow` concept is my idea, not the AI's. The AI's role was to rewrite, formalize, expand, and organize that original idea in more academic language.
 
-GPT-5.4 was asked to investigate whether my `Æther-flow` interpretation of relativity could be developed as a valid interpretation of relativity and to expand upon it.  
-The model was given [Æther and Æther-Flow](Æther_and_Æther-Flow.md), my original statement of the concept, as its starting point.  
-The Æther and Æther-Flow concept is my idea, not the AI's.  
-Note: The AI rewrote the initial `Æther and Æther-Flow` document to be more formal and academic.  
+This was not a fully autonomous AI experiment. I prompted each task, monitored the work throughout, and provided feedback and guidance during the process. The experiment ran for an average of 6 hours per day over 14 days. LaTeX was used as the working format for AI-assisted drafting, and PDF was used for human readability.
 
-This was not a fully autonomous AI experiment. I prompted each task and monitored the AI during this time, providing feedback and guidance. The experiment ran in average of 6 hours per day for 14 days. The LaTeX format was used to format the documents for AI use, and PDF was used for human readability.  
+The experiment produced the theory package titled `The Æther-Flow Interpretation of Relativity`, based on my [Æther_and_Æther-Flow.md](Æther_and_Æther-Flow.md) concept. The preserved manuscript set includes 7 exact-closure articles supporting the theory, 1 front-facing flagship article, and 87 research articles in total.
+
+I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would genuinely welcome your feedback.
 
 ## Summary of the Æther and Æther-Flow Concept
 
