@@ -18,7 +18,7 @@ The experiment ran for an average of 6 hours per day over 14 days. LaTeX was use
 The experiment produced a manuscript theory package titled `The Æther-Flow Interpretation of Relativity`, based on my [Æther_and_Æther-Flow.md](Æther_and_Æther-Flow.md) concept. The manuscript set includes 7 exact-closure articles supporting the theory, 1 front-facing flagship article, and 87 research articles in total.
 
 I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would welcome your feedback.
-I am interested in how viable the process I used is for generating theoretical physics research.
+I am interested in how viable the process I used is for generating theoretical physics research.  
 
 ## Summary of the Æther and Æther-Flow Concept
 
