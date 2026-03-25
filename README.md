@@ -7,6 +7,9 @@
 
 This project is also hosted here: [AngryOwl/The-AEther](https://github.com/AngryOwlAI/The-AEther)
 
+Futher research, the derivating of General Relativity from "The Æther-Flow Interpretation of Relativity" can be found here:
+[AngryOwl/The-AEther-GR-Derivation](https://github.com/AngryOwlAI/The-AEther-GR-Derivation)
+
 ---
 
 ## Introduction
